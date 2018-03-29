@@ -1,0 +1,116 @@
+---
+title: "Untitled"
+author: "Ziyang Zhou"
+date: "4/21/2017"
+output: html_document
+---
+
+```{r}
+setwd("~/Desktop/STAT198/Data_reproduce")
+VertebrateDF <-read.csv("Vertebrate_Extinction_Year_Berkerley_2017.csv")
+```
+
+
+```{r}
+vertEX <-  VertebrateDF
+vertEX$CateNo <- rep(0, nrow(vertEX))
+vertEX$CateNo[vertEX$Class == "AVES"] <- 1  #denote aves as 1
+vertEX$CateNo[vertEX$Class == "MAMMALIA"] <- 2  #denote mammal as 2
+
+EXbird <- vertEX[vertEX$CateNo == 1, ]
+EXother <- vertEX[vertEX$CateNo == 0, ]
+EXmammal <- vertEX[vertEX$CateNo == 2, ]
+
+#vertebrate
+EXverte.Groups <- aggregate(vertEX$Species, by = list(cut(vertEX$Year.extinct,
+                                                           breaks = c(seq(1500,1900,100), 2010),
+                                                           include.lowest = T)), FUN = length)
+colnames(EXverte.Groups) <- c("TimeInterval", "Num")
+EXverte.Groups$CumSum <- cumsum(EXverte.Groups$Num)
+EXverte.Groups$CumPer <- (EXverte.Groups$CumSum/39223)*100
+EXverte.Groups$category <- rep("vertebrate", nrow(EXverte.Groups))
+
+
+#birds
+EXbird.Groups <- aggregate(EXbird$Species, by = list(cut(EXbird$Year.extinct,
+                                                           breaks = c(seq(1500,1900,100), 2010),
+                                                         include.lowest = T)), FUN = length)
+colnames(EXbird.Groups) <- c("TimeInterval", "Num")
+EXbird.Groups$CumSum <- cumsum(EXbird.Groups$Num)
+EXbird.Groups$CumPer <- (EXbird.Groups$CumSum/10425)*100
+EXbird.Groups$category <- rep("bird", nrow(EXbird.Groups))
+
+#others
+EXother.Groups <- aggregate(EXother$Species, by = list(cut(EXother$Year.extinct,
+                                                           breaks = c(seq(1500,1900,100), 2010),
+                                                           include.lowest = T)), FUN = length)
+colnames(EXother.Groups) <- c("TimeInterval", "Num")
+EXother.Groups$CumSum <- cumsum(EXother.Groups$Num)
+EXother.Groups$CumPer <- (EXother.Groups$CumSum/23285)*100
+#row2 <- c("1600-1700", 0, 0, 0)
+#EXother.Groups <- insertRow(EXother.Groups, row2,2)
+EXother.Groups$category <- rep("other", nrow(EXother.Groups))
+
+#mammals
+EXmammal.Groups <- aggregate(EXmammal$Species, by = list(cut(EXmammal$Year.extinct,
+                                                           breaks = c(seq(1500,1900,100), 2010),
+                                                           include.lowest = T)), FUN = length)
+colnames(EXmammal.Groups) <- c("TimeInterval", "Num")
+EXmammal.Groups$CumSum <- cumsum(EXmammal.Groups$Num)
+EXmammal.Groups$CumPer <- (EXmammal.Groups$CumSum/5513)*100
+EXmammal.Groups$category <- rep("mammal", nrow(EXmammal.Groups))
+
+#background
+xx <- rep(0,5)
+x <- seq(8.7, by = 8.7, length.out = 5)
+perx <- (x/43500)*100
+Num <- rep(8.7,5)
+cate <- rep("Background", 5)
+EXbackRate <- data.frame(xx,Num, x,perx, cate)
+colnames(EXbackRate) <- c("TimeInterval","Num","CumSum","CumPer","category")
+
+#bind the data frame
+EXtot <- rbind(EXverte.Groups, EXbird.Groups)
+EXtot <- rbind(EXtot, EXother.Groups)
+EXtot <- rbind(EXtot, EXmammal.Groups)
+#EXtot <- EXtot[, c(1,4,5)]
+EXtot <- rbind(EXtot, EXbackRate)
+EXtot[,1] <- rep(c("1500~1600",
+                  "1600~1700",
+                  "1700~1800",
+                  "1800~1900",
+                  "1900~2009"), 5)
+
+EXtot$Num <- as.numeric(EXtot$Num)
+EXtot$CumSum <- as.numeric(EXtot$CumSum)
+EXtot$CumPer <- as.numeric(EXtot$CumPer)
+EXtot$category <- as.factor(EXtot$category)
+
+save(EXtot, file = "conservative_origin.rda")
+```
+
+
+```{r}
+#Highly conservative
+#since 1500
+NumSince1500 <- c(nrow(vertEX),nrow(EXmammal),nrow(EXbird),nrow(EXother))
+NumSince1900 <- c(nrow(vertEX[vertEX$Year.extinct >= 1900, ]),
+                  nrow(EXmammal[EXmammal$Year.extinct >= 1900, ]),
+                  nrow(EXbird[EXbird$Year.extinct >= 1900, ]),
+                  nrow(EXother[EXother$Year.extinct >= 1900, ]))
+dfNum <- data.frame(NumSince1500,NumSince1900)
+rownames(dfNum) <- c("Vertebrate", "Mammal", "Birds", "Others")
+
+```
+
+```{r}
+kable(dfNum, row.names = T, align = "c", caption = "Conservative")
+```
+[1] "|           | NumSince1500 | NumSince1900 |"
+[2] "|:----------|:------------:|:------------:|"
+[3] "|Vertebrate |     545      |     407      |"
+[4] "|Mammal     |     105      |      63      |"
+[5] "|Birds      |     139      |      56      |"
+[6] "|Others     |     301      |     288      |"
+
+

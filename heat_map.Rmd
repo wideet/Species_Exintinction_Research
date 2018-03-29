@@ -1,0 +1,73 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(plyr) #package to create frequency data frame
+library(ggplot2) #package to create map
+library(maps) #package that contains map data such as lat-lon for every country
+
+#loading the map data for the globe
+#gives data on a country level
+map = map_data("world")
+
+#load data for all extinct species
+extinct = read.csv("C:/Users/Wideet/Species Extinction Research/Data_Files/extinct_dates_and_cleaned_locations.csv")
+
+```
+
+```{r}
+###The following code is commented out as it should only be run once. The area for each country was manually input, and this code would overwrite the manually input data
+
+###Create frequency data frame for each country using count function from plyr package
+#extinct_freq = count(extinct, 'location')
+
+###Format the data frame to cleanly merge with the map_data
+#names(extinct_freq)[1] = 'region'
+#extinct_freq$region = as.character(levels(extinct_freq$region))
+```
+
+```{r}
+#Load the frequency data frame with the manually input areas for each country
+extinct_freq_w_area = read.csv("C:/Users/Wideet/Species Extinction Research/Data_Files/extinct_freq.csv", stringsAsFactors = FALSE)
+
+#Format the columns as numeric vectors to allow for division
+extinct_freq_w_area$area..km.2. <- as.numeric(gsub(",","",extinct_freq_w_area$area..km.2.))
+extinct_freq_w_area$freq = as.numeric(extinct_freq_w_area$freq)
+
+#Create the proportion for each country (number of extinctions / area)
+extinct_freq_w_area$prop = extinct_freq_w_area$freq / extinct_freq_w_area$area..km.2.
+```
+
+
+```{r}
+#Merge the data frames and deal with NA values
+all_data = merge(extinct_freq_w_area, map, all.y = TRUE)
+all_data$freq[is.na(all_data$freq)] = 0
+all_data$area..km.2.[is.na(all_data$area..km.2.)] = 0
+all_data$prop[is.na(all_data$prop)] = 0
+```
+
+
+```{r}
+#order the regions alphabetically
+all_data = all_data[order(all_data$region),]
+map = map[order(map$region),]
+
+#transfer the appropriate vectors to the map data
+map$freq = all_data$freq
+map$prop = all_data$prop
+
+#Frequency Map with USA data
+ggplot() + geom_polygon(data = map, aes(x = long, y = lat, group = group, fill = freq), color = "grey") + scale_fill_distiller(palette = "Spectral", name = "Extinction Frequency")
+
+#Freqyency Map removing USA data
+map$freq[map$region == 'USA'] = 0
+ggplot() + geom_polygon(data = map, aes(x = long, y = lat, group = group, fill = freq), color = "grey") + scale_fill_distiller(palette = "Spectral", name = "Extinction Frequency")
+```
+

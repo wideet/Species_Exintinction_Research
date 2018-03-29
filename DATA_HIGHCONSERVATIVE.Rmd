@@ -1,0 +1,122 @@
+---
+title: "Untitled"
+author: "Ziyang Zhou"
+date: "4/5/2017"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r}
+require(knitr)
+setwd('~/Desktop/STAT_198/Data')
+dfExtinct <- read.csv('extinct_dates_and_location.csv')
+dfExtinct <- na.omit(dfExtinct[,c(2,3,4,5,6,7,8,9,25,26)])
+#dfExtinct$category <- rep('EX', nrow(dfExtinct))
+insertRow <- function(existingDF, newrow, r) {
+  existingDF[seq(r+1,nrow(existingDF)+1),] <- existingDF[seq(r,nrow(existingDF)),]
+  existingDF[r,] <- newrow
+  existingDF
+}
+```
+
+```{r}
+#(IUCN)International Union for Conservation of Nature 2016
+# mammal - 5567; aves - 11121; reptilia - 5338; amphibia - 6543; act. (fish) - 14931 total - 43500;
+#plot.a
+#define groups 
+# 1 for birds, 2 for other, 0 for mammals; 
+# All vertebrates all in phylum "chordata"
+# vertebrates group, in 5 categories
+EXverte <- dfExtinct[dfExtinct$Phylum == "CHORDATA", ]
+EXverte$Animal_Group <- rep(2,nrow(EXverte))
+EXverte$Animal_Group[EXverte$Class == "MAMMALIA"] <- 0 
+EXverte$Animal_Group[EXverte$Class == "AVES"] <- 1
+EXbird <- EXverte[EXverte$Animal_Group == 1, ]
+EXother <- EXverte[EXverte$Animal_Group == 2, ]
+EXmammal <- EXverte[EXverte$Animal_Group == 0, ]
+
+EXverte.Groups <- aggregate(EXverte$Species, by = list(cut(EXverte$last_seen,
+                                                           breaks = c(seq(1500,1900,100), 2001),
+                                                           include.lowest = T)), FUN = length)
+colnames(EXverte.Groups) <- c("TimeInterval", "Num")
+EXverte.Groups$CumSum <- cumsum(EXverte.Groups$Num)
+EXverte.Groups$CumPer <- (EXverte.Groups$CumSum/43500)*100
+EXverte.Groups$category <- rep("vertebrate", nrow(EXverte.Groups))
+
+# bird group, in 5 categories
+EXbird.Groups <- aggregate(EXbird$Species, by = list(cut(EXbird$last_seen,
+                                                           breaks = c(seq(1500,1900,100), 2001),
+                                                           include.lowest = T)), FUN = length)
+colnames(EXbird.Groups) <- c("TimeInterval", "Num")
+EXbird.Groups$CumSum <- cumsum(EXbird.Groups$Num)
+EXbird.Groups$CumPer <- (EXbird.Groups$CumSum/11121)*100
+EXbird.Groups$category <- rep("bird", nrow(EXbird.Groups))
+
+# other group, in 5 categories
+EXother.Groups <- aggregate(EXother$Species, by = list(cut(EXother$last_seen,
+                                                           breaks = c(seq(1500,1900,100), 2001),
+                                                           include.lowest = T)), FUN = length)
+colnames(EXother.Groups) <- c("TimeInterval", "Num")
+EXother.Groups$CumSum <- cumsum(EXother.Groups$Num)
+EXother.Groups$CumPer <- (EXother.Groups$CumSum/26812)*100
+row2 <- c("1600-1700", 0, 0, 0)
+EXother.Groups <- insertRow(EXother.Groups, row2,2)
+EXother.Groups$category <- rep("other", nrow(EXother.Groups))
+
+# mammal group, in 5 categories
+EXmammal.Groups <- aggregate(EXmammal$Species, by = list(cut(EXmammal$last_seen,
+                                                           breaks = c(seq(1500,1900,100), 2001),
+                                                           include.lowest = T)), FUN = length)
+colnames(EXmammal.Groups) <- c("TimeInterval", "Num")
+EXmammal.Groups$CumSum <- cumsum(EXmammal.Groups$Num)
+EXmammal.Groups$CumPer <- (EXmammal.Groups$CumSum/5567)*100
+EXmammal.Groups$category <- rep("mammal", nrow(EXmammal.Groups))
+
+xx <- rep(0,5)
+x <- seq(8.7, by = 8.7, length.out = 5)
+perx <- (x/43500)*100
+Num <- rep(8.7,5)
+cate <- rep("Background", 5)
+EXbackRate <- data.frame(xx,Num, x,perx, cate)
+colnames(EXbackRate) <- c("TimeInterval","Num","CumSum","CumPer","category")
+
+EXtt <- rbind(EXverte.Groups, EXbird.Groups)
+EXtt <- rbind(EXtt, EXother.Groups)
+EXtt <- rbind(EXtt, EXmammal.Groups)
+#EXtt <- EXtt[, c(1,4,5)]
+EXtt <- rbind(EXtt, EXbackRate)
+EXtt[,1] <- rep(c("1500~1600",
+                  "1600~1700",
+                  "1700~1800",
+                  "1800~1900",
+                  "1900~2009"), 5)
+
+EXtt$Num <- as.numeric(EXtt$Num)
+EXtt$CumSum <- as.numeric(EXtt$CumSum)
+EXtt$CumPer <- as.numeric(EXtt$CumPer)
+EXtt$category <- as.factor(EXtt$category)
+
+save(EXtt, file = "highlyconservative.rda")
+
+```
+
+
+```{r}
+#Highly conservative
+#since 1500
+NumSince1500 <- c(nrow(EXverte),nrow(EXmammal),nrow(EXbird),nrow(EXother))
+NumSince1900 <- c(nrow(EXverte[EXverte$last_seen >= 1900, ]),
+                  nrow(EXmammal[EXmammal$last_seen >= 1900, ]),
+                  nrow(EXbird[EXbird$last_seen >= 1900, ]),
+                  nrow(EXother[EXother$last_seen >= 1900, ]))
+dfNum <- data.frame(NumSince1500,NumSince1900)
+rownames(dfNum) <- c("Vertebrate", "Mammal", "Birds", "Others")
+
+```
+
+```{r}
+#table of counts
+kable(dfNum, row.names = T, align = "c", caption = "Highly Conservative")
+```
+

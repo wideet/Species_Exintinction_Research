@@ -1,0 +1,44 @@
+---
+title: "PE_DATA"
+author: "Ziyang Zhou"
+date: "4/5/2017"
+output: html_document
+---
+```{r}
+setwd("~/Desktop/STAT 198/Data")
+AF <- read.csv('AF.csv')
+FS <- read.csv('FS.csv')
+MBR <- read.csv('MBR.csv')
+RA <- read.csv('RA.csv')
+
+#modify AF data set #58 left
+AF <- AF[AF$last_seen != "?",]
+AF$last_seen <- sapply(AF$last_seen, function(x){gsub("s","",x)}) 
+AF$last_seen <- sapply(AF$last_seen, function(x){gsub("mid-1980","1985",x)}) 
+AF$last_seen <- sapply(AF$last_seen, function(x){gsub("1976 or 1988","1982",x)}) 
+AF$last_seen <- sapply(AF$last_seen, function(x){gsub("early 20th century","1920",x)})
+
+#modify FS data set #72 left
+FS <- FS[FS$last_seen != "?",]
+FS$last_seen <- sapply(FS$last_seen, function(x){gsub("s","",x)})
+FS$last_seen <- sapply(FS$last_seen, function(x){gsub("mid-19th century","1850",x)})
+
+#modify MBR data set #55 left
+MBR <- MBR[MBR$last_seen != "?",]
+MBR$last_seen <- sapply(MBR$last_seen, function(x){gsub("s","",x)})
+MBR$last_seen <- sapply(MBR$last_seen, function(x){gsub("19th or early 20th Century","1920",x)})
+MBR$last_seen <- sapply(MBR$last_seen, function(x){gsub("1886-1888","1887",x)})
+MBR$last_seen <- sapply(MBR$last_seen, function(x){gsub("1969/70","1969",x)})
+
+#modify RA data set #66 left
+RA <- RA[RA$last_seen != "?",]
+RA$last_seen <- sapply(RA$last_seen, function(x){gsub("s","",x)})
+RA$last_seen <- sapply(RA$last_seen, function(x){gsub("1857-1858","1857",x)})
+
+#combine all the data for PE
+PE <- rbind(AF,FS,MBR,RA)
+
+#save data frame
+save(PE,file = "PotentiallyExtinct.rda")
+```
+

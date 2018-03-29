@@ -1,0 +1,241 @@
+---
+title: "species Extinction Project"
+date: "2/7/2017"
+output: pdf_document
+---
+
+## Data Collection
+
+```{r}
+#collect data from csv
+EX = read.csv(file = "~/Desktop/spring 2017/stats 198/extinct.csv", header = TRUE, sep = ",")
+#the two ex files give different numbers of data; use the second one for now;
+ex = read.csv(file = "~/Downloads/extinct_dates_and_location.csv", header = TRUE, sep = ",")
+EW = read.csv(file = "~/Downloads/extinct_in_wild_dates_and_location.csv", header = TRUE, sep = ",")
+EN = read.csv(file = "~/Downloads/endangered_location.csv", header = TRUE, sep = ",")
+CR = read.csv(file = "~/Downloads/critically_endangered_location.csv", header = TRUE, sep = ",")
+```
+
+
+## Analysis and Plots
+
+Reproduce Figure 2: highly conservative group
+bgr = 2 E/MSY = 2 extionctions per million species year  = 2 ext per 10,000 species per 100 years
+CORRECTION: based on n = (39,223) species. n/10,000 * 2 = y expected extinction in 100 years;
+total EX (477) / y = z. 100*z years is what we needed.
+
+Mine original approach: (# extinct mammals) / total # mammals since 1900 /0.0002*100(or 114 or 116)
+
+```{r}
+ex20c = subset(ex, ex$last_seen >= 1900)
+ex20c = subset(ex20c, ex20c$Phylum == "CHORDATA")
+as.data.frame(table(ex20c$Class))
+
+ex20cna = ex[-which(ex$last_seen != "NA"),]
+ex20cna = rbind(ex20cna, ex20c)
+as.data.frame(table(ex20cna$Class))
+
+df = data.frame(c("Fishes", "Amphibians", "Reptiles", "Birds", "Mammals", "Vertebrates"), c(34,10,5,45,29,123), c(66,32,8,57,35,198), c(14931,6534,5338,11121,5567,43491), c(12457,6414,4414,10425,5513,39223))
+colnames(df) = c("Species", "#ext1900noNA", "#ext1900art", "#popeval2016", "#popevalart")
+# we use different total species
+df$"artyears114" = df[[3]]/(df[[5]]/10000*2)*114
+df$"artyears100" = df[[3]]/(df[[5]]/10000*2)*100 # article uses this
+df$"ownyears116" = df[[2]]/(df[[4]]/10000*2)*116
+df$"ownyears100" = df[[2]]/(df[[4]]/10000*2)*100
+
+df$"#ext1900+NA" = c(63,33,14,56,53,219)
+# write.csv(df, file = "~/Downloads/df.csv")
+```
+
+Compare results calculated using article data and own data; 
+```{r}
+library(ggplot2)
+ggplot(df) + geom_point(aes(x = Species, y = artyears100)) + geom_point(aes(x = Species, y = ownyears116), color = "green") + geom_point(aes(x = Species, y = ownyears100), color = "red") + ylab("years") + theme_bw()
+ggsave("highly conservative", device = "png", path = "~/Downloads", width = 6, height = 4, dpi = 500)
+# + theme(legend.position = "right") + guides(color = "legend") + scale_fill_discrete(name = "Legend", labels = c("article","own 116","own 100"))
+```
+
+Reproduce Conservative group: EX+EW+CR(PE)
+```{r}
+# get EW data and combine with EX
+ew20c = subset(EW, EW$last_seen >= 1900)
+ew20c = subset(ew20c, ew20c$Phylum == "CHORDATA")
+consdf = rbind(ex20c, ew20c)
+as.data.frame(table(consdf$Class))
+df2 = df
+df2[[2]] = c(35, 11, 5, 50, 30, 131)
+df2[[3]] = c(158, 146, 24, 80, 69, 477)
+df2 = df2[, -10]
+
+# read PDF into r; extract PE information
+library(pdftools)
+pe_pew = pdf_text("~/Desktop/2016_3_RL_Stats_Table_9.pdf")
+pe_pew = pe_pew[1:4] # vertebrates end at page 4
+
+for (i in 1:4) {
+  pe_pew[i] = strsplit(pe_pew[i], "Category\n")[[1]][[2]]
+}
+
+# mammals, birds and part of reptiles
+MBR = unlist(strsplit(pe_pew[1],"\n"))
+grep("^[A-Z]+$", MBR) # distinguish classes
+MBR = as.data.frame(MBR, stringsAsFactors = FALSE)
+MBR[2] = rep(c("MAMMALS", "BIRDS", "REPTILES"), c(32,23,9))
+MBR = MBR[c(-1,-33,-56),]
+colnames(MBR) = c("corpus", "class")
+mbr = sapply(MBR$corpus, strsplit, " +")
+
+# wk 7 CHALLENGE: looking for an easier way to collect data; 
+
+# wk 8 begins here:
+
+for (i in 1:61) {
+  MBR[i,3] = mbr[[i]][1]
+  MBR[i,4] = mbr[[i]][2]
+  MBR[i,5] = mbr[[i]][length(mbr[[i]])-2]
+  MBR[i,6] = grep("[0-9]{4}",mbr[[i]], value = TRUE)[1]
+  MBR[i,7] = mbr[[i]][length(mbr[[i]])]
+}
+colnames(MBR) = c("corpus", "class", "genus", "species", "status", "year.assessed", "last_seen")
+
+x = grep("\\(", MBR$status, invert = TRUE)
+x
+# x is a vector indicating rows that are abnormal
+# notice only one species "Cyanopsitta spixii" is PEW, and all others are PE. 
+# So removing it or not does not make much difference. I decide to keep it.
+MBR[x,5] = "CR(PE)"
+MBR[28,7] = "1886-1888"
+MBR[56,7] = "19th or early 20th Century"
+MBR = MBR[c(-27,-29),]
+```
+MBR[18,7] remains but if needed, change to "Before 1948"
+MBR[19,7] remains but if needed, change to "Possibly 1997"
+MBR[25,7] remains but if needed, change to "Before 1930"
+MBR[28,7] = "1886-1888" # if needed, change to "1886-1888 confirmed; 1960s possible"
+MBR[30,7] remains but if needed, change to "presumbly 1886-1888"
+MBR[56,7] = "19th or early 20th Century"
+MBR[59,7] remains but if needed, change to "before 1879"
+
+```{r}
+# reptiles and amphibians
+RA = unlist(strsplit(pe_pew[2],"\n")) 
+grep("^[A-Z]+$", RA)
+RA = as.data.frame(RA, stringsAsFactors = FALSE)
+RA[2] = rep(c("REPTILES","AMPHIBIANS"), c(30,49))
+RA = RA[c(-31),]
+ra = sapply(RA$RA, strsplit, " +")
+for (i in 1:78) {
+  RA[i,3] = ra[[i]][1]
+  RA[i,4] = ra[[i]][2]
+  RA[i,5] = ra[[i]][length(ra[[i]])-2]
+  RA[i,6] = grep("[0-9]{4}",ra[[i]], value = TRUE)[1]
+  RA[i,7] = ra[[i]][length(ra[[i]])]
+}
+colnames(RA) = c("corpus", "class", "genus", "species", "status", "year.assessed", "last_seen")
+x = grep("\\(", RA$status, invert = TRUE)
+RA[x,5] = "CR(PE)"
+```
+RA[21,7] remains but if needed, change to "before 1983"
+RA[33,7] remains but if needed, change to "24 December 1940"
+RA[41,7] remains but if needed, change to "Late 1990s"
+
+```{r}
+# amphibians and fishes
+AF = unlist(strsplit(pe_pew[3],"\n")) 
+grep("^[A-Z]+$", AF)
+AF = as.data.frame(AF, stringsAsFactors = FALSE)
+AF[2] = rep(c("AMPHIBIANS","FISHES"), c(65,14))
+AF = AF[c(-66),]
+af = sapply(AF$AF, strsplit, " +")
+for (i in 1:78) {
+  AF[i,3] = af[[i]][1]
+  AF[i,4] = af[[i]][2]
+  AF[i,5] = af[[i]][length(af[[i]])-2]
+  AF[i,6] = grep("[0-9]{4}",af[[i]], value = TRUE)[1]
+  AF[i,7] = af[[i]][length(af[[i]])]
+}
+colnames(AF) = c("corpus", "class", "genus", "species", "status", "year.assessed", "last_seen")
+x = grep("\\(", AF$status, invert = TRUE)
+AF[x,5] = "CR(PE)"
+AF[11,7] = "1976 or 1988"
+AF[66,7] = "early 20th century"
+```
+AF[51,7] remains but if needed, change to "9 August 1976"
+AF[65,7] remains but if needed, change to "Before 1998"
+AF[71,7] remains but if needed, change to "Early 1980s"
+
+```{r}
+# fishes and (spiders, exclude)
+FS = unlist(strsplit(pe_pew[4],"\n"))
+grep("^[A-Z]+$", FS)
+FS = as.data.frame(FS, stringsAsFactors = FALSE)
+FS[2] = rep(c("FISHES"), 79)
+FS = FS[c(-76,-77,-78,-79),]
+fs = sapply(FS$FS, strsplit, " +")
+for (i in 1:75) {
+  FS[i,3] = fs[[i]][1]
+  FS[i,4] = fs[[i]][2]
+  FS[i,5] = fs[[i]][length(fs[[i]])-2]
+  FS[i,6] = grep("[0-9]{4}",fs[[i]], value = TRUE)[1]
+  FS[i,7] = fs[[i]][length(fs[[i]])]
+}
+colnames(FS) = c("corpus", "class", "genus", "species", "status", "year.assessed", "last_seen")
+x = grep("\\(", FS$status, invert = TRUE)
+FS[x,5] = "CR(PE)"
+FS[74,7] = "mid-19th century"
+```
+FS[4,7] remains but if needed, change to "Late 1970s"
+FS[7,7] remains but if needed, change to "Late 1970s"
+FS[54,7] remains but if needed, change to "Late 1990s"
+
+```{r}
+# combine these dfs
+PE_PEW = rbind(MBR,RA,AF,FS)
+
+# if 4-digit number begins with "19.." or "20.." mid-1980s, early 20th
+x = grep("((19|20)[0-9]{2})|20th", PE_PEW$last_seen)
+length(x)
+PE_PEW = PE_PEW[x,]
+head(PE_PEW)
+
+# finish df2
+as.data.frame(table(PE_PEW$class))
+df2[,2] = df2[,2] + c(79,88,26,17,23,233)
+df2$"artyears114" = df2[[3]]/(df2[[5]]/10000*2)*114
+df2$"artyears100" = df2[[3]]/(df2[[5]]/10000*2)*100
+df2$"ownyears116" = df2[[2]]/(df2[[4]]/10000*2)*116
+df2$"ownyears100" = df2[[2]]/(df2[[4]]/10000*2)*100
+df2
+
+ggplot(df2) + geom_point(aes(x = Species, y = artyears100)) + geom_point(aes(x = Species, y = ownyears116), color = "green") + geom_point(aes(x = Species, y = ownyears100), color = "red") + ylab("years") + theme_bw()
+ggsave("conservative", device = "png", path = "~/Downloads", width = 6, height = 4, dpi = 500)
+
+# reproduce using article data
+ggplot() + geom_point(aes(x = df$Species, y = df$artyears100), color = "blue") + geom_point(aes(x = df2$Species, y = df2$artyears100), color = "red") + labs(x = "Species", y = "years") + theme_bw()
+ggsave("repo", device = "png", path = "~/Downloads", width = 6, height = 4, dpi = 500)
+```
+
+Analysis on comparing two approaches (mine and paper). Why is one better? 
+Actually the two methods are the same. The errors occur possibly because of the following reasons: 
+1. For article's data, I used 114 years instead of 100 years, which makes the dots appear greater than those in article. For our data, we have fewer extinct number and therefore using 116 years seems closer to the black dots (of article data) than 100 years. The question is, which period should be applied? 100 or actual number? 
+
+2. Even if I used 100 years for article data now, there is a little discrepancy between my plot and the plot in the article. It may caused by approximation: in the step (total # of species / 10,000 * 2) we calculated number of expected extinction in 100 years using background rate. This number is rounded to integer in the article, but I did not round it. The question is, should this number be rounded?
+
+3. The greatest two categories of gap are amphibians and fishes, because we missed most data in these two categories. For missing data, it is because we used simple regex and web scraping instead of manually copying. To get more data, we can try to change the way of regex, and to consider more situations. Not only 4-digit number, but also notice "century" or "XX-th," etc. 
+
+## Article's dataset
+```{r}
+require(gdata)
+arti = read.xls("~/Desktop/Vertebrate.xlsx", sheet = 1, header = TRUE)
+# conservative
+x = c(sum(arti$Class == "ACTINOPTERYGII" & arti$Year.extinct >= 1900), sum(arti$Class == "AMPHIBIA" & arti$Year.extinct >= 1900), sum(arti$Class == "REPTILIA" & arti$Year.extinct >= 1900), sum(arti$Class == "AVES" & arti$Year.extinct >= 1900), sum(arti$Class == "MAMMALIA" & arti$Year.extinct >= 1900))
+x[6] = sum(x)
+# highly conservative
+y = c(sum(arti$Class == "ACTINOPTERYGII" & arti$Year.extinct >= 1900 & arti$Category == "EX"), sum(arti$Class == "AMPHIBIA" & arti$Year.extinct >= 1900 & arti$Category == "EX"), sum(arti$Class == "REPTILIA" & arti$Year.extinct >= 1900 & arti$Category == "EX"), sum(arti$Class == "AVES" & arti$Year.extinct >= 1900 & arti$Category == "EX"), sum(arti$Class == "MAMMALIA" & arti$Year.extinct >= 1900 & arti$Category == "EX"))
+y[6] = sum(y)
+# using article's dataset, produce original result and 2016 result
+df_arti = data.frame(c("Fishes", "Amphibians", "Reptiles", "Birds", "Mammals","Vertebrates"), x/(df[[5]]/10000*2)*100, x/(df[[4]]/10000*2)*116, y/(df[[5]]/10000*2)*100, y/(df[[4]]/10000*2)*116)
+
+# blue and red correspond to original result (highly) conservative. light blue and pink correpond to 2016 result (highly) conservative
+ggplot() + geom_point(aes(x = df_arti[[1]], y = df_arti[[4]]), color = "blue") + geom_point(aes(x = df_arti[[1]], y = df_arti[[2]]), color = "red")+ geom_point(aes(x = df_arti[[1]], y = df_arti[[5]]), color = "light blue") + geom_point(aes(x = df_arti[[1]], y = df_arti[[3]]), color = "pink") + labs(x = "Species", y = "years") + theme_bw()
+```

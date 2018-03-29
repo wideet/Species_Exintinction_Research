@@ -1,0 +1,835 @@
+,Species ID,Kingdom,Phylum,Class,Order,Family,Genus,Species,Authority,Infraspecific rank,Infraspecific name,Infraspecific authority,Stock/subpopulation,Synonyms,Common names (Eng),Common names (Fre),Common names (Spa),Red List status,Red List criteria,Red List criteria version,Year assessed,Population trend,Petitioned,location,last_seen
+0,44072,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,ROSALES,ROSACEAE,Acaena,exigua,A.Gray,,,,,,,,,EX,,3.1,2003,,N,United States (Hawaiian Is.),1990
+1,195373,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,EUPHORBIALES,EUPHORBIACEAE,Acalypha,dikuluwensis,P.A. Duvign. & Dewit,,,,,,,,,EX,,3.1,2012,,N,"Congo, The Democratic Republic of the",1959
+2,37854,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,EUPHORBIALES,EUPHORBIACEAE,Acalypha,rubrinervis,Cronk,,,,,Acalypha rubra,Stringwood,,,EX,,2.3,1998,,N,"Saint Helena, Ascension and Tristan da Cunha (Saint Helena (main island))",1855
+3,199821,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,EUPHORBIALES,EUPHORBIACEAE,Acalypha,wilderi,Merr.,,,,,,,,,EX,,3.1,2014,,N,Cook Islands (Cook Is.),1929
+4,82,ANIMALIA,ARTHROPODA,INSECTA,EPHEMEROPTERA,ACANTHAMETROPODIDAE,Acanthametropus,pecatonica,"(Burks, 1953) ",,,,,Acanthometropus pecatonica,Pecatonica River Mayfly,,,EX,,2.3,1996,,N,United States,
+5,167,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Achatinella,abbreviata,"Reeve, 1850",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+6,170,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Achatinella,buddii,"Newcomb, 1853",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+7,173,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Achatinella,caesia,"Gulick, 1858",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+8,174,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Achatinella,casta,"Newcomb, 1853",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+9,179,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Achatinella,decora,"(Férussac, 1821)",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+10,180,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Achatinella,dimorpha,"Gulick, 1858",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+11,181,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Achatinella,elegans,"Newcomb, 1853",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+12,184,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Achatinella,juddii,"Baldwin, 1895",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+13,185,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Achatinella,juncea,"Gulick, 1856",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+14,186,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Achatinella,lehuiensis,"Smith, 1873",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+15,189,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Achatinella,livida,"Swainson, 1828",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+16,192,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Achatinella,papyracea,"Gulick, 1856",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+17,198,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Achatinella,spaldingi,"Pilsbry & Cooke, 1914",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+18,202,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Achatinella,thaanumi,"Pilsbry & Cooke, 1914",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+19,204,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Achatinella,valida,"Pfeiffer, 1855",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+20,44074,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CARYOPHYLLALES,AMARANTHACEAE,Achyranthes,atollensis,H.St.John,,,,,,,,,EX,,3.1,2003,,N,United States (Hawaiian Is.),1964
+21,46603,PLANTAE,TRACHEOPHYTA,POLYPODIOPSIDA,POLYPODIALES,PTERIDACEAE,Adiantum,lianxianense,Ching & Y.X.Ling in Y.X.Ling,,,,,,,,,EX,,3.1,2004,,N,China (Guangdong),
+22,524,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,HELICARIONIDAE,Advena,campbelli,"Gray, 1834",,,,,,,,,EX,,2.3,1996,,N,Norfolk Island,
+23,62184893,ANIMALIA,CHORDATA,AVES,STRIGIFORMES,STRIGIDAE,Aegolius,gradyi,"Olson, 2012",,,,,,Bermuda Saw-whet Owl,,,EX,,3.1,2014,,N,Bermuda,
+24,611,ANIMALIA,ARTHROPODA,MAXILLOPODA,CYCLOPOIDA,CYCLOPIDAE,Afrocyclops,pauliani,"Lindberg, 1951",,,,,,,,,EX,,2.3,1996,,N,Madagascar,1951
+25,704,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,NOCTUIDAE,Agrotis,crinigera,,,,,,,Poko Noctuid Moth,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+26,705,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,NOCTUIDAE,Agrotis,fasciata,,,,,,,Midway Noctuid Moth,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+27,706,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,NOCTUIDAE,Agrotis,kerri,,,,,,,Kerr's Noctuid Moth,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+28,707,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,NOCTUIDAE,Agrotis,laysanensis,,,,,,,Laysan Noctuid Moth,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+29,708,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,NOCTUIDAE,Agrotis,photophila,,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+30,709,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,NOCTUIDAE,Agrotis,procellaris,,,,,,,Procellaris Grotis Noctuid Moth,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+31,780,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Alasmidonta,mccordi,"Athearn, 1964",,,,,,Coosa Elktoe,,,EX,,3.1,2011,,N,United States (Alabama),1996
+32,777,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Alasmidonta,robusta,"Clarke, 1981",,,,,,Carolina Elktoe,,,EX,,2.3,2000,,N,"United States (North Carolina, South Carolina)",1996
+33,778,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Alasmidonta,wrightiana,"(Walker, 1901)",,,,,,Ochlockonee Arcmussel,,,EX,,2.3,2000,,N,United States (Florida),1996
+34,787,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Alburnus,akili,"Battalgil, 1942",,,,,,Beysehir Bleak,,,EX,,3.1,2014,,N,Turkey (Turkey-in-Asia),1955
+35,19018670,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Alburnus,nicaeensis,"Battalgil, 1941",,,,,Alburnus chalcoides subspecies nicaeensis,Iznik Shemaya,,,EX,,3.1,2014,,N,Turkey (Turkey-in-Asia),1996
+36,22691601,ANIMALIA,CHORDATA,AVES,COLUMBIFORMES,COLUMBIDAE,Alectroenas,nitidissimus,"(Scopoli, 1786)",,,,,Alectroenas nitidissima,"Mauritius Blue-pigeon, Mauritius Blue-Pigeon",,,EX,,3.1,2014,,N,Mauritius,1832
+37,62759683,ANIMALIA,CHORDATA,AVES,COLUMBIFORMES,COLUMBIDAE,Alectroenas,payandeei,"Hume, 2011",,,,,,Rodrigues Blue-pigeon,,,EX,,3.1,2014,,N,Mauritius,1690
+38,879,ANIMALIA,ARTHROPODA,INSECTA,PLECOPTERA,CHLOROPERLIDAE,Alloperla,roberti,"Surdick, 1981",,,,,,Robert's Stonefly,,,EX,,2.3,1996,,N,United States,
+39,22691052,ANIMALIA,CHORDATA,AVES,COLUMBIFORMES,COLUMBIDAE,Alopecoenas,ferrugineus,"(Forster, 1844)",,,,,Gallicolumba ferruginea,"Tanna Ground-dove, Tanna Ground-Dove",,,EX,,3.1,2012,,N,Vanuatu,1774
+40,22691056,ANIMALIA,CHORDATA,AVES,COLUMBIFORMES,COLUMBIDAE,Alopecoenas,salamonis,"(Ramsay, 1882)",,,,,Gallicolumba salamonis,"Thick-billed Ground-dove, Thick-billed Ground Dove, Thick-billed Ground-Dove",,,EX,,3.1,2012,,N,Solomon Islands,1927
+41,22729490,ANIMALIA,CHORDATA,AVES,ANSERIFORMES,ANATIDAE,Alopochen,kervazoi,"(Cowles, 1994)",,,,,Mascarenachen kervazoi |Mascarenachen kervazoi ,"Reunion Shelduck, Réunion Shelduck",,,EX,,3.1,2012,,N,Runion,1671
+42,22728658,ANIMALIA,CHORDATA,AVES,ANSERIFORMES,ANATIDAE,Alopochen,mauritiana,"(Newton & Gadow, 1893)",,,,,Alopochen mauritianus,"Mauritius Shelduck, Mauritian Shelduck",,,EX,,3.1,2012,,N,Mauritius,1693
+43,989,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Amastra,albolabris,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+44,990,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Amastra,cornea,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+45,991,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Amastra,crassilabrum,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+46,992,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Amastra,elongata,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+47,993,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Amastra,forbesi,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+48,994,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Amastra,pellucida,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+49,995,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Amastra,porcus,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+50,996,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Amastra,reticulata,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+51,997,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Amastra,subrostrata,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+52,998,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Amastra,subsoror,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States,
+53,999,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Amastra,tenuispira,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+54,1000,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Amastra,umbilicata,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+55,22728705,ANIMALIA,CHORDATA,AVES,PSITTACIFORMES,PSITTACIDAE,Amazona,martinicana,"A. H. Clark, 1905",,,,,,"Martinique Amazon, Martinique Parrot",,,EX,,3.1,2012,,N,Martinique,1779
+56,22728701,ANIMALIA,CHORDATA,AVES,PSITTACIFORMES,PSITTACIDAE,Amazona,violacea,"(J. F. Gmelin, 1789)",,,,,,"Guadeloupe Amazon, Guadeloupe Parrot",,,EX,,3.1,2012,,N,Guadeloupe,1779
+57,1119,ANIMALIA,CHORDATA,REPTILIA,SQUAMATA,TEIIDAE,Ameiva,cineracea,"Barbour & Noble, 1915",,,,,,Guadeloupe Ameiva,,,EX,,2.3,1996,,N,Guadeloupe,1914
+58,1120,ANIMALIA,CHORDATA,REPTILIA,SQUAMATA,TEIIDAE,Ameiva,major,"Duméril & Bibron, 1839",,,,,,"Martinique Ameiva, Martinique Giant Ameiva",,,EX,,2.3,1996,,N,,1935
+59,1164,ANIMALIA,MOLLUSCA,GASTROPODA,ARCHITAENIOGLOSSA,NEOCYCLOTIDAE,Amphicyclotulus,guadeloupensis,"de la Torre, Bartsch & Morrison, 1942",,,,,,,,,EX,,2.3,1996,,N,Guadeloupe,
+60,1168,ANIMALIA,MOLLUSCA,GASTROPODA,HYGROPHILA,PLANORBIDAE,Amphigyra,alabamensis,"Pilsbry, 1906",,,,,,Shoal Sprite,,,EX,,2.3,2000,,N,United States (Alabama),
+61,166049,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Anabarilius,macrolepis,"Yih & Wu, 1964",,,,,,,,,EX,,3.1,2011,,N,China (Yunnan),1981
+62,22728666,ANIMALIA,CHORDATA,AVES,ANSERIFORMES,ANATIDAE,Anas,marecula,"Olson & Jouventin, 1996",,,,,,"Amsterdam Duck, Amsterdam Island Duck",,,EX,,3.1,2012,,N,French Southern Territories,1793
+63,22728662,ANIMALIA,CHORDATA,AVES,ANSERIFORMES,ANATIDAE,Anas,theodori,"Newton & Gadow, 1893",,,,,,"Mauritius Duck, Mauritian Duck",,,EX,,3.1,2012,,N,Mauritius,1696
+64,22728814,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,MELIPHAGIDAE,Anthornis,melanocephala,Gray 1843,,,,,,"Chatham Bellbird, Chatham Island Bellbird",,,EX,,3.1,2012,,N,New Zealand,1906
+65,22728884,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Aphanapteryx,bonasia,"(Selys Longchamps, 1848)",,,,,,Red Rail,,,EX,,3.1,2012,,N,Mauritius,1693
+66,1848,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINODONTIFORMES,CYPRINODONTIDAE,Aphanius,splendens,"(Kosswig & Sözer, 1945)",,,,,Anatolichthys splendens,Gölçük Toothcarp,,,EX,,3.1,2014,,N,Turkey,1980
+67,61225,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINODONTIFORMES,POECILIIDAE,Aplocheilichthys,sp. nov. 'Naivasha',,,,,,,,,,EX,,3.1,2004,,N,Kenya,
+68,22710496,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,STURNIDAE,Aplonis,corvina,"(Kittlitz, 1833)",,,,,,Kosrae Starling,,,EX,,3.1,2012,,N,"Micronesia, Federated States of ",1828
+69,22710511,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,STURNIDAE,Aplonis,fusca,"Gould, 1836",,,,,Aplornis fusca fusca,"Norfolk Island Starling, Norfolk Starling, Tasman Starling",,,EX,,3.1,2012,,N,Australia; Norfolk Island,1923
+70,22710499,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,STURNIDAE,Aplonis,mavornata,"Buller, 1887",,,,,,Mysterious Starling,,,EX,,3.1,2012,,N,Cook Islands,1825
+71,22724513,ANIMALIA,CHORDATA,AVES,PSITTACIFORMES,PSITTACIDAE,Ara,tricolor,"Bechstein, 1811",,,,,,Cuban Macaw,,,EX,,3.1,2012,,N,Cuba; Dominican Republic; Haiti,1885
+72,18290783,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,RUBIALES,RUBIACEAE,Argocoffeopsis,lemblinii,(A.Chev.) Robbr.,,,,,Coffea lemblinii,,,,EX,,2.3,1998,,N,Cte d'Ivoire,
+73,2100,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,ARGYRESTHIIDAE,Argyresthia,castaneela,,,,,,,Chestnut Ermine Moth,,,EX,,2.3,1996,,N,United States,
+74,44078,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,ASTERALES,COMPOSITAE,Argyroxiphium,virescens,Hillebr.,,,,,,,,,EX,,3.1,2003,,N,United States (Hawaiian Is.),1945
+75,61652,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FABALES,LEGUMINOSAE,Astragalus,nitidiflorus,Jiménez & Pau,,,,,,,,,EX,,3.1,2006,,N,Spain,1909
+76,54518,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,BUFONIDAE,Atelopus,ignescens,"(Cornalia, 1849)",,,,,Atelopus carinatus  |Phryniscus laevis  ,"Quito Stubfoot Toad, Jambato Toad",,,EX,,3.1,2004,,N,Ecuador,1988
+77,54522,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,BUFONIDAE,Atelopus,longirostris,"Cope, 1868",,,,,Atelopus longirostris subspecies marmorata|Phryniscus boussingaulti  ,"Longnose Stubfoot Toad, Scrawny Stubfoot-toad",,,EX,,3.1,2004,,N,Ecuador,1989
+78,54561,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,BUFONIDAE,Atelopus,vogli,"Müller, 1934",,,,,,,,,EX,,3.1,2004,,N,"Venezuela, Bolivarian Republic of",
+79,11768,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Athearnia,crassa,"(Haldeman, 1841)",,,,,Leptoxis crassa  ,Boulder Snail,,,EX,,2.3,1996,,N,"United States (Alabama, Georgia, Tennessee, Virginia)",
+80,22728754,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Atlantisia,podarces,"(Wetmore, 1963)",,,,,,St Helena Crake,,,EX,,3.1,2012,,N,"Saint Helena, Ascension and Tristan da Cunha (Saint Helena (main island))",1502
+81,2411,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Auriculella,expansa,"Pease, 1868",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+82,2412,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Auriculella,uniplicata,Pease,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+83,61247,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Barbus,microbarbis,"David & Poll, 1937",,,,,,,,,EX,,3.1,2006,,N,Rwanda,
+84,195376,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,VIOLALES,PASSIFLORACEAE,Basananthe,cupricola,Robyns ex G.A. Levin,,,,,,,,,EX,,3.1,2012,,N,"Congo, The Democratic Republic of the",1980
+85,63545,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CUCURBITALES,BEGONIACEAE,Begonia,eiromischa,Ridl.,,,,,,Woolly-stalked Begonia,,,EX,,3.1,2007,,N,Malaysia,1980
+86,2733,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Belgrandiella,intermedia,"(Boeters, 1970)",,,,,,,,,EX,,2.3,1996,,N,Austria,
+87,62183030,ANIMALIA,CHORDATA,AVES,ACCIPITRIFORMES,ACCIPITRIDAE,Bermuteo,avivorus,"Olson, 2008",,,,,,Bermuda Hawk,,,EX,,3.1,2014,,N,Bermuda,1603
+88,136805,ANIMALIA,CHORDATA,MAMMALIA,DIPROTODONTIA,POTOROIDAE,Bettongia,pusilla,"McNamara, 1997",,,,,,Nullarbor Dwarf Bettong,,,EX,,3.1,2008,,N,Australia,1500
+89,39087,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CARYOPHYLLALES,AMARANTHACEAE,Blutaparon,rigidum,(B.L. Rob. & Greenm.) Mears,,,,,,Galapagos Amaranth,,,EX,,3.1,2014,,N,Ecuador (Galpagos),1906
+90,2864,ANIMALIA,CHORDATA,REPTILIA,SQUAMATA,BOLYERIDAE,Bolyeria,multocarinata,"(Boie, 1827)",,,,,Eryx multocarinata  ,Round Island Burrowing Boa,"Boa fouisseur de l'Ile Ronde, Boa fouisseur de l'île Maurice, Bolyeride",Boa Excavadora de Round Island,EX,,2.3,1996,,N,Mauritius,1975
+91,40791,ANIMALIA,CHORDATA,REPTILIA,SQUAMATA,DIPSADIDAE,Borikenophis,sanctaecrucis,"(Cope, 1863)",,,,,Alsophis sanctaecrucis  |Alsophis sancticrucis  ,Saint Croix Racer,,,EX,,2.3,1996,,N,"Virgin Islands, U.S.",
+92,2885,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,ECHIMYIDAE,Boromys,offella,"Miller, 1916",,,,,,Oriente Cave Rat,,,EX,,3.1,2008,,N,Cuba,
+93,2886,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,ECHIMYIDAE,Boromys,torrei,"Allen, 1917",,,,,,Torre's Cave Rat,,,EX,,3.1,2008,,N,Cuba,
+94,136721,ANIMALIA,CHORDATA,MAMMALIA,CETARTIODACTYLA,BOVIDAE,Bos,primigenius,"Bojanus, 1827",,,,,Bos mauretanicus  |Bos namadicus  ,Aurochs,Auroch,Uro,EX,,3.1,2008,,N,Poland,1627
+95,22728902,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,SYLVIIDAE,Bowdleria,rufescens,"(Buller, 1869)",,,,,Megalurus rufescens rufescens,"Chatham Fernbird, Chatham Island Fernbird, Chatham Islands Fernbird",,,EX,,3.1,2012,,N,New Zealand,1892
+96,3121,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,ECHIMYIDAE,Brotomys,voratus,"Miller, 1916",,,,,,Hispaniolan Edible Rat,,,EX,,3.1,2008,,N,Dominican Republic; Haiti,
+97,22728804,ANIMALIA,CHORDATA,AVES,PROCELLARIIFORMES,PROCELLARIIDAE,Bulweria,bifax,"Olson, 1975",,,,,,"Small St Helena Petrel, St. Helena Bulwer's Petrel",,,EX,,3.1,2012,,N,"Saint Helena, Ascension and Tristan da Cunha (Saint Helena (main island))",1502
+98,155997,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Bythinella,gibbosa,"(Moquin-Tandon, 1856)",,,,,,,,,EX,,3.1,2010,unknown,N,France (France (mainland)),2002
+99,184739,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Bythinella,limnopsis,"Letourneux & Bourguignat, 1887",,,,,,,,,EX,,3.1,2010,,N,Tunisia,1887
+100,184511,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Bythinella,mauritanica,Letourneux & Bourguignat 1887,,,,,,,,,EX,,3.1,2010,,N,Tunisia,1887
+101,184705,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Bythinella,microcochlia,"Letourneux & Bourguignat, 1887",,,,,,,,,EX,,3.1,2010,,N,Tunisia,
+102,184553,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Bythinella,punica,"Letourneux & Bourguignat, 1887",,,,,,,,,EX,,3.1,2010,,N,Tunisia,
+103,32226,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,MALVALES,STERCULIACEAE,Byttneria,ivorensis,Hallé,,,,,,,,,EX,,2.3,1998,,N,Cte d'Ivoire,
+104,22728873,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Cabalus,modestus,"(Hutton, 1872)",,,,,Gallirallus modestus modestus|Rallus modestus modestus,"Chatham Rail, Chatham Islands Rail, Chatham Island Rail",,,EX,,3.1,2012,,N,New Zealand,1893
+105,3523,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,EUCONULIDAE,Caldwellia,philyrina,"Morelet, 1851",,,,,,,,,EX,,2.3,1996,,N,Mauritius,
+106,22734732,ANIMALIA,CHORDATA,AVES,COLUMBIFORMES,COLUMBIDAE,Caloenas,maculata,"(Gemelin, 1789)",,,,,,Liverpool Pigeon,,,EX,,3.1,2014,,N,,1928
+107,3626,ANIMALIA,CHORDATA,MAMMALIA,DIPROTODONTIA,POTOROIDAE,Caloprymnus,campestris,"(Gould, 1843)",,,,,,"Desert Rat Kangaroo, Plains Rat-kangaroo, Buff-nosed Rat-kangaroo, Desert Rat-kangaroo",Kangourou-rat Du Désert,Canguro-rata Desértico,EX,,3.1,2008,,N,"Australia (Queensland, South Australia)",1935
+108,153825,ANIMALIA,ARTHROPODA,MALACOSTRACA,DECAPODA,CAMBARIDAE,Cambarellus,alvarezi,"Villalobos, 1952",,,,,,,,,EX,,3.1,2010,unknown,N,Mexico (Nuevo Len),1994
+109,153621,ANIMALIA,ARTHROPODA,MALACOSTRACA,DECAPODA,CAMBARIDAE,Cambarellus,chihuahuae,"Hobbs, 1980",,,,,,,,,EX,,3.1,2010,unknown,N,Mexico (Chihuahua),
+110,3714,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,VERTIGINIDAE,Campolaemus,perexilis,"Smith, 1892",,,,,,,,,EX,,2.3,1996,,N,"Saint Helena, Ascension and Tristan da Cunha",
+111,35330,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,MYRTALES,MYRTACEAE,Campomanesia,lundiana,(Kiaerskou) Mattos,,,,,,,,,EX,,2.3,1998,,N,Brazil (Rio de Janeiro),
+112,3719,ANIMALIA,ARTHROPODA,INSECTA,DIPTERA,DOLICHOPODIDAE,Campsicnemus,mirabilis,,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+113,22680418,ANIMALIA,CHORDATA,AVES,ANSERIFORMES,ANATIDAE,Camptorhynchus,labradorius,"(Gmelin, 1789)",,,,,,Labrador Duck,Eider du Labrador,,EX,,3.1,2012,,N,Canada; United States,1875
+114,22728892,ANIMALIA,CHORDATA,AVES,FALCONIFORMES,FALCONIDAE,Caracara,lutosa,"Ridgway, 1876",,,,,Caracara lutosus |Polyborus lutosus lutosus,Guadalupe Caracara,,Carancho de Guadalupe,EX,,3.1,2012,,N,Mexico,1903
+115,3875,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,anceophila,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+116,3876,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,bicolor,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+117,3877,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,cochlea,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+118,3878,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,cumingiana,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+119,3879,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,dolei,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+120,3880,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,evelynae,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+121,3881,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,glossema,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+122,3882,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,hyattiana,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+123,3883,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,kalalauensis,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+124,3884,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,knudseni,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+125,3885,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,lirata,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+126,3886,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,lymani,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+127,3887,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,mirabilis,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+128,3888,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,necra,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+129,3889,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,olivacea,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+130,3890,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,paradoxa,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+131,3891,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,periscelis,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+132,3892,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,pilsbryi,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+133,3893,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,sinclairi,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+134,3895,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,tenebrosa,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+135,3896,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,AMASTRIDAE,Carelia,turricula,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+136,35350,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,VIOLALES,FLACOURTIACEAE,Casearia,quinduensis,Tulasne,,,,,,,,,EX,,2.3,1998,,N,Colombia,
+137,30527,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,VIOLALES,FLACOURTIACEAE,Casearia,tinifolia,Vent.,,,,,,,,,EX,,2.3,1998,,N,Mauritius,
+138,4097,ANIMALIA,CHORDATA,REPTILIA,SQUAMATA,ANGUIDAE,Celestus,occiduus,"(Shaw, 1802)",,,,,Lacerta occidua,"Jamaica Giant Galliwasp, Sinking Galliwasp",,,EX,,2.3,1996,,N,Jamaica,1840
+139,165235,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,ASTERALES,COMPOSITAE,Centaurea,pseudoleucolepis,Kleopow,,,,,Centaurea margaritacea subspecies pseudoleucolepis,,,,EX,,3.1,2013,,N,Ukraine (Ukraine (main part)),1930
+140,196771,ANIMALIA,ARTHROPODA,ARACHNIDA,OPILIONES,PODOCTIDAE,Centrobunus,braueri,"Loman, 1902",,,,,,,,,EX,,3.1,2014,,N,Seychelles (Seychelles (main island group)),1894
+141,4322,ANIMALIA,CHORDATA,MAMMALIA,PERAMELEMORPHIA,CHAEROPODIDAE,Chaeropus,ecaudatus,"(Ogilby, 1838)",,,,,,Pig-footed Bandicoot,"Bandicoot Pieds De Cochon, Bandicoot À Pieds De Cochon Sans Queue, Bandicoot À Pied De Porc, Péramèle Anoure",Cangurito Piedecerdo,EX,,3.1,2008,,N,Australia,1901
+142,22704348,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,MOHOIDAE,Chaetoptila,angustipluma,"(Peale, 1848)",,,,,,Kioea,,,EX,,3.1,2012,,N,United States (Hawaiian Is.),1859
+143,184510,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,IRIDINIDAE,Chambardia,letourneuxi,"Servain, 1890",,,,,Chambardia bourguignati  |Chambardia locardiana  |Chambardia pharaonum  |Chambardia rhynchoidea  ,,,,EX,,3.1,2010,,N,Egypt,
+144,4530,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINODONTIFORMES,GOODEIDAE,Characodon,garmani,"Jordan & Evermann, 1898",,,,,,Parras Characodon,,,EX,,2.3,1996,,N,Mexico,
+145,4589,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CATOSTOMIDAE,Chasmistes,muriei,"Miller & Smith, 1981",,,,,,Snake River Sucker,,,EX,,3.1,2013,,N,United States,
+146,22720622,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,FRINGILLIDAE,Chaunoproctus,ferreorostris,"(Vigors, 1828)",,,,,,Bonin Grosbeak,,,EX,,3.1,2012,,N,Japan,1828
+147,62239833,ANIMALIA,CHORDATA,AVES,ANSERIFORMES,ANATIDAE,Chenonetta,finschi,"(Van Beneden, 1875)",,,,,,Finsch's Duck,,,EX,,3.1,2014,,N,New Zealand,1500
+148,4635,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,SUBULINIDAE,Chilonopsis,blofeldi,"Forbes, 1852",,,,,,,,,EX,,2.3,1996,,N,"Saint Helena, Ascension and Tristan da Cunha",
+149,4636,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,SUBULINIDAE,Chilonopsis,exulatus,"Reeve, 1852",,,,,,,,,EX,,2.3,1996,,N,"Saint Helena, Ascension and Tristan da Cunha",
+150,4637,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,SUBULINIDAE,Chilonopsis,helena,"Quoy & Gaimard, 1833",,,,,,,,,EX,,2.3,1996,,N,"Saint Helena, Ascension and Tristan da Cunha",
+151,4638,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,SUBULINIDAE,Chilonopsis,melanoides,"Wollaston, 1878",,,,,,,,,EX,,2.3,1996,,N,"Saint Helena, Ascension and Tristan da Cunha",
+152,4639,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,SUBULINIDAE,Chilonopsis,nonpareil,"(Perry, 1811)",,,,,Auris vulpina|Bulimus auris-muris|Bulimus struthiolarius|Chilonopsis sulcata|Pachyotus alopectis|Struthiolaria crenulata|Voluta aurisvulpina,Great Saint Helena Awl Snail,,,EX,,3.1,2014,,N,"Saint Helena, Ascension and Tristan da Cunha (Saint Helena (main island))",1875
+153,4640,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,SUBULINIDAE,Chilonopsis,subplicatus,"Sowerby, 1844",,,,,,,,,EX,,2.3,1996,,N,"Saint Helena, Ascension and Tristan da Cunha",
+154,4641,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,SUBULINIDAE,Chilonopsis,subtruncatus,"Smith, 1892",,,,,,,,,EX,,2.3,1996,,N,"Saint Helena, Ascension and Tristan da Cunha",
+155,4642,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,SUBULINIDAE,Chilonopsis,turtoni,"Smith, 1892",,,,,,,,,EX,,2.3,1996,,N,"Saint Helena, Ascension and Tristan da Cunha",
+156,13152363,ANIMALIA,CHORDATA,REPTILIA,SQUAMATA,SCINCIDAE,Chioninia,coctei,"(Duméril & Bibron, 1839)",,,,,Charactodon coctei|Euprepes coctei|Gongylus coctei|Macroscincus coctaei|Macroscincus coctei,"Cape Verde Giant Skink, Bibron's Skink, Cocteau's Lizard",,,EX,,3.1,2013,,N,Cape Verde,1912
+157,22728825,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,FRINGILLIDAE,Chloridops,kona,"Wilson, 1888",,,,,Psittirostra kona |Psittirostra kona kona,"Kona Grosbeak, Grosbeak Finch",,,EX,,3.1,2012,,N,United States (Hawaiian Is.),1894
+158,22687333,ANIMALIA,CHORDATA,AVES,CAPRIMULGIFORMES,TROCHILIDAE,Chlorostilbon,bracei,"(Lawrence, 1877)",,,,,,Brace's Emerald,,,EX,,3.1,2012,,N,Bahamas,1877
+159,22728709,ANIMALIA,CHORDATA,AVES,CAPRIMULGIFORMES,TROCHILIDAE,Chlorostilbon,elegans,"(Gould, 1860)",,,,,,Caribbean Emerald,,,EX,,3.1,2012,,N,,1860
+160,61345,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Chondrostoma,scodrense,"Elvira, 1987",,,,,Chondrostoma scodrensis  ,,,,EX,,3.1,2006,,N,Albania; Montenegro,1980
+161,35379,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,EBENALES,SAPOTACEAE,Chrysophyllum,januariense,Eichler,,,,,,,,,EX,,2.3,1998,,N,Brazil (Rio de Janeiro),
+162,22720840,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,FRINGILLIDAE,Ciridops,anna,"(Dole, 1879)",,,,,,"Ula-ai-hawane, Ula-'ai-hawane",,,EX,,3.1,2012,,N,United States (Hawaiian Is.),1892
+163,4955,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Clappia,cahabensis,"Clench, 1965",,,,,,Cahaba Pebblesnail,,,EX,,2.3,2000,,N,United States (Alabama),1996
+164,40046,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Clappia,umbilicata,"(Walker, 1904)",,,,,Lithoglyphus umbilicata  ,Umbilicate Pebblesnail,,,EX,,2.3,2000,,N,United States (Alabama),
+165,4961,ANIMALIA,ARTHROPODA,INSECTA,HEMIPTERA,PSEUDOCOCCIDAE,Clavicoccus,erinaceus,"Ferris, 1948",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+166,44126,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CAMPANULALES,CAMPANULACEAE,Clermontia,multiflora,Hillebr.,,,,,,,,,EX,,3.1,2003,,N,United States (Hawaiian Is.),1871
+167,31636,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,EUPHORBIALES,EUPHORBIACEAE,Cnidoscolus,fragrans,(H.B. K.) Pohl,,,,,,,,,EX,,2.3,1998,,N,Cuba,
+168,62178398,ANIMALIA,CHORDATA,AVES,CHARADRIIFORMES,SCOLOPACIDAE,Coenocorypha,barrierensis,"Oliver, 1955",,,,,,North Island Snipe,,,EX,,3.1,2014,,N,New Zealand,1870
+169,22727515,ANIMALIA,CHORDATA,AVES,CHARADRIIFORMES,SCOLOPACIDAE,Coenocorypha,iredalei,"Rothschild, 1921",,,,,,South Island Snipe,,,EX,,3.1,2014,,N,New Zealand,1964
+170,62322970,ANIMALIA,CHORDATA,AVES,PICIFORMES,PICIDAE,Colaptes,oceanicus,"Olson, 2013",,,,,,Bermuda Flicker,,,EX,,3.1,2014,,N,Bermuda,
+171,5111,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,COLEOPHORIDAE,Coleophora,leucochrysella,"Clemens, 1863",,,,,,,,,EX,,2.3,1996,,N,United States,
+172,5119,ANIMALIA,MOLLUSCA,GASTROPODA,PATELLOGASTROPODA,NACELLIDAE,Collisella,edmitchelli,"Lipps, 1966",,,,,,,,,EX,,2.3,1996,,N,United States,
+173,5166,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,HELICARIONIDAE,Colparion,madgei,"Laidlaw, 1938",,,,,,,,,EX,,2.3,1996,,N,Mauritius (Rodrigues),
+174,22690222,ANIMALIA,CHORDATA,AVES,COLUMBIFORMES,COLUMBIDAE,Columba,jouyi,"(Stejneger, 1887)",,,,,,"Ryukyu Woodpigeon, Ryukyu Wood Pigeon",,,EX,,3.1,2012,,N,Japan,1936
+175,62254534,ANIMALIA,CHORDATA,AVES,COLUMBIFORMES,COLUMBIDAE,Columba,thiriouxi,"Hume, 2011",,,,,,Mauritius Woodpigeon,,,EX,,3.1,2014,,N,Mauritius,1730
+176,22690218,ANIMALIA,CHORDATA,AVES,COLUMBIFORMES,COLUMBIDAE,Columba,versicolor,"Kittlitz, 1832",,,,,,"Bonin Woodpigeon, Bonin Wood-Pigeon",,,EX,,3.1,2012,,N,Japan,1889
+177,5223,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,MURIDAE,Conilurus,albipes,"(Lichtenstein, 1829)",,,,,,"White-footed Rabbit-rat, White-footed Rabbit Rat, Rabbit-eared Tree-rat, White-footed Tree-rat",,,EX,,3.1,2008,,N,"Australia (New South Wales, Queensland, South Australia, Victoria)",1860
+178,5261,ANIMALIA,ARTHROPODA,INSECTA,ORTHOPTERA,ACRIDIDAE,Conozoa,hyalina,"(McNeil, 1901)",,,,,,Central Valley Grasshopper,,,EX,,2.3,1996,,N,United States (California),
+179,22685776,ANIMALIA,CHORDATA,AVES,PSITTACIFORMES,PSITTACIDAE,Conuropsis,carolinensis,"(Linnaeus, 1758)",,,,,,Carolina Parakeet,,,EX,,3.1,2012,,N,United States,1910
+180,5361,ANIMALIA,CHORDATA,ACTINOPTERYGII,SALMONIFORMES,SALMONIDAE,Coregonus,alpenae,"(Koelz, 1924)",,,,,,Longjaw Cisco,,Salmoneja Boquigrande,EX,,2.3,1996,,N,Canada; United States,
+181,135556,ANIMALIA,CHORDATA,ACTINOPTERYGII,SALMONIFORMES,SALMONIDAE,Coregonus,bezola,"Fatio, 1888",,,,,,,,,EX,,3.1,2008,,N,France,1960
+182,135627,ANIMALIA,CHORDATA,ACTINOPTERYGII,SALMONIFORMES,SALMONIDAE,Coregonus,fera,"Jurine, 1825",,,,,,,,,EX,,3.1,2008,,N,France; Switzerland,1920
+183,135506,ANIMALIA,CHORDATA,ACTINOPTERYGII,SALMONIFORMES,SALMONIDAE,Coregonus,gutturosus,"(Gmelin, 1818)",,,,,,,,,EX,,3.1,2008,,N,Austria; Germany; Switzerland,1960
+184,135671,ANIMALIA,CHORDATA,ACTINOPTERYGII,SALMONIFORMES,SALMONIDAE,Coregonus,hiemalis,"Jurine, 1825",,,,,,,,,EX,,3.1,2008,,N,France; Switzerland,1900
+185,5367,ANIMALIA,CHORDATA,ACTINOPTERYGII,SALMONIFORMES,SALMONIDAE,Coregonus,johannae,"(Wagner, 1910)",,,,,,Deepwater Cisco,,,EX,,2.3,1996,,N,Canada; United States,
+186,5371,ANIMALIA,CHORDATA,ACTINOPTERYGII,SALMONIFORMES,SALMONIDAE,Coregonus,nigripinnis,"(Milner, 1874)",,,,,,Blackfin Cisco,,,EX,,2.3,1996,,N,Canada; United States,1923
+187,5380,ANIMALIA,CHORDATA,ACTINOPTERYGII,SALMONIFORMES,SALMONIDAE,Coregonus,oxyrinchus,"(Linnaeus, 1758)",,,,,,Houting,,,EX,,3.1,2008,,N,Belgium; France; Germany; Netherlands; United Kingdom,1940
+188,135570,ANIMALIA,CHORDATA,ACTINOPTERYGII,SALMONIFORMES,SALMONIDAE,Coregonus,restrictus,"Fatio, 1885",,,,,,,,,EX,,3.1,2008,,N,Switzerland,1890
+189,5414,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,MURIDAE,Coryphomys,buehleri,"Schaub, 1937",,,,,Coryphomys buhleri  ,"Buhler's Coryphomys, Buhler's Rat",,,EX,,3.1,2008,,N,Indonesia,
+190,5438,ANIMALIA,CHORDATA,ACTINOPTERYGII,SCORPAENIFORMES,COTTIDAE,Cottus,echinatus,"Bailey & Bond, 1963",,,,,,Utah Lake Sculpin,,,EX,,3.1,2013,,N,United States,1920
+191,22678955,ANIMALIA,CHORDATA,AVES,GALLIFORMES,PHASIANIDAE,Coturnix,novaezelandiae,"Quoy & Gaimard, 1830",,,,,,New Zealand Quail ,,,EX,,3.1,2012,,N,New Zealand,1875
+192,22684143,ANIMALIA,CHORDATA,AVES,CUCULIFORMES,CUCULIDAE,Coua,delalandei,"(Temminck, 1827)",,,,,,"Snail-eating Coua, Delalande's Coua",Coua de Delalande,,EX,,3.1,2012,,N,Madagascar,1834
+193,56513,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,CRAUGASTORIDAE,Craugastor,chrysozetetes,"(McCranie, Savage & Wilson, 1989)",,,,,Eleutherodactylus chrysozetetes  ,McCranie's Robber Frog,,,EX,,3.1,2004,,N,Honduras,
+194,56588,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,CRAUGASTORIDAE,Craugastor,escoces,"(Savage, 1975)",,,,,Eleutherodactylus escoces,Heredia Robber Frog,,,EX,,3.1,2004,,N,Costa Rica,1986
+195,32556,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FABALES,LEGUMINOSAE,Crudia,zeylanica,(Thwaites) Benth.,,,,,,,,,EX,,2.3,1998,,N,Sri Lanka,
+196,41320,ANIMALIA,CHORDATA,MAMMALIA,DIDELPHIMORPHIA,DIDELPHIDAE,Cryptonanus,ignitus,"(Díaz, Flores & Barquez, 2002)",,,,,Gracilinanus ignitus  ,"Red-bellied Gracile Mouse Opossum, Red-bellied Gracile Opossum",,Comadrejita De Vientre Rojo,EX,,3.1,2008,,N,Argentina (Jujuy),1962
+197,136456,ANIMALIA,CHORDATA,MAMMALIA,CARNIVORA,EUPLERIDAE,Cryptoprocta,spelea,"Grandidier, 1902",,,,,,"Giant Fosa, Giant Fossa",,,EX,,3.1,2015,,N,Madagascar,
+198,9722,ANIMALIA,CHORDATA,ACTINOPTERYGII,PERCIFORMES,CICHLIDAE,Ctenochromis,pectoralis,"Pfeffer, 1893",,,,,Harpagochromis pectoralis  ,,,,EX,,2.3,1996,,N,"Kenya; Tanzania, United Republic of",
+199,5794,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,EUCONULIDAE,Ctenoglypta,newtoni,"Nevil, 1871",,,,,,,,,EX,,2.3,1996,,N,Mauritius,
+200,35036,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,SAPINDALES,SAPINDACEAE,Cupaniopsis,crassivalvis,Radlk.,,,,,,,,,EX,,2.3,1998,,N,New Caledonia,
+201,136658,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,ABROCOMIDAE,Cuscomys,oblativa,"(Eaton, 1916)",,,,,,,,,EX,,3.1,2008,,N,,2008
+202,34005,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CAMPANULALES,CAMPANULACEAE,Cyanea,arborea,Hillebr.,,,,,,Tree Cyanea,,,EX,,3.1,2003,,N,United States (Hawaiian Is.),1928
+203,44101,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CAMPANULALES,CAMPANULACEAE,Cyanea,comata,Hillebr.,,,,,,,,,EX,,3.1,2003,,N,United States (Hawaiian Is.),1800
+204,44093,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CAMPANULALES,CAMPANULACEAE,Cyanea,cylindrocalyx,"(Gaudich.) Lammers, Givnish & Sytsma",,,,,,,,,EX,,3.1,2003,,N,United States (Hawaiian Is.),1909
+205,44094,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CAMPANULALES,CAMPANULACEAE,Cyanea,dolichopoda,Lammers & Lorence,,,,,,,,,EX,,3.1,2003,,N,United States (Hawaiian Is.),1990
+206,30919,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CAMPANULALES,CAMPANULACEAE,Cyanea,giffardii,Rock,,,,,,Giffard's Cyanea,,,EX,,3.1,2003,,N,United States (Hawaiian Is.),1917
+207,30920,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CAMPANULALES,CAMPANULACEAE,Cyanea,marksii,Rock,,,,,,Mark's Cyanea,,,EX,,2.3,1998,,N,United States (Hawaiian Is.),
+208,33554,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CAMPANULALES,CAMPANULACEAE,Cyanea,pohaku,Lammers,,,,,,,,,EX,,2.3,1998,,N,United States (Hawaiian Is.),
+209,30921,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CAMPANULALES,CAMPANULACEAE,Cyanea,pycnocarpa,(Hillebr.) F.Wimmer,,,,,,,,,EX,,2.3,1998,,N,United States (Hawaiian Is.),
+210,34035,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CAMPANULALES,CAMPANULACEAE,Cyanea,quercifolia,(Hillebr.) F.Wimmer,,,,,,Oakleaf Cyanea,,,EX,,2.3,1998,,N,United States (Hawaiian Is.),
+211,22728673,ANIMALIA,CHORDATA,AVES,PSITTACIFORMES,PSITTACIDAE,Cyanoramphus,ulietanus,"(Gmelin, 1788)",,,,,,Raiatea Parakeet,,,EX,,3.1,2012,,N,French Polynesia,1773
+212,22685182,ANIMALIA,CHORDATA,AVES,PSITTACIFORMES,PSITTACIDAE,Cyanoramphus,zealandicus,"(Latham, 1790)",,,,,,Black-fronted Parakeet,,,EX,,3.1,2012,,N,French Polynesia,1844
+213,6020,ANIMALIA,MOLLUSCA,GASTROPODA,ARCHITAENIOGLOSSA,CYCLOPHORIDAE,Cyclophorus,horridulum,,,,,,,,,,EX,,2.3,1996,,N,Mayotte,
+214,6025,ANIMALIA,MOLLUSCA,GASTROPODA,ARCHITAENIOGLOSSA,CYCLOPHORIDAE,Cyclosurus,mariei,"Morelet, 1881",,,,,,,,,EX,,2.3,1996,,N,Mayotte,
+215,173001,ANIMALIA,CHORDATA,REPTILIA,SQUAMATA,IGUANIDAE,Cyclura,onchiopsis,"Cope, 1885",,,,,Cyclura cornuta subspecies onchiopsis,"Navassa Rhinoceros Iguana, Navassa Iguana, Navassa Island Iguana, Navassa Rock Iguana",,,EX,,3.1,2013,,N,Puerto Rico (Navassa I.),1977
+216,6061,ANIMALIA,CHORDATA,REPTILIA,TESTUDINES,TESTUDINIDAE,Cylindraspis,indica,"(Schneider, 1783)",,,,,Chersina grayi  |Chersine retusa  |Cylindraspis borbonica  |Cylindraspis graii  |Testudo graii  |Testudo indica  |Testudo perraultii  ,,,,EX,,2.3,1996,,N,Runion,1800
+217,6062,ANIMALIA,CHORDATA,REPTILIA,TESTUDINES,TESTUDINIDAE,Cylindraspis,inepta,"(Günther, 1873)",,,,,Testudo boutonii  |Testudo inepta  |Testudo sauzieri  ,,,,EX,,2.3,1996,,N,Mauritius,
+218,6063,ANIMALIA,CHORDATA,REPTILIA,TESTUDINES,TESTUDINIDAE,Cylindraspis,peltastes,"(Duméril & Bibron, 1835)",,,,,Testudo peltastes  ,,,,EX,,2.3,1996,,N,Mauritius (Rodrigues),1800
+219,6064,ANIMALIA,CHORDATA,REPTILIA,TESTUDINES,TESTUDINIDAE,Cylindraspis,triserrata,"(Günther, 1873)",,,,,Testudo gadowi  |Testudo guentheri  |Testudo leptocnemis  |Testudo microtympanum  |Testudo schweigeri  |Testudo triserrata  ,,,,EX,,2.3,1996,,N,Mauritius,
+220,6065,ANIMALIA,CHORDATA,REPTILIA,TESTUDINES,TESTUDINIDAE,Cylindraspis,vosmaeri,"(Suckow, 1798)",,,,,Testudo commersoni  |Testudo indica subspecies vosmaeri|Testudo rodericensis  ,,,,EX,,2.3,1996,,N,Mauritius (Rodrigues),1800
+221,31184,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FABALES,LEGUMINOSAE,Cynometra,beddomei,Prain,,,,,,,,,EX,,2.3,1998,,N,India (Kerala),
+222,202375,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINODONTIFORMES,CYPRINODONTIDAE,Cyprinodon,arcuatus,"Minckley and Miller, 2002",,,,,,Santa Cruz Pupfish,,,EX,,3.1,2013,,N,Mexico; United States,
+223,6177,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINODONTIFORMES,CYPRINODONTIDAE,Cyprinodon,ceciliae,"Lozano-Vilano & Contreras-Balderas, 1993",,,,,,Villa Lopez Pupfish,,Cachorrito de la Presa,EX,,2.3,1996,,N,Mexico,
+224,6176,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINODONTIFORMES,CYPRINODONTIDAE,Cyprinodon,inmemoriam,"Lozano-Vilano & Contreras-Balderas, 1993",,,,,,"Charco Azul Pupfish, Cachorrito de la Trinidad",,,EX,,2.3,1996,,N,Mexico,
+225,6155,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINODONTIFORMES,CYPRINODONTIDAE,Cyprinodon,latifasciatus,"Garman, 1881",,,,,,"Parras Pupfish, Perrito de Parras",,,EX,,2.3,1996,,N,Mexico,
+226,6168,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINODONTIFORMES,CYPRINODONTIDAE,Cyprinodon,spp.,,,,,,,Perritos De Sandia,,,EX,,2.3,1996,,N,Mexico,
+227,6179,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Cyprinus,yilongensis,"Yang et al., 1977",,,,,,,,,EX,,3.1,2011,,N,China (Yunnan),1981
+228,61483949,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,ASTERALES,COMPOSITAE,Delilia,inelegans,(Hook.f.) Kuntze,,,,,Desmocephalum inelegans,,,,EX,,3.1,2014,,N,Ecuador (Galpagos),
+229,34038,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CAMPANULALES,CAMPANULACEAE,Delissea,kauaiensis,(Lammers) Lammers,,,,,Delissea undulata subspecies (plantae) kauaiensis,,,,EX,,2.3,2015,,N,United States (Hawaiian Is.),1895
+230,34039,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CAMPANULALES,CAMPANULACEAE,Delissea,niihauensis,H.St.John,,,,,Delissea undulata subspecies (plantae) niihauensis,Undulata Delissea,,,EX,,2.3,2015,,N,United States (Hawaiian Is.),1870
+231,79862904,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CAMPANULALES,CAMPANULACEAE,Delissea,subcordata,Gaudich.,,,,,,,,,EX,,3.1,2015,,N,United States (Hawaiian Is.),1934
+232,6331,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,LYCAENIDAE,Deloneura,immaculata,"Trimen, 1868",,,,,,,,,EX,,2.3,1996,,N,South Africa,
+233,136451,ANIMALIA,CHORDATA,MAMMALIA,CHIROPTERA,PHYLLOSTOMIDAE,Desmodus,draculae,"Morgan, Linares & Ray, 1988",,,,,,Giant Vampire Bat,,,EX,,3.1,2008,,N,,
+234,22733394,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Diaphorapteryx,hawkinsi,"(Forbes, 1892)",,,,,,Hawkins's Rail,,,EX,,3.1,2012,,N,New Zealand,1895
+235,6523,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,HELICARIONIDAE,Diastole,matafaoi,,,,,,,Mount Matafao Different Snail,,,EX,,2.3,1996,,N,American Samoa (American Samoa),
+236,201462,ANIMALIA,ARTHROPODA,ARACHNIDA,HOLOTHYROIDAE,HOLOTHYRIDAE,Dicrogonatus,gardineri,"(Warburton, 1912)",,,,,,Gardiner's Giant Mite,,,EX,,3.1,2014,,N,Seychelles (Seychelles (main island group)),1909
+237,33374,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,THEALES,DIPTEROCARPACEAE,Dipterocarpus,cinereus,Sloot.,,,,,,,,,EX,,2.3,1998,,N,Indonesia (Sumatera),
+238,35017,PLANTAE,TRACHEOPHYTA,LILIOPSIDA,LILIALES,DRACAENACEAE,Dracaena,umbraculifera,Jacq.,,,,,,,,,EX,,2.3,1998,,N,Mauritius,
+239,22720852,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,FRINGILLIDAE,Drepanis,funerea,"Newton, 1893",,,,,,Black Mamo,,,EX,,3.1,2012,,N,United States (Hawaiian Is.),1907
+240,22720848,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,FRINGILLIDAE,Drepanis,pacifica,"(Gmelin, 1788)",,,,,,"Hawaii Mamo, Hawai'i Mamo",,,EX,,3.1,2012,,N,United States (Hawaiian Is.),1898
+241,22724449,ANIMALIA,CHORDATA,AVES,STRUTHIONIFORMES,CASUARIIDAE,Dromaius,baudinianus,"S. A. Parker, 1984",,,,,,Kangaroo Island Emu,,,EX,,3.1,2012,,N,Australia,1802
+242,22728643,ANIMALIA,CHORDATA,AVES,STRUTHIONIFORMES,CASUARIIDAE,Dromaius,minor,"Spencer, 1906",,,,,Dromaius ater,King Island Emu,,,EX,,3.1,2012,,N,Australia,1802
+243,6844,ANIMALIA,ARTHROPODA,INSECTA,DIPTERA,DROSOPHILIDAE,Drosophila,lanaiensis,,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+244,62258591,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Dryolimnas,augusti,"Mourer-Chauviré, Bour, Ribes & Moutou, 1999",,,,,,Reunion Rail,,,EX,,3.1,2014,,N,Runion,
+245,6862,ANIMALIA,ARTHROPODA,INSECTA,COLEOPTERA,CURCULIONIDAE,Dryophthorus,distinguendus,"Perkins, 1900",,,,,,,,,EX,,3.1,2014,,N,United States (Hawaiian Is.),1926
+246,43920,PLANTAE,TRACHEOPHYTA,POLYPODIOPSIDA,POLYPODIALES,DRYOPTERIDACEAE,Dryopteris,ascensionis,(Hook.) Kuntze,,,,,,,,,EX,,3.1,2012,,N,"Saint Helena, Ascension and Tristan da Cunha (Ascension)",2003
+247,6917,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,EUCONULIDAE,Dupontia,proletaria,"Morelet, 1860",,,,,,,,,EX,,2.3,1996,,N,Mauritius; Runion,
+248,6923,ANIMALIA,CHORDATA,MAMMALIA,CARNIVORA,CANIDAE,Dusicyon,australis,"(Kerr, 1792)",,,,,Canis australis,"Falklands Wolf, Falkland Islands Wolf",,"Zorro Antártico, Zorro-Lobo de las Malvinas , Zorro Malvinense ",EX,,3.1,2015,,N,Falkland Islands (Malvinas),1690
+249,82337482,ANIMALIA,CHORDATA,MAMMALIA,CARNIVORA,CANIDAE,Dusicyon,avus,"(Burmeister, 1866)",,,,,,,,,EX,,3.1,2015,,N,Argentina; Brazil; Chile; Uruguay,3244
+250,22720738,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,FRINGILLIDAE,Dysmorodrepanis,munroi,"Perkins, 1919",,,,,,"Lanai Hookbill, Lana'i Hookbill",,,EX,,3.1,2012,,N,United States (Hawaiian Is.),1918
+251,62307504,ANIMALIA,CHORDATA,AVES,PSITTACIFORMES,PSITTACIDAE,Eclectus,infectus,"Steadman, 2006",,,,,,Oceanic Parrot,,,EX,,3.1,2014,,N,Tonga,
+252,7028,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,NEPTICULIDAE,Ectodemia,castaneae,,,,,,,American Chestnut Moth,,,EX,,2.3,1996,,N,United States,
+253,7029,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,NEPTICULIDAE,Ectodemia,phleophaga,,,,,,,Phleophagan Chestnut Moth,,,EX,,2.3,1996,,N,United States,
+254,22690733,ANIMALIA,CHORDATA,AVES,COLUMBIFORMES,COLUMBIDAE,Ectopistes,migratorius,"(Linnaeus, 1766)",,,,,,Passenger Pigeon,,,EX,,3.1,2012,,N,Canada; United States,1900
+255,7584,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Elimia,brevis,"(Reeve, 1860)",,,,,,"Short Spire Elimia, Short-spired Elimia",,,EX,,2.3,2000,,N,United States (Alabama),1996
+256,7589,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Elimia,clausa,"(Lea, 1861)",,,,,,Closed Elimia,,,EX,,3.1,2012,,N,United States (Alabama),2004
+257,7590,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Elimia,fusiformis,"(Lea, 1861)",,,,,,Fusiform Elimia,,,EX,,3.1,2012,,N,United States (Alabama),2004
+258,40100,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Elimia,gibbera,"(Goodrich, 1922)",,,,,,Shouldered Elimia,,,EX,,2.3,2000,,N,United States (Alabama),1996
+259,7591,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Elimia,hartmaniana,"(I. Lea, 1861)",,,,,,High-spired Elimia,,,EX,,2.3,2000,,N,United States,
+260,7592,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Elimia,impressa,"(I. Lea, 1841)",,,,,,Constricted Elimia,,,EX,,2.3,2000,,N,United States (Alabama),1996
+261,7593,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Elimia,jonesi,"(Goodrich, 1936)",,,,,,Hearty Elimia,,,EX,,3.1,2012,,N,United States (Alabama),2004
+262,40101,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Elimia,lachryma,"(Reeve, 1861)",,,,,,Teardrop Elimia,,,EX,,2.3,2000,,N,United States (Alabama),1996
+263,7594,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Elimia,laeta,"(Jay, 1839)",,,,,,Ribbed Elimia,,,EX,,2.3,2000,,N,United States (Alabama),1996
+264,40102,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Elimia,macglameriana,"(Goodrich, 1936)",,,,,,Wrinkled Elimia,,,EX,,2.3,2000,,N,"United States (Alabama, Georgia)",1996
+265,7595,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Elimia,pilsbryi,"(Goodrich, 1927)",,,,,,Rough-lined Elimia,,,EX,,3.1,2012,,N,United States (Alabama),
+266,7596,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Elimia,pupaeformis,"(I. Lea, 1864)",,,,,,Pupa Elimia,,,EX,,2.3,2000,,N,United States (Alabama),1996
+267,7597,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Elimia,pygmaea,"(Smith, 1936)",,,,,,Pygmy Elimia,,,EX,,2.3,2000,,N,United States (Alabama),1996
+268,7587,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Elimia,vanuxemiana,"I. Lea, 1843",,,,,,Cobble Elimia,,,EX,,2.3,2000,,N,United States (Alabama),1996
+269,7705,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINODONTIFORMES,CYPRINODONTIDAE,Empetrichthys,merriami,"Gilbert, 1893",,,,,,"Ash Meadows Poolfish, Ash Meadows Killifish",,,EX,,3.1,2013,,N,United States,
+270,7863,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Epioblasma,arcaeformis,"(I. Lea, 1831)",,,,,Dysnomia arcaeformis  ,"Arc-form Pearly Mussel, Sugarspoon",,,EX,,2.3,2000,,N,"United States (Alabama, Kentucky, Tennessee)",
+271,7864,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Epioblasma,biemarginata,"(I. Lea, 1857)",,,,,Dysnomia biemarginata  ,Angled Riffleshell,,,EX,,2.3,2000,,N,"United States (Alabama, Illinois, Kentucky, Tennessee)",1967
+272,7868,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Epioblasma,flexuosa,"(Rafinesque, 1820)",,,,,Dysnomia flexuosa  ,"Arcuate Pearly Mussel, Leafshell",,,EX,,2.3,2000,,N,"United States (Alabama, Illinois, Indiana, Kentucky, Ohio, Tennessee)",
+273,7872,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Epioblasma,haysiana,"(I. Lea, 1834)",,,,,Dysnomia haysiana  ,"Acorn Pearly Mussel, Acornshell",,,EX,,2.3,2000,,N,"United States (Alabama, Kentucky, Tennessee, Virginia)",
+274,7874,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Epioblasma,lenior,"(I. Lea, 1842)",,,,,Dysnomia lenior  ,"Narrow Catspaw, Stone's Pearly Mussel",,,EX,,2.3,2000,,N,"United States (Alabama, Tennessee)",1965
+275,7892,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Epioblasma,lewisii,"(Walker, 1910)",,,,,Dysnomia lewisii  ,"Forkshell, Lewis Pearly Mussel",,,EX,,2.3,2000,,N,"United States (Alabama, Illinois, Kentucky, Tennessee)",
+276,7879,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Epioblasma,personata,"(Say, 1829)",,,,,Dysnomia personata  |Plagiola personata  ,"Fine-rayed Pearly Mussel, Fine-rayed Pearlymussel, Round Combshell",,,EX,,3.1,2011,,N,"United States (Alabama, Indiana, Kentucky, Ohio, Tennessee)",
+277,7880,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Epioblasma,propinqua,"(I. Lea, 1857)",,,,,Dysnomia propinqua  |Plagiola propinqua  ,"Nearby Pearly Mussel, Nearby Pearlymussel, Tennessee Riffleshell",,,EX,,3.1,2011,,N,"United States (Alabama, Illinois, Indiana, Kentucky, Ohio, Tennessee)",1901
+278,7881,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Epioblasma,sampsonii,"(Lea, 1861)",,,,,Dysnomia sampsoni  ,"Sampson's Naiad, Sampson's Pearly Mussel, Sampson's Riffleshell, Wabash Riffleshell",,,EX,,2.3,2000,,N,"United States (Illinois, Indiana, Kentucky)",
+279,7895,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Epioblasma,stewardsonii,"(I. Lea, 1852)",,,,,Dysnomia stewardsoni  ,"Cumberland Leafshell, Steward's Pearly Mussel",,,EX,,2.3,2000,,N,United States,
+280,7890,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Epioblasma,turgidula,"(Lea, 1858)",,,,,Dysnomia turgidula  ,"Turgid-blossom, Turgid-blossom Naiad, Turgid-blossom Pearly Mussel, Turgid Riffle Shell",,,EX,,2.3,2000,,N,United States,1996
+281,8000,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,HELICARIONIDAE,Erepta,nevilli,,,,,,,,,,EX,,2.3,1996,,N,Mauritius,
+282,22728889,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Erythromachus,leguati,"(Milne-Edwards, 1874)",,,,,Aphanapteryx leguati,Rodrigues Rail,,,EX,,3.1,2012,,N,Mauritius,1726
+283,8128,ANIMALIA,CHORDATA,ACTINOPTERYGII,PERCIFORMES,PERCIDAE,Etheostoma,sellare,"(Radcliffe & Welsh, 1913)",,,,,,Maryland Darter,,,EX,,3.1,2013,,N,United States,1980
+284,201472,ANIMALIA,ARTHROPODA,DIPLOPODA,SPIROBOLIDA,PACHYBOLIDAE,Eucarlia,alluaudi,"(Brolemann, 1896)",,,,,,,,,EX,,3.1,2014,,N,Seychelles (Seychelles (main island group)),1892
+285,135505,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Eudontomyzon,sp. nov. 'migratory',,,,,,,,,,EX,,3.1,2008,,N,Moldova; Russian Federation; Ukraine,
+286,162307,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,SCROPHULARIALES,SCROPHULARIACEAE,Euphrasia,mendoncae,Samp.,,,,,Euphrasia minima  ,,,,EX,,3.1,2013,,N,Portugal (Portugal (mainland)),1936
+287,8431,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Evarra,bustamantei,"Navarro, 1955",,,,,,Mexican Dace,,,EX,,2.3,1996,,N,Mexico,
+288,8432,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Evarra,eigenmanni,"Woolman, 1894",,,,,,Mexican Dace,,,EX,,2.3,1996,,N,Mexico,
+289,8433,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Evarra,tlahuacensis,"Meek, 1902",,,,,,Mexican Dace,,,EX,,2.3,1996,,N,Mexico,
+290,22731930,ANIMALIA,CHORDATA,AVES,FALCONIFORMES,FALCONIDAE,Falco,duboisi,"G.S. Cowles, 1994",,,,,,"Reunion Kestrel, Réunion Kestrel",,,EX,,3.1,2012,,N,Runion,1671
+291,37924,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,ASTERALES,COMPOSITAE,Fitchia,mangarevensis,F. Brown,,,,,,,,,EX,,2.3,1998,,N,French Polynesia (Tuamotu),
+292,39158,PLANTAE,BRYOPHYTA,BRYOPSIDA,HYPNALES,BRACHYTHECIACEAE,Flabellidium,spinosum,Herzog,,,,,,,,,EX,,3.1,2012,,N,"Bolivia, Plurinational States of",1911
+293,1292,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Fluvidona,dulvertonensis,,,,,,Angrobia dulvertonensis  ,,,,EX,,2.3,1996,,N,Australia,
+294,22710840,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,STURNIDAE,Fregilupus,varius,"(Boddaert, 1783)",,,,,,"Reunion Starling, Réunion Starling",,,EX,,3.1,2012,,N,Runion,1850
+295,22728769,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Fulica,newtonii,"Milne-Edwards, 1867",,,,,Fulica newtoni,Mascarene Coot,,,EX,,3.1,2014,,N,Runion,1693
+296,8706,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINODONTIFORMES,FUNDULIDAE,Fundulus,albolineatus,"Gilbert, 1891",,,,,,Whiteline Topminnow,,,EX,,3.1,2013,,N,United States,
+297,31675,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,SAPINDALES,RUTACEAE,Galipea,ossana,DC.,,,,,,,,,EX,,2.3,1998,,N,Cuba,
+298,22728763,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Gallinula,nesiotis,"P. Sclater, 1861",,,,,,"Tristan Moorhen, Tristan Gallinule",,,EX,,3.1,2014,,N,"Saint Helena, Ascension and Tristan da Cunha (Tristan da Cunha)",
+299,8888,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINODONTIFORMES,POECILIIDAE,Gambusia,amistadensis,"Peden, 1973",,,,,,Amistad Gambusia,,,EX,,3.1,2013,,N,United States,
+300,8891,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINODONTIFORMES,POECILIIDAE,Gambusia,georgei,"Hubbs & Peden, 1969",,,,,,San Marcos Gambusia,,,EX,,3.1,2013,,N,United States (Texas),1983
+301,135637,ANIMALIA,CHORDATA,ACTINOPTERYGII,GASTEROSTEIFORMES,GASTEROSTEIDAE,Gasterosteus,crenobiontus,"Bacescu & Mayer, 1956",,,,,,,,,EX,,3.1,2008,,N,Romania,1960
+302,8953,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,VERTIGINIDAE,Gastrocopta,chichijimana,"Pilsbry, 1916",,,,,,,,,EX,,2.3,1996,,N,Japan (Ogasawara-shoto),
+303,8954,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,VERTIGINIDAE,Gastrocopta,ogasawarana,"Pilsbry, 1916",,,,,,,,,EX,,2.3,1996,,N,Japan (Ogasawara-shoto),
+304,8987,ANIMALIA,CHORDATA,MAMMALIA,CETARTIODACTYLA,BOVIDAE,Gazella,bilkis,"Groves & Lay, 1985",,,,,,"Queen Of Sheba's Gazelle, Yemen Gazelle",Gazelle Du Yemen,Gacela De Yemen,EX,,3.1,2008,,N,Yemen,1951
+305,8980,ANIMALIA,CHORDATA,MAMMALIA,CETARTIODACTYLA,BOVIDAE,Gazella,saudiya,"Carruthers & Schwarz, 1935",,,,,Gazella dorcas subspecies saudiya,Saudi Gazelle,Gazelle Saoudite,Gacela Saudi,EX,,3.1,2008,,N,Kuwait; Saudi Arabia; Yemen,2001
+306,9000,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,PYRALIDAE,Genophantis,leahi,"Swezey, 1910",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+307,9004,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CAPROMYIDAE,Geocapromys,columbianus,"(J. Fischer, 1829)",,,,,,Cuban Coney,,,EX,,3.1,2008,,N,Cuba,
+308,9003,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CAPROMYIDAE,Geocapromys,thoracatus,"(True, 1888)",,,,,,"Little Swan Island Hutia, Swan Island Hutia",,,EX,,3.1,2008,,N,Honduras (Honduran Caribbean Is.),1950
+309,9066,ANIMALIA,NEMERTINA,ENOPLA,HOPLONEMERTEA,PROSORHOCHMIDAE,Geonemertes,rodericana,"(Gulliver, 1879)",,,,,,,,,EX,,3.1,2014,,N,Mauritius (Rodrigues),1918
+310,22704724,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,ACANTHIZIDAE,Gerygone,insularis,"Ramsay, 1879",,,,,,"Lord Howe Gerygone, Lord Howe Island Gerygone",,,EX,,3.1,2012,,N,Australia,1928
+311,9179,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,STREPTAXIDAE,Gibbus,lyonetianus,"Pallas, 1780",,,,,,,,,EX,,2.3,1996,,N,Mauritius,
+312,9183,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Gila,crassicauda,"(Baird & Girard, 1854)",,,,,,Thicktail Chub,,,EX,,3.1,2013,,N,United States,1950
+313,9244,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,LYCAENIDAE,Glaucopsyche,xerces,"(Boisduval, 1852)",,,,,,Xerces Blue,,,EX,,2.3,1996,,N,United States,
+314,37958,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,MYRTALES,MYRTACEAE,Gomidesia,cambessedeana,Berg,,,,,,,,,EX,,2.3,1998,,N,Brazil (Rio de Janeiro),
+315,9329,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,STREPTAXIDAE,Gonidomus,newtoni,"Adams, 1867",,,,,,,,,EX,,2.3,1996,,N,Mauritius,
+316,9392,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,STREPTAXIDAE,Gonospira,nevilli,"Adams, 1867",,,,,,,,,EX,,2.3,1996,,N,Mauritius,
+317,41027,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Graecoanatolica,macedonica,"Radoman & Stanovic, 1978",,,,,,,,,EX,,3.1,2013,,N,"Greece (Greece (mainland)); Macedonia, the former Yugoslav Republic of",2000
+318,38848,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,RUBIALES,RUBIACEAE,Guettarda,retusa,Wr.,,,,,,,,,EX,,2.3,1998,,N,Cuba,
+319,9535,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,STREPTAXIDAE,Gulella,mayottensis,,,,,,,,,,EX,,2.3,1996,,N,Mayotte,
+320,9597,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Gyrotoma,excisa,"(I. Lea, 1843)",,,,,,Excised Slitshell,,,EX,,2.3,2000,,N,United States (Alabama),1996
+321,9598,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Gyrotoma,lewisii,"(I. Lea, 1869)",,,,,,Striate Slitshell,,,EX,,2.3,2000,,N,United States (Alabama),1996
+322,9599,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Gyrotoma,pagoda,"(I. Lea, 1845)",,,,,,Pagoda Slitshell,,,EX,,2.3,2000,,N,United States (Alabama),1996
+323,9600,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Gyrotoma,pumila,"(I. Lea, 1860)",,,,,,Ribbed Slitshell,,,EX,,2.3,2000,,N,United States (Alabama),1996
+324,9601,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Gyrotoma,pyramidata,"(Shuttleworth, 1845)",,,,,,Pyramid Slitshell,,,EX,,2.3,2000,,N,United States (Alabama),1996
+325,9602,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Gyrotoma,walkeri,"(H.H. Smith, 1924)",,,,,,Round Slitshell,,,EX,,2.3,2000,,N,United States (Alabama),1996
+326,22693621,ANIMALIA,CHORDATA,AVES,CHARADRIIFORMES,HAEMATOPODIDAE,Haematopus,meadewaldoi,"Bannerman, 1913",,,,,,"Canarian Oystercatcher, Canarian Black Oystercatcher",,,EX,,3.1,2012,,N,Spain,1913
+327,9701,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,HELICARIONIDAE,Harmogenanina,linophora,"Morelet, 1860",,,,,,,,,EX,,2.3,1996,,N,Mauritius; Runion,
+328,9700,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,HELICARIONIDAE,Harmogenanina,subdetecta,,,,,,,,,,EX,,2.3,1996,,N,Runion,
+329,9765,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Helenoconcha,leptalea,"(Smith, 1892)",,,,,,,,,EX,,2.3,1996,,N,"Saint Helena, Ascension and Tristan da Cunha",
+330,9766,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Helenoconcha,minutissima,"(Smith, 1892)",,,,,,,,,EX,,2.3,1996,,N,"Saint Helena, Ascension and Tristan da Cunha",
+331,9767,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Helenoconcha,polyodon,"(Sowerby, 1844)",,,,,,,,,EX,,2.3,1996,,N,"Saint Helena, Ascension and Tristan da Cunha",
+332,9768,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Helenoconcha,pseustes,"(Smith, 1892)",,,,,,,,,EX,,2.3,1996,,N,"Saint Helena, Ascension and Tristan da Cunha",
+333,9769,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Helenoconcha,sexdentata,"(Smith, 1893)",,,,,,,,,EX,,2.3,1996,,N,"Saint Helena, Ascension and Tristan da Cunha",
+334,9770,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Helenodiscus,bilamellata,"(Sowerby, 1844)",,,,,,,,,EX,,2.3,1996,,N,"Saint Helena, Ascension and Tristan da Cunha",
+335,9771,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Helenodiscus,vernoni,,,,,,,,,,EX,,2.3,1996,,N,"Saint Helena, Ascension and Tristan da Cunha",
+336,155676,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,COCHLIOPIDAE,Heleobia,spinellii,"(Gredler, 1859)",,,,,,,,,EX,,3.1,2010,unknown,N,Italy,1850
+337,156503,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,HYGROMIIDAE,Helicopsis,paulhessei,"(Lindholm, 1936)",,,,,,,,,EX,,3.1,2013,,N,Ukraine,
+338,9808,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,NOCTUIDAE,Helicoverpa,confusa,,,,,,,Confused Moth,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+339,9809,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,NOCTUIDAE,Helicoverpa,minuta,,,,,,,Minute Noctuid Moth,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+340,22729133,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,FRINGILLIDAE,Hemignathus,ellisianus,"(Gray, 1859)",,,,,,Greater Akialoa,,,EX,,3.1,2012,,N,,1969
+341,22728910,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,FRINGILLIDAE,Hemignathus,obscurus,"(Gmelin, 1788)",,,,,Akialoa obscura |Akialoa obscura |Akialoa obscura obscura|Hemignathus obscurus ,Lesser Akialoa,,,EX,,3.1,2012,,N,United States (Hawaiian Is.),1940
+342,22720784,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,FRINGILLIDAE,Hemignathus,sagittirostris,"Rothschild, 1892",,,,,Viridonia sagittirostris |Viridonia sagittirostris sagittirostris|Viridonia sagittirostris sagittirostris,"Greater Amakihi, Greater 'Amakihi",,,EX,,3.1,2012,,N,United States (Hawaiian Is.),1901
+343,35092,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,LAURALES,HERNANDIACEAE,Hernandia,drakeana,Nadeaud,,,,,,,,,EX,,2.3,1998,,N,French Polynesia (Society Is.),
+344,22708091,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,CALLAEATIDAE,Heteralocha,acutirostris,"(Gould, 1837)",,,,,,Huia,,,EX,,3.1,2012,,N,New Zealand,1907
+345,10025,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,ECHIMYIDAE,Heteropsomys,insulans,"Anthony, 1916",,,,,,Insular Cave Rat,,,EX,,3.1,2008,,N,Puerto Rico,
+346,10034,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CAPROMYIDAE,Hexolobodon,phenax,"Miller, 1929",,,,,,Imposter Hutia,,,EX,,3.1,2008,,N,Dominican Republic; Haiti,
+347,30774,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,MALVALES,MALVACEAE,Hibiscadelphus,bombycinus,Forbes,,,,,,Kawaihae Hibiscadelphus,,,EX,,2.3,1998,,N,United States (Hawaiian Is.),
+348,33556,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,MALVALES,MALVACEAE,Hibiscadelphus,crucibracteatus,Hobdy,,,,,,,,,EX,,2.3,1998,,N,United States (Hawaiian Is.),
+349,30397,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,MALVALES,MALVACEAE,Hibiscadelphus,wilderianus,Rock,,,,,,,,,EX,,2.3,1998,,N,United States (Hawaiian Is.),
+350,40783,ANIMALIA,CHORDATA,MAMMALIA,CETARTIODACTYLA,HIPPOPOTAMIDAE,Hippopotamus,guldbergi,"Fovet, Faure & Guérin, 2011",,,,,,"Madagascan Dwarf Hippopotamus, Madagascan Pygmy Hippo, Malagasy Hippo",,,EX,,3.1,2014,,N,Madagascar,1999
+351,40782,ANIMALIA,CHORDATA,MAMMALIA,CETARTIODACTYLA,HIPPOPOTAMIDAE,Hippopotamus,lemerlei,"Grandidier in Milne-Edwards, 1868",,,,,Hippopotamus madagascariensis,"Madagascan Dwarf Hippopotamus, Malagasy Hippo",,,EX,,3.1,2008,,N,Madagascar,1999
+352,10168,ANIMALIA,CHORDATA,MAMMALIA,CETARTIODACTYLA,BOVIDAE,Hippotragus,leucophaeus,"(Pallas, 1766)",,,,,,"Bluebuck, Blue Buck",,,EX,,3.1,2008,,N,South Africa,1799
+353,10182,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ENDODONTIDAE,Hirasea,planulata,,,,,,,,,,EX,,2.3,1996,,N,Japan (Ogasawara-shoto),
+354,21460734,ANIMALIA,ARTHROPODA,ARACHNIDA,OPILIONES,PHALANGODIDAE,Hirstienus,nanus,"(Hirst, 1913)",,,,,,,,,EX,,3.1,2014,,N,Seychelles (Seychelles (main island group)),1908
+355,33469,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,THEALES,DIPTEROCARPACEAE,Hopea,shingkeng,(Dunn) Bor,,,,,Vatica shingkeng,,,,EX,,2.3,1998,,N,India (Arunachal Pradesh),
+356,10254,ANIMALIA,CHORDATA,REPTILIA,SQUAMATA,DIPLODACTYLIDAE,Hoplodactylus,delcourti,"Bauer & Russell, 1986",,,,,,,,,EX,,2.3,1996,,N,New Zealand,
+357,184605,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Hydrobia,gracilis,"Morelet, 1880",,,,,,,,,EX,,3.1,2010,,N,Morocco,
+358,10303,ANIMALIA,CHORDATA,MAMMALIA,SIRENIA,DUGONGIDAE,Hydrodamalis,gigas,"(Zimmermann, 1780)",,,,,,Steller's Sea Cow,,,EX,,3.1,2008,,N,Russian Federation; United States,1741
+359,10332,ANIMALIA,ARTHROPODA,INSECTA,TRICHOPTERA,HYDROPSYCHIDAE,Hydropsyche,tobiasi,"Malicky, 1977",,,,,,Tobias' Caddisfly,,,EX,,3.1,2014,,N,Germany,1938
+360,10345,ANIMALIA,ARTHROPODA,INSECTA,COLEOPTERA,DYTISCIDAE,Hygrotus,artus,,,,,,,Mono Lake Diving Beetle,,,EX,,2.3,1996,,N,United States,
+361,10637,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,NOCTUIDAE,Hypena,laysanensis,,,,,,,Laysan Dropseed Noctuid Moth,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+362,10641,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,NOCTUIDAE,Hypena,newelli,,,,,,,Hilo Noctuid Moth,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+363,10639,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,NOCTUIDAE,Hypena,plagiota,,,,,,,Lovegrass Noctuid Moth,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+364,10640,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,NOCTUIDAE,Hypena,senicula,,,,,,,Kaholuamano Noctuid Moth,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+365,41254,ANIMALIA,ANNELIDA,CLITELLATA,HAPLOTAXIDA,MEGASCOLECIDAE,Hypolimnus,pedderensis,"(Jamieson, 1974)",,,,,Perionychella pedderensis  ,Lake Pedder Earthworm,,,EX,,3.1,2003,,N,Australia (Tasmania),1971
+366,22692455,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Hypotaenidia,dieffenbachii,"(Gray, 1843)",,,,,Gallirallus dieffenbachii,Dieffenbach's Rail,,,EX,,3.1,2012,,N,New Zealand,1840
+367,22692450,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Hypotaenidia,pacifica,"(Gmelin, 1789)",,,,,Gallirallus pacificus,Tahiti Rail,,,EX,,3.1,2012,,N,French Polynesia,1930
+368,22728740,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Hypotaenidia,poeciloptera,"(Hartlaub, 1866)",,,,,Nesoclopeus poeciloptera|Nesoclopeus poecilopterus,Bar-winged Rail,,,EX,,3.1,2012,,N,Fiji,1973
+369,22692447,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Hypotaenidia,wakensis,"Rothschild, 1903",,,,,Gallirallus wakensis,Wake Rail,,,EX,,3.1,2012,,N,United States; United States Minor Outlying Islands,1940
+370,59445,ANIMALIA,CHORDATA,AMPHIBIA,CAUDATA,SALAMANDRIDAE,Hypselotriton,wolterstorffi,"(Boulenger, 1905)",,,,,Cynops wolterstorffi,Yunnan Lake Newt,,,EX,,3.1,2004,,N,China,1979
+371,31176,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CELASTRALES,AQUIFOLIACEAE,Ilex,gardneriana,Wight,,,,,,,,,EX,,2.3,1998,,N,India (Tamil Nadu),
+372,33660,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CELASTRALES,AQUIFOLIACEAE,Ilex,ternatiflora,(C. Wright) R.A. Howard,,,,,,,,,EX,,2.3,1998,,N,Cuba,
+373,10815,ANIMALIA,MOLLUSCA,GASTROPODA,ARCHITAENIOGLOSSA,NEOCYCLOTIDAE,Incerticyclus,cinereus,"Droüet, 1859",,,,,,,,,EX,,2.3,1996,,N,Martinique,
+374,10816,ANIMALIA,MOLLUSCA,GASTROPODA,ARCHITAENIOGLOSSA,NEOCYCLOTIDAE,Incerticyclus,martinicensis,"Shuttleworth, 1857",,,,,,,,,EX,,2.3,1996,,N,Martinique,
+375,3172,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,BUFONIDAE,Incilius,periglenes,"(Savage, 1967)",,,,,Bufo periglenes  ,"Golden Toad, Monte Verde Toad, Monte Verde Golden Toad, Alajuela Toad, Orange Toad",,Sapo Dorado,EX,,3.1,2008,,N,Costa Rica,1989
+376,155726,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Islamia,ateni,"(Boeters, 1969)",,,,,,,,,EX,,3.1,2013,,N,Spain (Spain (mainland)),1990
+377,10859,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CAPROMYIDAE,Isolobodon,montanus,"(Miller, 1922)",,,,,,Montane Hutia,,,EX,,3.1,2008,,N,Dominican Republic; Haiti,
+378,10860,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CAPROMYIDAE,Isolobodon,portoricensis,"Allen, 1916",,,,,,Puerto Rican Hutia,,,EX,,3.1,2008,,N,Dominican Republic; Haiti,
+379,22697307,ANIMALIA,CHORDATA,AVES,PELECANIFORMES,ARDEIDAE,Ixobrychus,novaezelandiae,"(Potts, 1871)",,,,,,"New Zealand Little Bittern, New Zealand Little Bittern, New Zealand Bittern",,,EX,,3.1,2014,,N,New Zealand,1890
+380,10946,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CRICETIDAE,Juscelinomys,candango,"Moojen, 1965",,,,,Juscelinomys talpinus  ,Candango Mouse,,,EX,,3.1,2008,,N,Brazil,1960
+381,30777,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,MALVALES,MALVACEAE,Kokia,lanceolata,Lewt.,,,,,,,,,EX,,2.3,1998,,N,United States (Hawaiian Is.),
+382,11073,ANIMALIA,ARTHROPODA,INSECTA,DERMAPTERA,LABIDURIDAE,Labidura,herculeana,"(Fabricius, 1798)",,,,,Labidura loveridgei,"St Helena Giant Earwig, St Helena Earwig, Saint Helena Earwig",,,EX,,3.1,2014,unknown,N,"Saint Helena, Ascension and Tristan da Cunha (Saint Helena (main island))",1965
+383,11160,ANIMALIA,CHORDATA,MAMMALIA,DIPROTODONTIA,MACROPODIDAE,Lagorchestes,asomatus,"Finlayson, 1943",,,,,,"Kuluwarri, Central Hare Wallaby",,,EX,,3.1,2008,,N,Australia,1932
+384,11163,ANIMALIA,CHORDATA,MAMMALIA,DIPROTODONTIA,MACROPODIDAE,Lagorchestes,leporides,"(Gould, 1841)",,,,,,Eastern Hare Wallaby,,,EX,,3.1,2008,,N,Australia,1890
+385,136452,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CHINCHILLIDAE,Lagostomus,crassus,"Thomas, 1910",,,,,,,,,EX,,3.1,2013,,N,Peru,2015
+386,11196,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Lamellidea,monodonta,,,,,,,,,,EX,,2.3,1996,,N,Japan (Ogasawara-shoto),
+387,11197,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Lamellidea,nakadai,,,,,,,,,,EX,,2.3,1996,,N,Japan (Ogasawara-shoto),
+388,11251,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Lampsilis,binominata,"Simpson, 1900",,,,,,Lined Pocketbook,,,EX,,2.3,2000,,N,United States,1996
+389,11388,ANIMALIA,CHORDATA,REPTILIA,SQUAMATA,TROPIDURIDAE,Leiocephalus,eremitus,"(Cope, 1868)",,,,,Liocephalus eremitus,Navassa Curlytail Lizard,,,EX,,2.3,1996,,N,Puerto Rico (Navassa I. - Regionally Extinct),1900
+390,11389,ANIMALIA,CHORDATA,REPTILIA,SQUAMATA,TROPIDURIDAE,Leiocephalus,herminieri,"(Duméril & Bibron, 1837)",,,,,Holotropis herminieri,Martinique Curlytail Lizard,,,EX,,2.3,1996,,N,Martinique,1830
+391,11410,ANIMALIA,CHORDATA,REPTILIA,SQUAMATA,SCINCIDAE,Leiolopisma,mauritiana,"(Günther, 1877)",,,,,Didosaurus mauritianus  ,,,,EX,,2.3,1996,,N,Mauritius,1600
+392,177653,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Leiorhagium,solemi,"Haase & Bouchet, 1998",,,,,,,,,EX,,3.1,2011,,N,New Caledonia,1928
+393,11459,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,LAURIIDAE,Leiostyla,lamellosa,"Lowe, 1852",,,,,,Madeiran Land Snail,,,EX,,3.1,2013,,N,Portugal (Madeira),1878
+394,62798275,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CAPPARALES,CRUCIFERAE,Lepidium,amissum,de Lange et Heenan,,,,,,Waitakere Scurvy Grass,,,EX,,3.1,2014,,N,New Zealand (North Is.),2013
+395,62798292,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CAPPARALES,CRUCIFERAE,Lepidium,obtusatum,Kirk,,,,,,,,,EX,,3.1,2014,,N,New Zealand (North Is.),1950
+396,11537,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,LYCAENIDAE,Lepidochrysops,hypopolia,"(Trimen, 1887)",,,,,,,,,EX,,2.3,1996,,N,South Africa,
+397,11577,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Lepidomeda,altivelis,"Miller & Hubbs, 1960",,,,,,Pahranagat Spinedace,,,EX,,3.1,2013,,N,United States,
+398,11773,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Leptoxis,clipeata,"(H.H. Smith, 1922)",,,,,,Agate Rocksnail,,,EX,,2.3,2000,,N,United States (Alabama),1996
+399,11774,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Leptoxis,compacta,"(Anthony, 1854)",,,,,,Oblong Rocksnail,,,EX,,2.3,2000,,N,United States (Alabama),1996
+400,11775,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Leptoxis,foremanii,"(I. Lea, 1843)",,,,,Anculosa formanii  ,Interrupted Rocksnail,,,EX,,2.3,2000,,N,United States,1996
+401,11776,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Leptoxis,formosa,"(I. Lea, 1860)",,,,,,Maiden Rocksnail,,,EX,,2.3,2000,,N,"United States (Alabama, Georgia)",
+402,11777,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Leptoxis,ligata,"(Anthony, 1860)",,,,,,Rotund Rocksnail,,,EX,,2.3,2000,,N,United States (Alabama),1996
+403,11778,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Leptoxis,lirata,"(H.H. Smith, 1922)",,,,,,"Lyrate Rocksnail, Lirate Rocksnail",,,EX,,2.3,2000,,N,United States (Alabama),1996
+404,11781,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Leptoxis,occultata,"(H.H. Smith, 1922)",,,,,,Bigmouth Rocksnail,,,EX,,2.3,2000,,N,United States (Alabama),1996
+405,11784,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Leptoxis,showalterii,"(I. Lea, 1860)",,,,,,Coosa Rocksnail,,,EX,,2.3,2000,,N,United States,1996
+406,11786,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Leptoxis,torrefacta,"(Goodrich, 1922)",,,,,,Squat Rocksnail,,,EX,,2.3,2000,,N,United States,1996
+407,11788,ANIMALIA,MOLLUSCA,GASTROPODA,SORBEOCONCHA,PLEUROCERIDAE,Leptoxis,vittata,"(I. Lea, 1860)",,,,,,Striped Rocksnail,,,EX,,2.3,2000,,N,United States,1996
+408,11895,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ORTHALICIDAE,Leucocharis,loyaltiensis,,,,,,,,,,EX,,2.3,1996,,N,New Caledonia,
+409,11896,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ORTHALICIDAE,Leucocharis,porphyrocheila,,,,,,,,,,EX,,2.3,1996,,N,New Caledonia,
+410,11919,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,ZYGAENIDAE,Levuana,irridescens,,,,,,,Levuana Moth,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+411,11931,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Libera,subcavernula,"Tryon, 1887",,,,,,,,,EX,,2.3,1996,,N,Cook Islands,
+412,11932,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Libera,tumuloides,"Garrett, 1872",,,,,,,,,EX,,2.3,1996,,N,Cook Islands,
+413,11934,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,NYMPHALIDAE,Libythea,cinyras,"Trimen, 1866",,,,,,,,,EX,,2.3,1996,,N,Mauritius,
+414,32074,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,ROSALES,CHRYSOBALANACEAE,Licania,caldasiana,Cuatrecasas,,,,,,,,,EX,,2.3,1998,,N,Colombia,
+415,11993,ANIMALIA,ARTHROPODA,OSTRACODA,PODOCOPIDA,CYPRIDIDAE,Liocypris,grandis,"Sars, 1924",,,,,,,,,EX,,2.3,1996,,N,South Africa,
+416,19148,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,RANIDAE,Lithobates,fisheri,"(Stejneger, 1893)",,,,,Rana fisheri  ,Las Vegas Leopard Frog,,,EX,,3.1,2004,,N,United States,
+417,12242,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,LITTORINIDAE,Littoraria,flammea,"Philippi, 1847",,,,,,,,,EX,,2.3,1996,,N,China,
+418,12243,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Littoridina,gaudichaudii,"Souleyet, 1852",,,,,,,,,EX,,2.3,1996,,N,Ecuador,
+419,62798304,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,GENTIANALES,LOGANIACEAE,Logania,depressa,Hook.f.,,,,,,,,,EX,,3.1,2014,,N,New Zealand (North Is.),1847
+420,22728844,ANIMALIA,CHORDATA,AVES,PSITTACIFORMES,PSITTACIDAE,Lophopsittacus,bensoni,"Holyoak, 1973",,,,,,Mauritius Grey Parrot,,,EX,,3.1,2012,,N,Mauritius,1764
+421,22728847,ANIMALIA,CHORDATA,AVES,PSITTACIFORMES,PSITTACIDAE,Lophopsittacus,mauritianus,"(Owen, 1866)",,,,,,"Broad-billed Parrot, Mauritius Parrot",,,EX,,3.1,2012,,N,Mauritius,1673
+422,12382,ANIMALIA,MOLLUSCA,GASTROPODA,PATELLOGASTROPODA,LOTTIDAE,Lottia,alveus,"Conrad, 1831",,,,,,Eelgrass Limpet,,,EX,,2.3,1996,,N,United States,
+423,12526,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PUPILLIDAE,Lyropupa,perlonga,"W.H. Pease, 1871",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+424,197874,ANIMALIA,ARTHROPODA,MALACOSTRACA,DECAPODA,PALAEMONIDAE,Macrobrachium,leptodactylus," (De Man, 1892a)",,,,,,,,,EX,,3.1,2013,stable,N,Indonesia (Jawa),1888
+425,12625,ANIMALIA,CHORDATA,MAMMALIA,DIPROTODONTIA,MACROPODIDAE,Macropus,greyi,"Waterhouse, 1845",,,,,,Toolache Wallaby,,,EX,,3.1,2008,,N,"Australia (South Australia, Victoria)",1924
+426,12651,ANIMALIA,CHORDATA,MAMMALIA,PERAMELEMORPHIA,THYLACOMYIDAE,Macrotis,leucura,"(Thomas, 1887)",,,,,,"Yallara, Lesser Bilby","Bandicoot-lapin Mineur, Bandicoot-lapin À Queue Blanche, Petit Bandicoot-lapin, Petit Péramèle-lapin",Cangurito Narigudo Coliblanco,EX,,3.1,2008,,N,"Australia (Northern Territory, Queensland, South Australia, Western Australia)",1931
+427,33655,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,EBENALES,SAPOTACEAE,Madhuca,insignis,(Radlk.) H.J.Lam,,,,,,,,,EX,,2.3,1998,,N,India (Karnataka),
+428,199495,ANIMALIA,ARTHROPODA,INSECTA,BLATTODEA,BLATTELLIDAE,Margatteoidea,amoena,"(Bolivar, 1924)",,,,,Supella amoena  ,,,,EX,,3.1,2012,unknown,N,Seychelles (Seychelles (main island group)),1905
+429,18979,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Marstonia,olivacea,"Pilsbry, 1895",,,,,Pyrgulopsis olivacea  ,Olive Marstonia,,,EX,,3.1,2011,,N,United States (Alabama),2004
+430,22728866,ANIMALIA,CHORDATA,AVES,STRIGIFORMES,STRIGIDAE,Mascarenotus,grucheti,"Mourer-Chauviré, Bour, Moutou & Ribes, 1994",,,,,,"Reunion Owl, Réunion Owl",,,EX,,3.1,2012,,N,Runion,
+431,22728856,ANIMALIA,CHORDATA,AVES,STRIGIFORMES,STRIGIDAE,Mascarenotus,murivorus,"Milne-Edwards, Alphonse (1873)",,,,,,Rodrigues Owl,,,EX,,3.1,2012,,N,Mauritius,1726
+432,22728861,ANIMALIA,CHORDATA,AVES,STRIGIFORMES,STRIGIDAE,Mascarenotus,sauzieri,"(Newton & Gadow, 1893)",,,,,,Mauritius Owl,,,EX,,3.1,2012,,N,Mauritius,1837
+433,22685258,ANIMALIA,CHORDATA,AVES,PSITTACIFORMES,PSITTACIDAE,Mascarinus,mascarin,"(Linnaeus, 1771)",,,,,Mascarinus mascarinus,Mascarene Parrot,,,EX,,3.1,2014,,N,Runion,1775
+434,12879,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Mautodontha,acuticosta,"Garrett, 1884",,,,,,,,,EX,,2.3,1996,,N,French Polynesia,
+435,12882,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Mautodontha,consimilis,"Pease, 1868",,,,,,,,,EX,,2.3,1996,,N,French Polynesia,
+436,12883,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Mautodontha,consobrina,"Garrett, 1884",,,,,,,,,EX,,2.3,1996,,N,French Polynesia,
+437,12884,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Mautodontha,maupiensis,"Garrett, 1872",,,,,,,,,EX,,2.3,1996,,N,French Polynesia,
+438,12885,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Mautodontha,parvidens,"Garrett, 1884",,,,,,,,,EX,,2.3,1996,,N,French Polynesia,
+439,12886,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Mautodontha,punctiperforata,"Garrett, 1884",,,,,,,,,EX,,2.3,1996,,N,French Polynesia,
+440,12887,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Mautodontha,saintjohni,"Solem, 1976",,,,,,,,,EX,,2.3,1996,,N,French Polynesia,
+441,12888,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Mautodontha,subtilis,"Garrett, 1884",,,,,,,,,EX,,2.3,1996,,N,French Polynesia,
+442,12889,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Mautodontha,unilamellata,"Garrett, 1884",,,,,,,,,EX,,2.3,1996,,N,Cook Islands,
+443,12890,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Mautodontha,zebrina,,,,,,,,,,EX,,2.3,1996,,N,Cook Islands,
+444,12922,ANIMALIA,ARTHROPODA,INSECTA,COLEOPTERA,CARABIDAE,Mecodema,punctellum,"Broun, 1921",,,,,,,,,EX,,2.3,1996,,N,New Zealand,
+445,12926,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Medionidus,mcglameriae,"van der Schalie, 1939",,,,,,Tombigbee Moccasinshell,,,EX,,2.3,2000,,N,United States,1996
+446,12944,ANIMALIA,ARTHROPODA,INSECTA,COLEOPTERA,DYTISCIDAE,Megadytes,ducalis,"Sharp, 1882",,,,,,,,,EX,,2.3,1996,,N,Brazil,
+447,12953,ANIMALIA,ARTHROPODA,INSECTA,ODONATA,COENAGRIONIDAE,Megalagrion,jugorum,"(Perkins, 1899)",,,,,,Maui Upland Damselfly,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+448,41213,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,STROPHOCHEILIDAE,Megalobulimus,cardosoi,"(Morretes, 1952)",,,,,Megalolulimus cardosoi  ,,,,EX,,2.3,1996,,N,Brazil,
+449,12980,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CRICETIDAE,Megalomys,desmarestii,"(J. Fischer, 1829)",,,,,,"Desmarest's Pilorie, Antillean Giant Rice Rat",,,EX,,3.1,2008,,N,Martinique,1897
+450,12981,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CRICETIDAE,Megalomys,luciae,"(Forsyth Major, 1901)",,,,,,"Santa Lucian Pilorie, Santa Lucia Giant Rice Rat",,,EX,,3.1,2008,,N,Saint Lucia,1881
+451,136657,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CRICETIDAE,Megaoryzomys,curioi,"(Niethammer, 1964)",,,,,,Galapágos Giant Rat,,,EX,,3.1,2008,,N,Ecuador,
+452,51269349,ANIMALIA,ARTHROPODA,INSECTA,ORTHOPTERA,ACRIDIDAE,Melanoplus,spretus,"(Walsh, 1866)",,,,,Caloptenus spretus,Rocky Mountain Locust,,,EX,,3.1,2014,,N,Canada; United States,1875
+453,33664,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,SAPINDALES,RUTACEAE,Melicope,cruciata,(Heller) T.G. Hartley & B.C. Stone,,,,,,Cross-bearing Pelea,,,EX,,2.3,1998,,N,United States (Hawaiian Is.),
+454,33665,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,SAPINDALES,RUTACEAE,Melicope,haleakalae,(B.C. Stone) T.G. Hartley & B.C. Stone,,,,,,,,,EX,,2.3,1998,,N,United States (Hawaiian Is.),
+455,33673,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,SAPINDALES,RUTACEAE,Melicope,obovata,(H.St.John) T.G.Hartley & B.C.Stone,,,,,Pelea obovata,Obovate Melicope,,,EX,,2.3,1998,,N,United States (Hawaiian Is.),
+456,33675,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,SAPINDALES,RUTACEAE,Melicope,paniculata,(St. John) T.G. Hartley & B.C. Stone,,,,,,,,,EX,,2.3,1998,,N,United States (Hawaiian Is.),
+457,184749,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Mercuria,letourneuxiana,"(Bourguignat, 1862)",,,,,,,,,EX,,3.1,2010,,N,Algeria,1864
+458,22680496,ANIMALIA,CHORDATA,AVES,ANSERIFORMES,ANATIDAE,Mergus,australis,"Hombron & Jacquinot, 1841",,,,,,"Auckland Merganser, Auckland Island Merganser",,,EX,,3.1,2012,,N,New Zealand,1902
+459,21460777,ANIMALIA,ARTHROPODA,ARACHNIDA,OPILIONES,ZALMOXIDAE,Metazalmoxis,ferruginea,"Roewer, 1912",,,,,,,,,EX,,3.1,2014,,N,Seychelles (Seychelles (main island group)),1892
+460,22691086,ANIMALIA,CHORDATA,AVES,COLUMBIFORMES,COLUMBIDAE,Microgoura,meeki,"Rothschild, 1904",,,,,,"Choiseul Pigeon, Solomon Islands Crowned-pigeon, Kuvojo, Solomons Crested Pigeon",,,EX,,3.1,2012,,N,Solomon Islands,1904
+461,73,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Mirogrex,hulensis,"Goren, Fishelson & Trewavas, 1973",,,,,Acanthobrama hulensis|Mirogrex terraesanctae subspecies hulensis,Hula Bream,,,EX,,3.1,2014,,N,Israel,1950
+462,22704329,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,MOHOIDAE,Moho,apicalis,"Gould, 1860",,,,,,"Oahu Oo, O'ahu 'O'o",,,EX,,3.1,2012,,N,United States (Hawaiian Is.),1837
+463,22704335,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,MOHOIDAE,Moho,bishopi,"(Rothschild, 1893)",,,,,,"Bishop's Oo, Bishop's 'O'o, Molokai 'o'o",,,EX,,3.1,2012,,N,United States (Hawaiian Is.),1981
+464,22704323,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,MOHOIDAE,Moho,braccatus,"(Cassin, 1855)",,,,,,"Kauai Oo, Kaua'i 'O'o",,,EX,,3.1,2012,,N,United States (Hawaiian Is.),1987
+465,22704342,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,MOHOIDAE,Moho,nobilis,"(Merrem, 1786)",,,,,,"Hawaii Oo, Hawai'i 'O'o",,,EX,,3.1,2012,,N,United States (Hawaiian Is.),1934
+466,39291,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CATOSTOMIDAE,Moxostoma,lacerum,"(Jordan & Brayton, 1877)",,,,,Lagochila lacera,Harelip Sucker,,,EX,,3.1,2013,,N,United States,
+467,22728746,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Mundia,elpenor,"(Olson, 1973)",,,,,Atlantisia elpenor |Atlantisia elpenor ,"Ascension Crake, Ascension Flightless Crake",,,EX,,3.1,2012,,N,"Saint Helena, Ascension and Tristan da Cunha (Ascension)",1656
+468,22708559,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,TURDIDAE,Myadestes,myadestinus,"(Stejneger, 1887)",,,,,,"Kamao, Hawaiian Thrush, Kama'o",,,EX,,3.1,2012,,N,United States (Hawaiian Is.),1985
+469,22708564,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,TURDIDAE,Myadestes,woahensis,"(Wilson & Evans, 1899)",,,,,Myadestes oahensis |Myadestes oahensis |Myadestes oahensis |Myadestes oahensis woahensis,"Amaui, 'Amaui",,,EX,,3.1,2012,,N,United States (Hawaiian Is.),1825
+470,22707354,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,MONARCHIDAE,Myiagra,freycineti,"Oustalet, 1881",,,,,,"Guam Flycatcher, Guam Broadbill",,,EX,,3.1,2012,,N,Guam,1983
+471,62798327,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,LAMIALES,BORAGINACEAE,Myosotis,laingii,Cheeseman,,,,,,Waiautoa Forget-Me-Not,,,EX,,3.1,2014,,N,New Zealand (South Is.),1912
+472,33796,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,MYRTALES,MYRTACEAE,Myrcia,skeldingii,Proctor,,,,,,,,,EX,,2.3,1998,,N,Jamaica,
+473,14316,ANIMALIA,ARTHROPODA,OSTRACODA,PODOCOPIDA,CANDONIDAE,Namibcypris,costata,"Martens, 1992",,,,,Namibocypris costata  ,,,,EX,,2.3,1996,,N,Namibia,
+474,14318,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,HELICARIONIDAE,Nancibella,quintalia,"Cox, 1870",,,,,,,,,EX,,2.3,1996,,N,Norfolk Island,
+475,22728841,ANIMALIA,CHORDATA,AVES,CUCULIFORMES,CUCULIDAE,Nannococcyx,psix,"Olson, 1975",,,,,,St Helena Cuckoo,,,EX,,3.1,2012,,N,"Saint Helena, Ascension and Tristan da Cunha",
+476,58390,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,DICROGLOSSIDAE,Nannophrys,guentheri,"Boulenger, 1882",,,,,,,,,EX,,3.1,2004,,N,Sri Lanka,
+477,22710836,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,STURNIDAE,Necropsar,rodericanus,"Slater, 1879",,,,,,"Rodrigues Starling, Rodriguez Starling",,,EX,,3.1,2012,,N,Mauritius,1726
+478,22728851,ANIMALIA,CHORDATA,AVES,PSITTACIFORMES,PSITTACIDAE,Necropsittacus,rodricanus,"(Milne-Edwards, 1867)",,,,,Necropsittacus rodericanus,Rodrigues Parrot,,,EX,,3.1,2014,,N,Mauritius,1761
+479,14483,ANIMALIA,ARTHROPODA,INSECTA,ORTHOPTERA,TETTIGONIIDAE,Neduba,extincta,"Rentz, 1977",,,,,,Antioch Dunes Shieldback Katydid,,,EX,,2.3,1996,,N,United States,
+480,39179,PLANTAE,BRYOPHYTA,BRYOPSIDA,HYPNALES,NECKERACEAE,Neomacounia,nitida,(Lindb.) Ireland,,,,,,,,,EX,,2.3,2000,,N,Canada (Ontario),1864
+481,13655,ANIMALIA,CHORDATA,MAMMALIA,CARNIVORA,PHOCIDAE,Neomonachus,tropicalis,"(Gray, 1850)",,,,,Monachus tropicalis|Phoca tropicalis,"Caribbean Monk Seal, West Indian Seal, West Indian Monk Seal",,Foca Fraile del Caribe,EX,,3.1,2015,,N,"Antigua and Barbuda; Bahamas; Belize; Costa Rica; Cuba; Dominica; Dominican Republic; Guadeloupe; Haiti; Honduras (Honduran Caribbean Is., Honduras (mainland)); Jamaica; Mexico (Veracruz, Yucatn); Nicaragua (Nicaraguan Caribbean Is.); Puerto Rico; United States (Florida, Georgia)",1952
+482,14553,ANIMALIA,MOLLUSCA,GASTROPODA,HYGROPHILA,PLANORBIDAE,Neoplanorbis,carinatus,"Walker, 1908",,,,,,Carinate Flat-top Snail,,,EX,,2.3,2000,,N,United States,
+483,14554,ANIMALIA,MOLLUSCA,GASTROPODA,HYGROPHILA,PLANORBIDAE,Neoplanorbis,smithi,"Walker, 1908",,,,,,Angled Flat-top Snail,,,EX,,2.3,2000,,N,United States,
+484,14556,ANIMALIA,MOLLUSCA,GASTROPODA,HYGROPHILA,PLANORBIDAE,Neoplanorbis,tantillus,"Pilsbry, 1906",,,,,,Little Flat-top Snail,,,EX,,3.1,2012,,N,United States (Alabama),2004
+485,14555,ANIMALIA,MOLLUSCA,GASTROPODA,HYGROPHILA,PLANORBIDAE,Neoplanorbis,umbilicatus,"Walker, 1908",,,,,,Umbilicate Flat-top Snail,,,EX,,2.3,2000,,N,United States,
+486,14576,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CRICETIDAE,Neotoma,anthonyi,"J.A. Allen, 1898",,,,,,Anthony's Woodrat,,,EX,,3.1,2008,,N,Mexico,1926
+487,14577,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CRICETIDAE,Neotoma,bunkeri,"Burt, 1932",,,,,,"Bunker's Woodrat, Coronados Island Woodrat",,,EX,,3.1,2008,,N,Mexico,1931
+488,14580,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CRICETIDAE,Neotoma,martinensis,"Goldman, 1905",,,,,,San Martin Island Woodrat,,,EX,,3.1,2008,,N,Mexico,1950
+489,40784,ANIMALIA,CHORDATA,MAMMALIA,CARNIVORA,MUSTELIDAE,Neovison,macrodon,"(Prentis, 1903)",,,,,Mustela macrodon  ,Sea Mink,,,EX,,3.1,2008,,N,"Canada (New Brunswick, Newfoundland I); United States (Maine, Massachusetts)",1894
+490,22714587,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,SYLVIIDAE,Nesillas,aldabrana,"Benson & Penny, 1968",,,,,Nesillas aldabranus aldabranus,"Aldabra Warbler, Aldabra Tsikirity, Aldabra Bush-warbler, Aldabra Brush-Warbler, Aldabra Brush Warbler",Fauvette d'Aldabra,,EX,,3.1,2012,,N,Seychelles,1983
+491,37598,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,RHAMNALES,RHAMNACEAE,Nesiota,elliptica,(Roxb.) Hook.f.,,,,,Phylica elliptica,St Helena Olive,,,EX,,3.1,2004,,N,"Saint Helena, Ascension and Tristan da Cunha (Saint Helena (main island))",1994
+492,62257034,ANIMALIA,CHORDATA,AVES,COLUMBIFORMES,COLUMBIDAE,Nesoenas,cicur,"Hume, 2011",,,,,,Mauritius Turtle-dove,,,EX,,3.1,2014,,N,Mauritius,1730
+493,22728712,ANIMALIA,CHORDATA,AVES,COLUMBIFORMES,COLUMBIDAE,Nesoenas,duboisi,"(Rothschild, 1907)",,,,,Columba duboisi,"Reunion Pigeon, Réunion Pigeon",,,EX,,3.1,2012,,N,Runion,1674
+494,22728722,ANIMALIA,CHORDATA,AVES,COLUMBIFORMES,COLUMBIDAE,Nesoenas,rodericanus,"(Milne-Edwards, 1874)",,,,,Alectroenas rodericana,"Rodrigues Turtle-dove, Rodrigues Turtle-dove, Rodrigues Pigeon",,,EX,,3.1,2014,,N,Mauritius,
+495,41313,ANIMALIA,CHORDATA,MAMMALIA,EULIPOTYPHLA,NESOPHONTIDAE,Nesophontes,edithae,"Anthony, 1916",,,,,,"Edith's Island-shrew, Edith's Nesophont, Puerto Rican Nesophontes",,,EX,,3.1,2008,,N,"Puerto Rico (Puerto Rico (main island)); Virgin Islands, U.S.",1500
+496,14672,ANIMALIA,CHORDATA,MAMMALIA,EULIPOTYPHLA,NESOPHONTIDAE,Nesophontes,hypomicrus,"Miller, 1929",,,,,,Atalaye Nesophontes,,,EX,,3.1,2008,,N,Dominican Republic; Haiti,
+497,136381,ANIMALIA,CHORDATA,MAMMALIA,EULIPOTYPHLA,NESOPHONTIDAE,Nesophontes,major,"Arredondo, 1970",,,,,,,,,EX,,3.1,2008,,N,Cuba,
+498,14673,ANIMALIA,CHORDATA,MAMMALIA,EULIPOTYPHLA,NESOPHONTIDAE,Nesophontes,micrus,"G.M. Allen, 1917",,,,,,Western Cuban Nesophontes,,,EX,,3.1,2008,,N,Cuba,
+499,14674,ANIMALIA,CHORDATA,MAMMALIA,EULIPOTYPHLA,NESOPHONTIDAE,Nesophontes,paramicrus,"Miller, 1929",,,,,,St. Michel Nesophontes,,,EX,,3.1,2008,,N,Haiti,
+500,14676,ANIMALIA,CHORDATA,MAMMALIA,EULIPOTYPHLA,NESOPHONTIDAE,Nesophontes,zamicrus,"Miller, 1929",,,,,,Haitian Nesophontes,,,EX,,3.1,2008,,N,Haiti,
+501,14681,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PUPILLIDAE,Nesopupa,turtoni,"Smith, 1892",,,,,,,,,EX,,2.3,1996,,N,"Saint Helena, Ascension and Tristan da Cunha",
+502,14706,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CRICETIDAE,Nesoryzomys,darwini,"Osgood, 1929",,,,,,Darwin's Galapagos Mouse,,,EX,,3.1,2008,,N,Ecuador (Galpagos),1906
+503,14708,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CRICETIDAE,Nesoryzomys,indefessus,"(Thomas, 1899)",,,,,,Indefatigable Galapagos Mouse,,,EX,,3.1,2008,,N,Ecuador (Galpagos),1934
+504,22684834,ANIMALIA,CHORDATA,AVES,PSITTACIFORMES,STRIGOPIDAE,Nestor,productus,"(Gould, 1836)",,,,,,"Norfolk Kaka, Norfolk Kaka",,,EX,,3.1,2012,,N,Norfolk Island,1800
+505,14746,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Newcombia,philippiana,"Pfeiffer, 1850",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+506,136692,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CRICETIDAE,Noronhomys,vespuccii,"Carleton & Olson, 1999",,,,,,,,,EX,,3.1,2008,,N,Brazil,1500
+507,14861,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,MURIDAE,Notomys,amplus,"Brazenor, 1936",,,,,,Short-tailed Hopping-mouse,Souris Sauteuse,Ratones Saltadores De Australia,EX,,3.1,2008,,N,"Australia (Northern Territory, South Australia, Western Australia)",1896
+508,14864,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,MURIDAE,Notomys,longicaudatus,"(Gould, 1844)",,,,,,Long-tailed Hopping-mouse,Souris Sauteuse,Ratones Saltadores De Australia,EX,,3.1,2008,,N,"Australia (New South Wales, Northern Territory, South Australia, Western Australia)",1901
+509,14865,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,MURIDAE,Notomys,macrotis,"Thomas, 1921",,,,,,"Big-eared Hopping-mouse, Big-eared Hopping Mouse",Souris Sauteuse,Ratones Saltadores De Australia,EX,,3.1,2008,,N,Australia (Western Australia),1843
+510,14866,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,MURIDAE,Notomys,mordax,"Thomas, 1922",,,,,,Darling Downs Hopping-mouse,Souris Sauteuse,Ratones Saltadores De Australia,EX,,3.1,2008,,N,Australia (Queensland),1840
+511,14881,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Notropis,amecae,"Chernoff & Miller, 1986",,,,,,Ameca Shiner,,,EX,,2.3,1996,,N,Mexico,
+512,14882,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Notropis,aulidion,"Chernoff & Miller, 1986",,,,,,Durango Shiner,,,EX,,2.3,1996,,N,Mexico,
+513,14891,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Notropis,orca,"Woolman, 1894",,,,,,Phantom Shiner,,,EX,,3.1,2013,,N,Mexico; United States,1975
+514,14894,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Notropis,saladonis,"Hubbs & Hubbs, 1958",,,,,,Salado Shiner,,Sardinita de Salado,EX,,2.3,1996,,N,Mexico,1999
+515,14908,ANIMALIA,CHORDATA,ACTINOPTERYGII,SILURIFORMES,ICTALURIDAE,Noturus,trautmani,"Taylor, 1969",,,,,,Scioto Madtom,,,EX,,3.1,2013,,N,United States,
+516,62286255,ANIMALIA,CHORDATA,AVES,PELECANIFORMES,ARDEIDAE,Nyctanassa,carcinocatactes,"Olson & Wingate, 2006",,,,,,Bermuda Night-heron,,,EX,,3.1,2014,,N,Bermuda,
+517,22728781,ANIMALIA,CHORDATA,AVES,PELECANIFORMES,ARDEIDAE,Nycticorax,duboisi,"Rothschild, 1907",,,,,,"Reunion Night-heron, Réunion Night-Heron",,,EX,,3.1,2012,,N,Runion,1674
+518,22728777,ANIMALIA,CHORDATA,AVES,PELECANIFORMES,ARDEIDAE,Nycticorax,mauritianus,"(Newton & Gadow, 1893)",,,,,,"Mauritius Night-heron, Mauritius Night-Heron",,,EX,,3.1,2012,,N,Mauritius,1693
+519,22728787,ANIMALIA,CHORDATA,AVES,PELECANIFORMES,ARDEIDAE,Nycticorax,megacephalus,"(Milne-Edwards, 1873)",,,,,,"Rodrigues Night-heron, Rodrigues Night-Heron",,,EX,,3.1,2012,,N,Mauritius,1726
+520,35042,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,GENTIANALES,APOCYNACEAE,Ochrosia,brownii,(Fosberg & Sachet) Lorence & Butaud,,,,,Neisosperma brownii,,,,EX,,2.3,1998,,N,French Polynesia (Marquesas),
+521,35043,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,GENTIANALES,APOCYNACEAE,Ochrosia,fatuhivensis,Fosberg & Sachet,,,,,,,,,EX,,2.3,1998,,N,French Polynesia (Marquesas),
+522,35045,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,GENTIANALES,APOCYNACEAE,Ochrosia,tahitensis,Lanessan ex Pichon,,,,,,,,,EX,,2.3,1998,,N,French Polynesia (Society Is.),
+523,193438,PLANTAE,TRACHEOPHYTA,LILIOPSIDA,ORCHIDALES,ORCHIDACEAE,Oeceoclades,seychellarum,(Rolfe ex Summerh.) Garay & P.Taylor,,,,,Eulophia seychellarum  |Eulophidium seychellarum  ,,,,EX,,3.1,2011,,N,Seychelles (Seychelles (main island group)),1902
+524,15166,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,PYRALIDAE,Oeobia,sp. nov.,,,,,,,,,,EX,,2.3,1996,,N,United States,
+525,15187,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Ohridohauffenia,drimica,"(Radoman, 1964)",,,,,,,,,EX,,3.1,2010,decreasing,N,"Macedonia, the former Yugoslav Republic of",1996
+526,43923,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,RUBIALES,RUBIACEAE,Oldenlandia,adscensionis,(DC.) Cronk,,,,,Hedyotis adscensionis|Oldenlandia adscenionis,,,,EX,,3.1,2012,,N,"Saint Helena, Ascension and Tristan da Cunha (Ascension)",1997
+527,15191,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,OLEACINIDAE,Oleacina,guadeloupensis,"Pfeiffer, 1856",,,,,,,,,EX,,2.3,1996,,N,Guadeloupe,
+528,15255,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CRICETIDAE,Oligoryzomys,victus,"(Thomas, 1898)",,,,,,"St Vincent Pygmy Rice Rat, St. Vincent Pygmy Rice Rat",,,EX,,3.1,2008,,N,Saint Vincent and the Grenadines,1892
+529,15297,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,ASSIMINEIDAE,Omphalotropis,plicosa,"Pfeiffer, 1852",,,,,,,,,EX,,2.3,1996,,N,Mauritius,
+530,15331,ANIMALIA,CHORDATA,MAMMALIA,DIPROTODONTIA,MACROPODIDAE,Onychogalea,lunata,"(Gould, 1841)",,,,,,Crescent Nailtail Wallaby,"Wallaby À Queue Cornée, Onychogale Croissant",Canguro Rabipelado Occidental,EX,,3.1,2008,,N,"Australia (New South Wales, Northern Territory, South Australia, Western Australia)",1950
+531,15144,ANIMALIA,ARTHROPODA,INSECTA,COLEOPTERA,CURCULIONIDAE,Oodemas,laysanensis,"Fullaway, 1914",,,,,Oedemasylus laysanensis,Laysan Weevil,,,EX,,3.1,2014,,N,United States (Hawaiian Is.),1964
+532,32433,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FABALES,LEGUMINOSAE,Ormosia,howii,Merr. & Chen,,,,,,,,,EX,,2.3,1998,,N,"China (Guangdong, Hainan)",
+533,201484,ANIMALIA,ARTHROPODA,DIPLOPODA,POLYDESMIDA,PARADOXOSOMATIDAE,Orthomorpha,crinita,"Attems, 1900",,,,,,,,,EX,,3.1,2014,,N,Seychelles (Seychelles (main island group)),1894
+534,136540,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CRICETIDAE,Oryzomys,antillarum,"Thomas, 1898",,,,,,Jamaican Rice Rat,,,EX,,3.1,2008,,N,Jamaica,1877
+535,15583,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CRICETIDAE,Oryzomys,nelsoni,"Merriam, 1898",,,,,,"Nelson's Rice Rat, Tres Marias Island Rice Rat",,,EX,,3.1,2008,,N,Mexico,1897
+536,32434,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,SAPINDALES,SAPINDACEAE,Otophora,unilocularis,(Leenh.) Lo,,,,,,,,,EX,,2.3,1998,,N,China (Hainan),
+537,168116,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CERASTIDAE,Pachnodus,curiosus,"Gerlach, 2003",,,,,,,,,EX,,3.1,2009,,N,Seychelles (Seychelles (main island group)),1800
+538,168112,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CERASTIDAE,Pachnodus,ladiguensis,"Gerlach, 2003",,,,,,,,,EX,,3.1,2009,,N,Seychelles (Seychelles (main island group)),1800
+539,40091,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CERASTIDAE,Pachnodus,velutinus,"(Pfeiffer, 1841)",,,,,,,,,EX,,3.1,2009,,N,Seychelles (Seychelles (main island group)),1972
+540,15864,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,EUCONULIDAE,Pachystyla,rufozonata,"Adams, 1867",,,,,,,,,EX,,2.3,1996,,N,Mauritius,
+541,15867,ANIMALIA,ARTHROPODA,MALACOSTRACA,DECAPODA,ASTACIDAE,Pacifastacus,nigrescens,"(Stimpson, 1857)",,,,,,Sooty Crayfish,,,EX,,3.1,2010,decreasing,N,United States (California),
+542,136532,ANIMALIA,CHORDATA,MAMMALIA,PRIMATES,PALAEOPROPITHECIDAE,Palaeopropithecus,ingens,"G. Grandidier, 1899",,,,,,Large Sloth Lemur,,,EX,,3.1,2008,,N,Madagascar,1620
+543,15949,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINODONTIFORMES,POECILIIDAE,Pantanodon,madagascariensis,"(Arnoult, 1963)",,,,,,,,,EX,,3.1,2004,,N,Madagascar,1960
+544,15971,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,HELICARIONIDAE,Panulena,perrugosa,"Iredale, 1945",,,,,,,,,EX,,2.3,1996,,N,Norfolk Island,
+545,22720823,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,FRINGILLIDAE,Paroreomyza,flammea,"(Wilson, 1889)",,,,,,"Kakawahie, Molokai Creeper",,,EX,,3.1,2012,,N,United States (Hawaiian Is.),1961
+546,16297,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,approximata,,,,,,,,,,EX,,2.3,1996,,N,,
+547,16284,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,arguta,"(Pease, 1864) ",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1990
+548,16298,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,atilis,"Crampton, 1956",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+549,16272,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,aurantia,"Crampton, 1932",,,,,,"Moorean Viviparous Tree Snail, Polynesian Tree Snail",,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1977
+550,16300,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,auriculata,"Broderip, 1832",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+551,16334,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,bilineata,"Pease, 1866",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+552,16335,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,callifera,Pfeiffer,,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+553,16301,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,candida,"Crampton, 1956",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+554,16302,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,castanea,,,,,,,,,,EX,,2.3,1996,,N,,
+555,16336,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,cedista,"Crampton, 1956",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+556,16303,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,citrina,"Pease, 1866",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+557,16305,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,compacta,,,,,,,,,,EX,,2.3,1996,,N,,
+558,16306,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,crassilabris,"Pease, 1866",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+559,16307,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,cuneata,"Crampton, 1956",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+560,16337,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,cytherea,"Cooke & Crampton, 1930",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1977
+561,16308,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,dolichostoma,"Crampton, 1956",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+562,16338,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,dolorosa,"Crampton & Cooke, 1953",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+563,16339,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,eremita,"Crampton & Cooke, 1953",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+564,16273,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,exigua,Crampton,,,,,,"Moorean Viviparous Tree Snail, Polynesian Tree Snail",,,EX,,3.1,2009,,N,,1977
+565,16309,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,filosa,"Pfeiffer, 1851",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,,1977
+566,16310,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,formosa,Pease,,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+567,16311,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,fusca,"Pease, 1867",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,,1980
+568,16312,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,garretti,"Pease, 1864",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+569,16314,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,imperforata,"Pease, 1884",,,,,,Polynesia Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+570,16290,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,labrusca,"Crampton & Cooke, 1953",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+571,16315,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,leptochila,"Crampton, 1956",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+572,16316,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,levilineata,"Crampton, 1956",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,,1980
+573,16317,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,levistriata,"Crampton, 1956",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+574,168191,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,lugubris,"Pease, 1864",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+575,16318,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,lutea,"(Lesson, 1831)",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1986
+576,16319,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,microstoma,,,,,,,,,,EX,,2.3,1996,,N,,
+577,168192,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,navigatoria,Pfeiffer,,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+578,168193,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,ovalis,Pease,,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,,1980
+579,16341,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,planilabrum,"Pease, 1864",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+580,16322,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,producta,"Pease, 1864",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1977
+581,16323,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,protea,,,,,,,,,,EX,,2.3,1996,,N,,
+582,16324,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,protracta,"Crampton, 1956",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+583,16325,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,radiata,"Garrett, 1884",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,,1980
+584,16326,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,raiatensis,,,,,,,,,,EX,,2.3,1996,,N,French Polynesia,
+585,16327,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,remota,"Crampton, 1956",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+586,16342,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,robusta,"Pease, 1863",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,,1980
+587,16328,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,rustica,"Pease, 1866",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,,1980
+588,16343,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,sagitta,"Crampton & Cooke, 1953",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+589,16280,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,salifana,"Crampton, 1925",,,,,,"Mount Alifana Partula, Tree Snail",,,EX,,2.3,1996,,N,Guam,
+590,16329,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,thalia,"Garrett, 1884",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,,1980
+591,16331,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,turgida,"(Pease, 1864)",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+592,16349,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,umbilicata,"Pease, 1866",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1980
+593,16332,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,variabilis,,,,,,,,,,EX,,2.3,1996,,N,,
+594,16333,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Partula,vittata,"Pease, 1866",,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,,1980
+595,16351,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Partulina,crassa,"(Newcomb, 1853)",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+596,16353,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Partulina,montagui,"Pilsbry, 1850",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+597,36157,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,RUBIALES,RUBIACEAE,Pausinystalia,brachythyrsum,(K.Schum.) W.Brandt,,,,,,,,,EX,,2.3,1998,,N,Cameroon,
+598,16527,ANIMALIA,CHORDATA,REPTILIA,TESTUDINES,PELOMEDUSIDAE,Pelusios,seychellensis,"(Siebenrock, 1906)",,,,,Pelusios castaneus subspecies seychellensis|Pelusios subniger subspecies seychellensis|Sternothaerus nigricans subspecies seychellensis,"Seychelles Black Terrapin, Seychelles Mud Turtle, Seychelles Terrapin",,,EX,,3.1,2003,,N,Seychelles,1895
+599,199838,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CRICETIDAE,Pennatomys,nivalis,"Turvey, Weksler, Morris & Nokkert, 2010",,,,,,"Nevis Rice Rat, St. Eustatius Rice Rat, St. Kitts Rice Rat",,,EX,,3.1,2011,,N,"Bonaire, Sint Eustatius and Saba (Sint Eustatius); Saint Kitts and Nevis",1930
+600,40726,ANIMALIA,ARTHROPODA,INSECTA,EPHEMEROPTERA,EPHEMERIDAE,Pentagenia,robusta,"McDunnough, 1926",,,,,Pantagenia robusta  ,"Robust Burrowing Mayfly, Robust Pentagenian Burrowing Mayfly",,,EX,,2.3,1996,,N,"United States (Indiana, Kentucky, Minnesota, Ohio)",1926
+601,16570,ANIMALIA,CHORDATA,MAMMALIA,PERAMELEMORPHIA,PERAMELIDAE,Perameles,eremiana,"Spencer, 1897",,,,,,Desert Bandicoot,Péramèle Du Désert,,EX,,3.1,2008,,N,Australia,1943
+602,16601,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Perdicella,fulgurans,Sykes,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+603,16602,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Perdicella,maniensis,,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+604,16603,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Perdicella,zebra,Newcomb,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+605,16604,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Perdicella,zebrina,Pfeiffer,,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+606,196773,ANIMALIA,ARTHROPODA,ARACHNIDA,OPILIONES,PODOCTIDAE,Peromona,erinacea,"Roewer, 1949",,,,,,,,,EX,,3.1,2014,,N,Seychelles (Seychelles (main island group)),1892
+607,16645,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CRICETIDAE,Peromyscus,pembertoni,"Burt, 1932",,,,,,Pemberton's Deer Mouse,,,EX,,3.1,2008,,N,Mexico,1931
+608,22690062,ANIMALIA,CHORDATA,AVES,COLUMBIFORMES,COLUMBIDAE,Pezophaps,solitaria,"(Gmelin, 1789)",,,,,,"Rodrigues Solitaire, Rodriguez Solitaire",,,EX,,3.1,2012,,N,Mauritius,1761
+609,22696750,ANIMALIA,CHORDATA,AVES,SULIFORMES,PHALACROCORACIDAE,Phalacrocorax,perspicillatus,"Pallas, 1811",,,,,,Spectacled Cormorant,,,EX,,3.1,2015,,N,Russian Federation,1840
+610,16925,ANIMALIA,CHORDATA,REPTILIA,SQUAMATA,GEKKONIDAE,Phelsuma,gigas,"Liénard, 1842",,,,,,,"Gecko diurne géant de Rodrigues, Phelsume de géant Rodrigues",,EX,,2.3,1996,,N,Mauritius (Rodrigues),
+611,17078,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,HYLIDAE,Phrynomedusa,fimbriata,"Miranda-Ribeiro, 1923",,,,,,,,,EX,,3.1,2004,,N,Brazil,
+612,17120,ANIMALIA,ARTHROPODA,INSECTA,HEMIPTERA,PSEUDOCOCCIDAE,Phyllococcus,oahuensis,"(Ehrhorn, 1912)",,,,,,,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+613,17240,ANIMALIA,MOLLUSCA,GASTROPODA,HYGROPHILA,PHYSIDAE,Physella,microstriata,"(Chamberlain &  E.G. Berry, 1930)",,,,,,Fish Lake Physa,,,EX,,2.3,2000,,N,United States (Utah),
+614,22694856,ANIMALIA,CHORDATA,AVES,CHARADRIIFORMES,ALCIDAE,Pinguinus,impennis,"(Linnaeus, 1758)",,,,,,Great Auk,Grand Pingouin,,EX,,3.1,2012,,N,Canada; Faroe Islands; Greenland; Iceland; Ireland; United Kingdom,1852
+615,17449,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ORTHALICIDAE,Placostylus,cuniculinsulae,"Cox, 1872",,,,,,,,,EX,,2.3,1996,,N,Australia,
+616,17462,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CAPROMYIDAE,Plagiodontia,ipnaeum,"Johnson, 1948",,,,,Plagiodontia velozi  ,Samana Hutia,,,EX,,3.1,2008,,N,Dominican Republic; Haiti,
+617,17480,ANIMALIA,MOLLUSCA,GASTROPODA,HYGROPHILA,PLANORBIDAE,Planorbella,multivolvis,"(Case, 1847)",,,,,,Acorn Ramshorn,,,EX,,2.3,2000,,N,United States (Michigan),
+618,180996,ANIMALIA,CHORDATA,ACTINOPTERYGII,SILURIFORMES,SCHILBEIDAE,Platytropius,siamensis,"(Sauvage, 1883)",,,,,Nemasiluroides furcatus  |Pseudeutropius siamensis  ,Siamese flat-barbelled catfish,,,EX,,3.1,2013,,N,Thailand,1975
+619,168180,ANIMALIA,MOLLUSCA,GASTROPODA,ARCHITAENIOGLOSSA,DIPLOMMATINIDAE,Plectostoma,sciaphilum,"(van Benthem-Jutting, 1952)",,,,,Opisthostoma sciaphilum,,,,EX,,3.1,2015,,N,Malaysia (Peninsular Malaysia),2000
+620,196288,ANIMALIA,ARTHROPODA,ARACHNIDA,ARANEAE,SPARASSIDAE,Pleorotus,braueri,"Simon, 1898",,,,,,,,,EX,,3.1,2014,,N,Seychelles (Seychelles (main island group)),1894
+621,29488,ANIMALIA,CHORDATA,AMPHIBIA,CAUDATA,PLETHODONTIDAE,Plethodon,ainsworthi,"Lazell, 1998",,,,,,Ainsworth's Salamander,,,EX,,3.1,2004,,N,United States,1964
+622,17672,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Pleurobema,altum,"(Conrad, 1854)",,,,,,Highnut,,,EX,,2.3,2000,,N,United States,1996
+623,17673,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Pleurobema,avellanum,"Simpson, 1900",,,,,,Hazel Pigtoe,,,EX,,2.3,2000,,N,United States,1996
+624,17675,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Pleurobema,bournianum,"(I. Lea, 1840)",,,,,,Scioto Pigtoe,,,EX,,2.3,2000,,N,United States,1996
+625,17680,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Pleurobema,flavidulum,"(I. Lea, 1861)",,,,,,Yellow Pigtoe,,,EX,,2.3,2000,,N,United States,1996
+626,17684,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Pleurobema,hagleri,"Frierson, 1900",,,,,,Brown Pigtoe,,,EX,,2.3,2000,,N,United States,1996
+627,17686,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Pleurobema,johannis,"(I. Lea, 1859)",,,,,,Alabama Pigtoe,,,EX,,2.3,2000,,N,"United States (Alabama, Georgia, Tennessee)",1996
+628,17687,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Pleurobema,murrayense,"(I. Lea, 1868)",,,,,,Coosa Pigtoe,,,EX,,2.3,2000,,N,United States,1996
+629,17688,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Pleurobema,nucleopsis,"(Conrad, 1849)",,,,,,Longnut,,,EX,,2.3,2000,,N,United States,1996
+630,17689,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Pleurobema,perovatum,"Conrad, 1834",,,,,Pleurobema johannis  |Unio cinnamomicus  |Unio concolor  |Unio flavidulus  |Unio interventus  |Unio johannis  |Unio litus  |Unio nux  |Unio pallidofulvus  |Unio perovatus  |Unio pinkstoni  |Unio simulans  ,Ovate Clubshell,,,EX,,3.1,2012,,N,"United States (Alabama, Georgia, Mississippi)",
+631,17694,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Pleurobema,troschelianum,"(I. Lea, 1852)",,,,,,Alabama Clubshell,,,EX,,2.3,2000,,N,"United States (Alabama, Georgia, Tennessee)",
+632,17695,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Pleurobema,verum,"(I. Lea, 1861)",,,,,,True Pigtoe,,,EX,,2.3,2000,,N,United States (Alabama),
+633,17708,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CAMAENIDAE,Pleurodonte,desidens,"(Rang, 1834)",,,,,,,,,EX,,2.3,2000,,N,Martinique,1834
+634,44850,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,ASTERALES,COMPOSITAE,Pluchea,glutinosa,Balf.f.,,,,,,,,,EX,,3.1,2004,,N,Yemen (Socotra),1888
+635,22696615,ANIMALIA,CHORDATA,AVES,PODICIPEDIFORMES,PODICIPEDIDAE,Podiceps,andinus,"(Meyer De Schauensee, 1959)",,,,,,Colombian Grebe,,,EX,,3.1,2012,,N,Colombia,1977
+636,22696577,ANIMALIA,CHORDATA,AVES,PODICIPEDIFORMES,PODICIPEDIDAE,Podilymbus,gigas,"Griscom, 1929",,,,,,"Atitlan Grebe, Giant Grebe, Giant Pied-billed Grebe, Atitlán Grebe",,"Poc de Atitlán, Somormujo de Atitlán, Zambullidor de Atitlán, Zampullín del Atitlán",EX,,3.1,2012,,N,Guatemala,1983
+637,17874,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Pogonichthys,ciscoides,"Hopkirk, 1974",,,,,,Clear Lake Splittail,,,EX,,3.1,2013,,N,United States,1970
+638,22732926,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,MONARCHIDAE,Pomarea,fluxa,"Murphy & Mathews, 1928",,,,,,Eiao Monarch,,,EX,,3.1,2012,,N,French Polynesia,1977
+639,22732936,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,MONARCHIDAE,Pomarea,nukuhivae,"Murphy & Mathews, 1928",,,,,,Nuku Hiva Monarch,,,EX,,3.1,2012,,N,French Polynesia,1930
+640,22724444,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,MONARCHIDAE,Pomarea,pomarea,"(Garnot, 1828)",,,,,,Maupiti Monarch,,,EX,,3.1,2012,,N,French Polynesia,1823
+641,22692801,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Porphyrio,albus,"(White, 1790)",,,,,,"White Swamphen, Lord Howe Swamphen, Lord Howe Island Swamphen",,,EX,,3.1,2012,,N,Australia,1790
+642,22728726,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Porphyrio,caerulescens,"(Selys Longchamps, 1848)",,,,,Porphyrio coerulescens,"Reunion Gallinule, Réunion Gallinule",,,EX,,3.1,2014,,N,Runion,1730
+643,22728732,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Porphyrio,kukwiedei,"Balouet & Olson, 1989",,,,,,New Caledonia Gallinule,,,EX,,3.1,2012,,N,New Caledonia,1860
+644,22728833,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Porphyrio,mantelli,"(Owen, 1848)",,,,,Porphyrio hochstetteri hochstetteri,North Island Takahe,,,EX,,3.1,2012,,N,New Zealand,1894
+645,62263064,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Porphyrio,paepae,"Steadman, 1988",,,,,,Marquesan Swamphen,,,EX,,3.1,2014,,N,French Polynesia,1937
+646,18090,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Posticobia,norfolkensis,"(Sykes, 1900)",,,,,,,,,EX,,2.3,1996,,N,Norfolk Island,
+647,18103,ANIMALIA,CHORDATA,MAMMALIA,DIPROTODONTIA,POTOROIDAE,Potorous,platyops,"(Gould, 1844)",,,,,,Broad-faced Potoroo,,,EX,,3.1,2008,,N,Australia (Western Australia),
+648,35903,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,EBENALES,SAPOTACEAE,Pouteria,stenophylla,Baehni,,,,,,,,,EX,,2.3,1998,,N,Brazil (Rio de Janeiro),
+649,35913,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,EBENALES,SAPOTACEAE,Pradosia,argentea,(Kunth) T.D.Penn.,,,,,,,,,EX,,2.3,1998,,N,Peru,
+650,35920,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,EBENALES,SAPOTACEAE,Pradosia,glaziovii,(Pierre) T.D.Penn.,,,,,,,,,EX,,2.3,1998,,N,Brazil (Rio de Janeiro),
+651,35926,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,EBENALES,SAPOTACEAE,Pradosia,mutisii,Cronquist,,,,,,,,,EX,,2.3,1998,,N,Colombia,
+652,18135,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINODONTIFORMES,POECILIIDAE,Priapella,bonita,"(Meek, 1904)",,,,,Gambusia bonita  ,Graceful Priapella,,Guayacon Ojiazul,EX,,2.3,1996,,N,Mexico,1999
+653,18220,ANIMALIA,ARTHROPODA,MALACOSTRACA,DECAPODA,CAMBARIDAE,Procambarus,angustatus,"(LeConte, 1856)",,,,,,Sandhills Crayfish,,,EX,,3.1,2010,unknown,N,United States (Georgia),
+654,18338,ANIMALIA,CHORDATA,MAMMALIA,LAGOMORPHA,PROLAGIDAE,Prolagus,sardus,"(Wagner, 1832)",,,,,,Sardinian Pika,PIKA SARDE,PIKA DE CERDEÑA,EX,,3.1,2008,,N,France (Corsica); Italy (Sardegna),1774
+655,62289108,ANIMALIA,CHORDATA,AVES,CHARADRIIFORMES,SCOLOPACIDAE,Prosobonia,cancellata,"(Gmelin, 1789)",,,,,,Christmas Sandpiper,,,EX,,3.1,2014,,N,Kiribati,1850
+656,22728772,ANIMALIA,CHORDATA,AVES,CHARADRIIFORMES,SCOLOPACIDAE,Prosobonia,ellisi,"(Gmelin, 1789)",,,,,,Moorea Sandpiper,,,EX,,3.1,2012,,N,French Polynesia,1777
+657,22693330,ANIMALIA,CHORDATA,AVES,CHARADRIIFORMES,SCOLOPACIDAE,Prosobonia,leucoptera,"(Gmelin, 1789)",,,,,,"Tahiti Sandpiper, Tahiti Sandpiper",,,EX,,3.1,2012,,N,French Polynesia,1777
+658,18384,ANIMALIA,CHORDATA,ACTINOPTERYGII,OSMERIFORMES,RETROPINNIDAE,Prototroctes,oxyrhynchus,"Günther, 1870",,,,,,New Zealand Grayling,,,EX,,3.1,2014,unknown,N,New Zealand,1860
+659,22685156,ANIMALIA,CHORDATA,AVES,PSITTACIFORMES,PSITTACIDAE,Psephotellus,pulcherrimus,"(Gould, 1845)",,,,,Psephotus pulcherrimus,"Paradise Parrot, Beautiful Parakeet",,"Loro del Paraíso, Perico del Paraíso",EX,,3.1,2014,,N,Australia,1928
+660,184618,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Pseudamnicola,barratei,"Letourneux & Bourguignat, 1887",,,,,Amnicola globulina from Limoguess  ,,,,EX,,3.1,2010,,N,Tunisia,1970
+661,184524,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Pseudamnicola,desertorum,"(Bourguignat, 1862)",,,,,,,,,EX,,3.1,2010,,N,Algeria,1864
+662,184753,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Pseudamnicola,doumeti,"Letourneux & Bourguignat, 1887",,,,,,,,,EX,,3.1,2010,,N,Tunisia,1970
+663,184742,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Pseudamnicola,globulina,"Letourneux & Bourguignat, 1887",,,,,,,,,EX,,3.1,2010,,N,Tunisia,1970
+664,184497,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Pseudamnicola,latasteana,"Letourneux & Bourguignat, 1887",,,,,,,,,EX,,3.1,2010,,N,Tunisia,
+665,184558,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Pseudamnicola,oudrefica,"(Letourneux & Bourguignat, 1887)",,,,,Amnicola paradoxa  ,,,,EX,,3.1,2010,,N,Tunisia,1970
+666,184731,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Pseudamnicola,ragia,"Letourneux & Bourguignat, 1887",,,,,Amnicola sterea  ,,,,EX,,3.1,2010,,N,Tunisia,
+667,184612,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Pseudamnicola,singularis,"Letourneux & Bourguignat, 1887",,,,,,,,,EX,,3.1,2010,,N,Tunisia,
+668,135292,ANIMALIA,ARTHROPODA,INSECTA,PHASMIDA,DIAPHEROMERIDAE,Pseudobactricia,ridleyi,(Kirby 1904),,,,,Bactricia ridleyi  ,Ridley's Stick Insect,,,EX,,3.1,2008,,N,Singapore,
+669,18487,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,HYGROMIIDAE,Pseudocampylaea,loweii,"(A. Férussac, 1835)",,,,,,,,,EX,,3.1,2013,,N,Portugal (Madeira),1878
+670,29614,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ENDODONTIDAE,Pseudohelenoconcha,spurca,"(Sowerby, 1844)",,,,,Pseudocampylaea dianae  |Pseudocampylaea laetissima  |Pseudocampylaea persoluta  |Pseudocampylaea spurca  ,,,,EX,,2.3,1996,,N,"Saint Helena, Ascension and Tristan da Cunha",
+671,18564,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,MURIDAE,Pseudomys,glaucus,"Thomas, 1910",,,,,,"Blue-grey Mouse, Blue-gray Mouse",,,EX,,3.1,2008,,N,"Australia (New South Wales, Queensland)",1956
+672,18551,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,MURIDAE,Pseudomys,gouldii,"(Waterhouse, 1839)",,,,,,Gould's Mouse,,,EX,,3.1,2008,,N,"Australia (New South Wales, South Australia, Victoria, Western Australia)",1856
+673,58811,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,RHACOPHORIDAE,Pseudophilautus,adspersus,"(Günther, 1872)",,,,,Ixalus adspersus  |Philautus adspersus  ,,,,EX,,3.1,2004,,N,Sri Lanka,
+674,58835,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,RHACOPHORIDAE,Pseudophilautus,dimbullae,"(Shreve, 1940)",,,,,Philautus dimbullae  |Rhacophorus dimbullae  ,,,,EX,,3.1,2004,,N,Sri Lanka,
+675,58839,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,RHACOPHORIDAE,Pseudophilautus,eximius,"(Shreve, 1940)",,,,,Philautus eximius  ,,,,EX,,3.1,2004,,N,Sri Lanka,
+676,58840,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,RHACOPHORIDAE,Pseudophilautus,extirpo,"(Manamendra-Arachchi & Pethiyagoda, 2005)",,,,,Philautus extirpo  ,,,,EX,,3.1,2004,,N,Sri Lanka,
+677,58852,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,RHACOPHORIDAE,Pseudophilautus,halyi,"(Boulenger, 1904)",,,,,Ixalus halyi  |Philautus halyi  ,,,,EX,,3.1,2004,,N,Sri Lanka,
+678,58855,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,RHACOPHORIDAE,Pseudophilautus,hypomelas,"(Günther, 1876)",,,,,Ixalus hypomelas  |Philautus hypomelas  ,,,,EX,,3.1,2004,,N,Sri Lanka,
+679,58862,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,RHACOPHORIDAE,Pseudophilautus,leucorhinus,"(Lichtenstein & Martens, 1856)",,,,,Ixalus leucorhinus  |Philautus leucorhinus  ,,,,EX,,3.1,2004,,N,Sri Lanka,
+680,136000,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,RHACOPHORIDAE,Pseudophilautus,maia,"(Meegaskumbura, Manamendra-Arachchi, Schneider & Pethiyagoda, 2007)",,,,,Philautus maia  ,,,,EX,,3.1,2008,,N,Sri Lanka,
+681,58869,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,RHACOPHORIDAE,Pseudophilautus,malcolmsmithi,"(Ahl, 1927)",,,,,Philautus malcolmsmithi  |Rhacophorus malcolmsmithi  ,,,,EX,,3.1,2004,,N,Sri Lanka,
+682,58877,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,RHACOPHORIDAE,Pseudophilautus,nanus,"(Günther, 1869)",,,,,Philautus nanus  |Polypedates nanus  ,,,,EX,,3.1,2004,,N,Sri Lanka,
+683,58878,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,RHACOPHORIDAE,Pseudophilautus,nasutus,"(Günther, 1869 ""1868"")",,,,,Ixalus nasutus  |Philautus nasutus  ,,,,EX,,3.1,2004,,N,Sri Lanka,
+684,58883,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,RHACOPHORIDAE,Pseudophilautus,oxyrhynchus,"(Günther, 1872)",,,,,Ixalus oxyrhynchus  |Philautus oxyrhynchus  ,,,,EX,,3.1,2004,,N,Sri Lanka,
+685,136163,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,RHACOPHORIDAE,Pseudophilautus,pardus,"(Meegaskumbura, Manamendra-Arachchi, Schneider & Pethiyagoda, 2007)",,,,,Philautus pardus  ,,,,EX,,3.1,2008,,N,Sri Lanka,
+686,58895,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,RHACOPHORIDAE,Pseudophilautus,rugatus,"(Ahl, 1927)",,,,,Philautus rugatus  |Rhacophorus rugatus  ,,,,EX,,3.1,2004,,N,Sri Lanka,1927
+687,58919,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,RHACOPHORIDAE,Pseudophilautus,stellatus,"(Kelaart, 1853)",,,,,Philautus stellatus  |Polypedates stellata  ,,,,EX,,3.1,2004,,N,Sri Lanka,
+688,58924,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,RHACOPHORIDAE,Pseudophilautus,temporalis,"(Günther, 1864)",,,,,Ixalus temporalis  |Philautus temporalis  ,,,,EX,,3.1,2004,,N,Sri Lanka,
+689,58931,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,RHACOPHORIDAE,Pseudophilautus,variabilis,"(Günther, 1858)",,,,,Ixalus variabilis  |Philautus variabilis  ,,,,EX,,3.1,2004,,N,Sri Lanka,
+690,58938,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,RHACOPHORIDAE,Pseudophilautus,zal,"(Manamendra-Arachchi & Pethiyagoda, 2005)",,,,,Philautus zal  ,,,,EX,,3.1,2004,,N,Sri Lanka,
+691,58939,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,RHACOPHORIDAE,Pseudophilautus,zimmeri,"(Ahl, 1927)",,,,,Philautus zimmeri  |Rhacophorus zimmeri  ,,,,EX,,3.1,2004,,N,Sri Lanka,
+692,40747,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Pseudophoxinus,handlirschi,"(Pietschmann, 1933)",,,,,Acanthorutilus handlirschi|Oreoleuciscus handlirschi  |Phoxinellus handlirschi  ,Egirdir Minnow,,,EX,,3.1,2014,,N,Turkey,1980
+693,44867,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,ASTERALES,COMPOSITAE,Psiadia,schweinfurthii,Balf.f.,,,,,,,,,EX,,3.1,2004,,N,Yemen (Socotra),
+694,37904,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,MYRTALES,MYRTACEAE,Psidium,dumetorum,Proctor,,,,,,,,,EX,,2.3,1998,,N,Jamaica,
+695,22728696,ANIMALIA,CHORDATA,AVES,PSITTACIFORMES,PSITTACIDAE,Psittacara,labati,"(Rothschild, 1905)",,,,,Aratinga labati,Guadeloupe Parakeet,,,EX,,3.1,2012,,N,Guadeloupe,
+696,22685465,ANIMALIA,CHORDATA,AVES,PSITTACIFORMES,PSITTACIDAE,Psittacula,exsul,"(Newton, 1872)",,,,,,Rodrigues Parakeet,,,EX,,3.1,2012,,N,Mauritius,1875
+697,22685437,ANIMALIA,CHORDATA,AVES,PSITTACIFORMES,PSITTACIDAE,Psittacula,wardi,"(E. Newton, 1867)",,,,,,"Seychelles Parakeet, Seychelles Parrot",,,EX,,3.1,2012,,N,Seychelles,1893
+698,22728800,ANIMALIA,CHORDATA,AVES,PROCELLARIIFORMES,PROCELLARIIDAE,Pterodroma,rupinarum,"Olson, 1975",,,,,,"Large St Helena Petrel, St Helena Gadfly Petrel",,,EX,,3.1,2012,,N,"Saint Helena, Ascension and Tristan da Cunha (Saint Helena (main island))",1502
+699,18718,ANIMALIA,CHORDATA,MAMMALIA,CHIROPTERA,PTEROPODIDAE,Pteropus,brunneus,"Dobson, 1878",,,,,,"Percy Island Flying Fox, Dusky Flying Fox",,Zorro Volador De Las Islas Percy,EX,,3.1,2008,,N,Australia,
+700,18749,ANIMALIA,CHORDATA,MAMMALIA,CHIROPTERA,PTEROPODIDAE,Pteropus,pilosus,"K. Andersen, 1908",,,,,,"Large Palau Flying Fox, Palau Fruit Bat, Palau Flying-fox",,Zorro Volador De Las Islas Palau,EX,,3.1,2008,,N,Palau,1874
+701,18761,ANIMALIA,CHORDATA,MAMMALIA,CHIROPTERA,PTEROPODIDAE,Pteropus,subniger,"(Kerr, 1792)",,,,,,"Lesser Mascarene Flying-fox, Dark Flying Fox",,Zorro Volador Oscuro De Mauricio,EX,,3.1,2008,,N,Mauritius; Runion,1859
+702,18763,ANIMALIA,CHORDATA,MAMMALIA,CHIROPTERA,PTEROPODIDAE,Pteropus,tokudae,"Tate, 1934",,,,,,"Guam Flying Fox, Guam Fruit Bat",,Zorro Volador De Tokuda,EX,,3.1,2008,,N,Guam,1968
+703,22691495,ANIMALIA,CHORDATA,AVES,COLUMBIFORMES,COLUMBIDAE,Ptilinopus,mercierii,"(Des Murs & Prévost, 1849)",,,,,,"Red-moustached Fruit-dove, Moustached Fruit Dove, Red-moustached Fruit-Dove",,,EX,,3.1,2012,,N,French Polynesia,1922
+704,44504,ANIMALIA,CHORDATA,ACTINOPTERYGII,PERCIFORMES,CICHLIDAE,Ptychochromis,onilahy,"Stiassny & Sparks, 2006",,,,,Ptychochromis sp. nov. 'Kotro',,,,EX,,3.1,2004,,N,Madagascar,1962
+705,44513,ANIMALIA,CHORDATA,ACTINOPTERYGII,PERCIFORMES,CICHLIDAE,Ptychochromoides,itasy,"Sparks, 2004",,,,,,,,,EX,,3.1,2004,,N,Madagascar,1960
+706,18912,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PUPILLIDAE,Pupilla,obliquicosta,"Smith, 1892",,,,,,,,,EX,,2.3,1996,,N,"Saint Helena, Ascension and Tristan da Cunha",
+707,40048,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Pyrgulopsis,nevadensis,"(Stearns, 1833)",,,,,,Corded Pyrg,,,EX,,2.3,2000,,N,United States (Nevada),1994
+708,19057,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,HELICARIONIDAE,Quintalia,flosculus,"Cox, 1866",,,,,,,,,EX,,2.3,1996,,N,Norfolk Island,
+709,19058,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,HELICARIONIDAE,Quintalia,stoddartii,"Gray, 1834",,,,,,,,,EX,,2.3,1996,,N,Norfolk Island,
+710,22724314,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,ICTERIDAE,Quiscalus,palustris,"(Swainson, 1827)",,,,,,Slender-billed Grackle,,,EX,,3.1,2012,,N,Mexico,1910
+711,39212,PLANTAE,MARCHANTIOPHYTA,JUNGERMANNIOPSIDA,PORELLALES,RADULACEAE,Radula,visiniaca,C.Massal.,,,,,,,,,EX,,2.3,2000,,N,Italy,
+712,22690059,ANIMALIA,CHORDATA,AVES,COLUMBIFORMES,COLUMBIDAE,Raphus,cucullatus,"(Linnaeus, 1758)",,,,,,Dodo,,,EX,,3.1,2012,,N,Mauritius,1662
+713,19344,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,MURIDAE,Rattus,macleari,"(Thomas, 1887)",,,,,,Maclear's Rat,,,EX,,3.1,2009,,N,Christmas Island,1902
+714,19351,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,MURIDAE,Rattus,nativitatis,"(Thomas, 1889)",,,,,,"Bulldog Rat, Christmas Island Burrowing Rat",,,EX,,3.1,2009,,N,Christmas Island,1897
+715,35044,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,GENTIANALES,APOCYNACEAE,Rauvolfia,nukuhivensis,(Fosberg & Sachet) Lorence & Butaud,,,,,Ochrosia nukuhivensis,,,,EX,,2.3,1998,,N,French Polynesia (Marquesas),
+716,19440,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CERASTIDAE,Rhachis,comorensis,,,,,,,,,,EX,,2.3,1996,,N,Mayotte,
+717,19441,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CERASTIDAE,Rhachis,sanguineus,,,,,,,,,,EX,,2.3,1996,,N,Mauritius,
+718,168122,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CERASTIDAE,Rhachistia,aldabrae,"(Martens, 1898)",,,,,,Aldabra Banded Snail,,,EX,,3.1,2009,,N,Seychelles (Aldabra),1970
+719,19460,ANIMALIA,ARTHROPODA,INSECTA,COLEOPTERA,DYTISCIDAE,Rhantus,novacaledoniae,"Balfour-Browne, 1944",,,,,,,,,EX,,2.3,1996,,N,New Caledonia,
+720,19461,ANIMALIA,ARTHROPODA,INSECTA,COLEOPTERA,DYTISCIDAE,Rhantus,orbignyi,,,,,,,,,,EX,,2.3,1996,,N,Argentina; Brazil,
+721,19462,ANIMALIA,ARTHROPODA,INSECTA,COLEOPTERA,DYTISCIDAE,Rhantus,papuanus,"Balfour-Browne, 1939",,,,,,,,,EX,,2.3,1996,,N,Papua New Guinea,
+722,19475,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,MYOBATRACHIDAE,Rheobatrachus,silus,"Liem, 1973",,,,,,"Southern Gastric Brooding Frog, Southern Platypus Frog",,,EX,,3.1,2004,,N,Australia,1981
+723,19476,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,MYOBATRACHIDAE,Rheobatrachus,vitellinus,"Mahony, Tyler & Davies, 1984",,,,,,"Eungella Gastric-brooding Frog, Northern Gastric Brooding Frog",,,EX,,3.1,2004,,N,Australia,1985
+724,19490,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Rhinichthys,deaconi,"Miller, 1984",,,,,,Las Vegas Dace,,,EX,,3.1,2013,,N,United States,
+725,19661,ANIMALIA,CHORDATA,ACTINOPTERYGII,SILURIFORMES,TRICHOMYCTERIDAE,Rhizosomichthys,totae,"(Miles, 1942)",,,,,Pygidium totae,,,"pez graso, runcho",EX,,2.3,1996,,N,Colombia,1942
+726,22720745,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,FRINGILLIDAE,Rhodacanthis,flaviceps,"Rothschild, 1892",,,,,,"Lesser Koa-finch, Lesser Koa-Finch",,,EX,,3.1,2012,,N,United States (Hawaiian Is.),1891
+727,22720749,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,FRINGILLIDAE,Rhodacanthis,palmeri,"(Rothschild, 1892)",,,,,,"Greater Koa-finch, Greater Koa-Finch",,,EX,,3.1,2012,,N,United States (Hawaiian Is.),1896
+728,19695,ANIMALIA,ARTHROPODA,INSECTA,TRICHOPTERA,RHYACOPHILIDAE,Rhyacophila,amabilis,"Denning, 1965",,,,,,Castle Lake Caddisfly,,,EX,,2.3,1996,,N,United States,
+729,19724,ANIMALIA,ARTHROPODA,INSECTA,COLEOPTERA,CURCULIONIDAE,Rhyncogonus,bryani,"Perkins, 1919",,,,,,,,,EX,,3.1,2014,,N,United States (Hawaiian Is.),1911
+730,19741,ANIMALIA,PLATYHELMINTHES,TURBELLARIA,TRICLADIDA,DUGESIIDAE,Romankenkius,pedderensis,"Ball, 1974",,,,,,Lake Pedder Planarian,,,EX,,2.3,1996,,N,Australia,
+731,135636,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Romanogobio,antipai,"(Banarescu, 1953)",,,,,,,,,EX,,3.1,2008,,N,Romania; Ukraine,1960
+732,4288,ANIMALIA,CHORDATA,MAMMALIA,CETARTIODACTYLA,CERVIDAE,Rucervus,schomburgki,"(Blyth, 1863)",,,,,Cervus schomburgki  ,Schomburgk's Deer,,,EX,,3.1,2015,,N,Thailand,1932
+733,61190,ANIMALIA,CHORDATA,ACTINOPTERYGII,SALMONIFORMES,SALMONIDAE,Salmo,pallaryi,"Pellegrin, 1924",,,,,,,,,EX,,3.1,2006,,N,Morocco,1930
+734,19873,ANIMALIA,CHORDATA,ACTINOPTERYGII,SALMONIFORMES,SALMONIDAE,Salvelinus,agassizii,"(Garman, 1885)",,,,,Salmo agassizii,Silver Trout,,,EX,,2.3,1996,,N,United States,
+735,135421,ANIMALIA,CHORDATA,ACTINOPTERYGII,SALMONIFORMES,SALMONIDAE,Salvelinus,neocomensis,"Freyhof & Kottelat, 2005",,,,,Salmo fario subspecies profundus|Salvelinus salvelinus subspecies profundus,,,,EX,,3.1,2008,,N,Switzerland,1904
+736,135539,ANIMALIA,CHORDATA,ACTINOPTERYGII,SALMONIFORMES,SALMONIDAE,Salvelinus,profundus,"(Schillinger, 1901)",,,,,,,,,EX,,3.1,2008,,N,Austria; Germany; Switzerland,1960
+737,168200,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Samoana,inflata,Reeve,,,,,,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Marquesas),1995
+738,16340,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,PARTULIDAE,Samoana,jackieburchi,"Kondo, 1980",,,,,Partula jackieburchi  ,Polynesian Tree Snail,,,EX,,3.1,2009,,N,French Polynesia (Society Is.),1977
+739,30406,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,SANTALALES,SANTALACEAE,Santalum,fernandezianum,F. Philippi,,,,,,,,,EX,,2.3,1998,,N,Chile (Juan Fernndez Is.),
+740,22689496,ANIMALIA,CHORDATA,AVES,STRIGIFORMES,STRIGIDAE,Sceloglaux,albifacies,"(Gray, 1844)",,,,,,Laughing Owl,,"Lechuzón Cariblanco, Nínox Reidor",EX,,3.1,2012,,N,New Zealand,1914
+741,20074,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,GEOMETRIDAE,Scotorythra,megalophylla,,,,,,,Kona Giant Looper Moth,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+742,20075,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,GEOMETRIDAE,Scotorythra,nesiotes,,,,,,,Ko'Olau Giant Looper Moth,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+743,31917,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,THEALES,DIPTEROCARPACEAE,Shorea,cuspidata,Ashton,,,,,,,,,EX,,2.3,1998,,N,Malaysia (Sarawak),
+744,61503076,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CUCURBITALES,CUCURBITACEAE,Sicyos,villosus,Hook.f.,,,,,,,,Pepino de Galápagos,EX,,3.1,2014,,N,Ecuador (Galpagos),1835
+745,20207,ANIMALIA,ARTHROPODA,INSECTA,COLEOPTERA,DYTISCIDAE,Siettitia,balsetensis,"Abeille de Perrin, 1904",,,,,,Perrin's Cave Beetle,,,EX,,2.3,1996,,N,France,
+746,20257,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Sinployea,canalis,"Garrett, 1872",,,,,,,,,EX,,2.3,1996,,N,Cook Islands,
+747,20258,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Sinployea,decorticata,"Garrett, 1872",,,,,,,,,EX,,2.3,1996,,N,Cook Islands,
+748,20259,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Sinployea,harveyensis,"Garrett, 1872",,,,,,,,,EX,,2.3,1996,,N,Cook Islands,
+749,20260,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Sinployea,otareae,"Garrett, 1872",,,,,,,,,EX,,2.3,1996,,N,Cook Islands,
+750,20261,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Sinployea,planospira,"Garrett, 1872",,,,,,,,,EX,,2.3,1996,,N,Cook Islands,
+751,20262,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Sinployea,proxima,"Garrett, 1872",,,,,,,,,EX,,2.3,1996,,N,Cook Islands,
+752,20263,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Sinployea,rudis,"Garrett, 1872",,,,,,,,,EX,,2.3,1996,,N,Cook Islands,
+753,20264,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Sinployea,tenuicostata,"Garrett, 1872",,,,,,,,,EX,,2.3,1996,,N,Cook Islands,
+754,20265,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Sinployea,youngi,"Garrett, 1872",,,,,,,,,EX,,2.3,1996,,N,Cook Islands,
+755,196768,ANIMALIA,ARTHROPODA,ARACHNIDA,OPILIONES,PODOCTIDAE,Sitalcicus,gardineri,"(Hirst, 1911)",,,,,,,,,EX,,3.1,2014,,N,Seychelles (Seychelles (main island group)),1908
+756,20322,ANIMALIA,CHORDATA,MAMMALIA,EULIPOTYPHLA,SOLENODONTIDAE,Solenodon,marcanoi,"(Patterson, 1962)",,,,,,Marcano's Solenodon,,,EX,,3.1,2008,,N,Dominican Republic,
+757,40053,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Somatogyrus,alcoviensis,"Krieger, 1915",,,,,,Reverse Pebblesnail,,,EX,,2.3,2000,,N,United States (Georgia),
+758,20350,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Somatogyrus,amnicoloides,"Walker, 1915",,,,,,Oachita Pebblesnail,,,EX,,2.3,2000,,N,United States (Arkansas),
+759,20355,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Somatogyrus,crassilabris,"Walker, 1915",,,,,,Thick-lipped Pebblesnail,,,EX,,3.1,2011,,N,United States (Arkansas),
+760,20370,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Somatogyrus,wheeleri,"Walker, 1915",,,,,,Channeled Pebblesnail,,,EX,,2.3,2000,,N,United States (Arkansas),
+761,201488,ANIMALIA,ARTHROPODA,DIPLOPODA,SPIROBOLIDA,SPIROBOLELIIDAE,Spirobolellus,praslinus,"Saussure & Zehntner, 1902",,,,,,,,,EX,,3.1,2014,,N,Seychelles (Seychelles (main island group)),1902
+762,43927,PLANTAE,TRACHEOPHYTA,LILIOPSIDA,CYPERALES,GRAMINEAE,Sporobolus,durus,Brongn.,,,,,Vilfa brongniartii  ,,,,EX,,3.1,2012,,N,"Saint Helena, Ascension and Tristan da Cunha (Ascension)",2003
+763,177724,ANIMALIA,MOLLUSCA,GASTROPODA,HYGROPHILA,LYMNAEIDAE,Stagnicola,pilsbryi,"Hemphill, 1890",,,,,,Fish Springs Marshsnail,,,EX,,3.1,2012,,N,United States (Utah),1968
+764,62798337,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,CARYOPHYLLALES,CARYOPHYLLACEAE,Stellaria,elatinoides,Hook.f.,,,,,,,,,EX,,3.1,2014,,N,"New Zealand (North Is., South Is.)",1940
+765,31011,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,PROTEALES,PROTEACEAE,Stenocarpus,dumbeensis,Guillaumin,,,,,,,,,EX,,2.3,1998,,N,New Caledonia,
+766,32923,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,MALVALES,STERCULIACEAE,Sterculia,khasiana,Deb.,,,,,,,,,EX,,2.3,1998,,N,India (Meghalaya),
+767,196290,ANIMALIA,ARTHROPODA,ARACHNIDA,ARANEAE,SPARASSIDAE,Stipax,triangulifer,"Simon, 1898",,,,,,,,,EX,,3.1,2014,,N,Seychelles (Seychelles (main island group)),1894
+768,20867,ANIMALIA,ARTHROPODA,INSECTA,DIPTERA,TABANIDAE,Stonemyia,volutina,,,,,,,Volutine Stoneyian Tabanid Fly,,,EX,,2.3,1996,,N,United States,
+769,30393,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FABALES,LEGUMINOSAE,Streblorrhiza,speciosa,Endl.,,,,,,,,,EX,,2.3,1998,,N,Norfolk Island,
+770,20995,ANIMALIA,ARTHROPODA,MALACOSTRACA,AMPHIPODA,CRANGONYCTIDAE,Stygobromus,lucifugus,"(Hay, 1882)",,,,,Crangonyx lucifugus  ,Rubious Cave Amphipod,,,EX,,2.3,1996,,N,United States (Illinois),
+771,21120,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Stypodon,signifer,"Garman, 1881",,,,,,Stumptooth Minnow,,,EX,,2.3,1996,,N,Mexico,
+772,21250,ANIMALIA,ARTHROPODA,MALACOSTRACA,DECAPODA,ATYIDAE,Syncaris,pasadenae,"(Kingsley, 1897)",,,,,Caradina pasadenae  |Syncaris pasadenas  ,"Pasadena Freshwater Shrimp, Pasadena Shrimp",,,EX,,3.1,2013,unknown,N,United States (California),1897
+773,22696558,ANIMALIA,CHORDATA,AVES,PODICIPEDIFORMES,PODICIPEDIDAE,Tachybaptus,rufolavatus,"(Delacour, 1932)",,,,,,"Alaotra Grebe, Delacour's Little Grebe, Alaotra Dabchick, Madagascar Red-necked Grebe",Grèbe de Delacour,,EX,,3.1,2012,,N,Madagascar,1989
+774,21286,ANIMALIA,CHORDATA,REPTILIA,SQUAMATA,SCINCIDAE,Tachygyia,microlepis,"(Duméril & Bibron, 1839)",,,,,Eumeces microlepis|Tachygia microlepis,Tonga Ground Skink,,,EX,,3.1,2012,stable,N,Tonga,
+775,21338,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Taipidon,anceyana,"Garrett, 1887",,,,,,,,,EX,,2.3,1996,,N,French Polynesia,
+776,21339,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Taipidon,marquesana,"Garrett, 1887",,,,,,,,,EX,,2.3,1996,,N,French Polynesia,
+777,21340,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CHAROPIDAE,Taipidon,octolamellata,"Garrett, 1887",,,,,,,,,EX,,2.3,1996,,N,French Polynesia,
+778,21530,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,MYOBATRACHIDAE,Taudactylus,diurnus,"Straughan and Lee, 1966",,,,,,"Mount Glorious Day Frog, Mount Glorious Torrent Frog, Southern Day Frog",,,EX,,3.1,2004,,N,Australia,1979
+779,61394,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,CYPRINIDAE,Telestes,ukliva,"(Heckel, 1843)",,,,,Leuciscus ukliva  ,,,,EX,,3.1,2006,,N,Croatia,1988
+780,21663,ANIMALIA,CHORDATA,REPTILIA,SQUAMATA,GERRHOSAURIDAE,Tetradactylus,eastwoodae,"Methuen & Hewitt, 1913",,,,,,"Eastwood's Longtailed Seps, Eastwood's Whip Lizard",,,EX,,2.3,1996,,N,South Africa (Limpopo Province),1912
+781,21718,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ENDODONTIDAE,Thaumatodon,multilamellata,"Garrett, 1887",,,,,,,,,EX,,2.3,1996,,N,Cook Islands,
+782,196286,ANIMALIA,ARTHROPODA,ARACHNIDA,ARANEAE,SPARASSIDAE,Thomasettia,seychellana,"Hirst, 1911",,,,,,,,,EX,,3.1,2014,,N,Seychelles (Seychelles (main island group)),1908
+783,22728791,ANIMALIA,CHORDATA,AVES,PELECANIFORMES,THRESKIORNITHIDAE,Threskiornis,solitarius,"(Mourer-Chauviré & Moutou, 1987)",,,,,Raphus solitarius ,"Reunion Ibis, Réunion Ibis, Réunion Flightless Ibis, Réunion Solitaire",,,EX,,3.1,2012,,N,Runion,1761
+784,21866,ANIMALIA,CHORDATA,MAMMALIA,DASYUROMORPHIA,THYLACINIDAE,Thylacinus,cynocephalus,"(Harris, 1808)",,,,,,"Thylacine, Tasmanian Tiger, Tasmanian Wolf",Loup marsupial,"Lobo de Tasamania, Lobo Marsupial",EX,,3.1,2008,,N,Australia (Tasmania),1933
+785,21920,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,TISCHERIIDAE,Tischeria,perplexa,"Braun, 1972",,,,,,Chestnut Clearwing Moth,,,EX,,2.3,1996,,N,United States,
+786,29615,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ORTHALICIDAE,Tomigerus,gibberulus,"(Burrow, 1815)",,,,,Tornigenus gibberulus subspecies digerus,,,,EX,,2.3,1996,,N,Brazil,
+787,29616,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ORTHALICIDAE,Tomigerus,turbinatus,"(Pfeiffer, 1845)",,,,,Tornigenus turbinatus subspecies biolocus,,,,EX,,2.3,1996,,N,Brazil,
+788,21996,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ACHATINELLIDAE,Tornelasmias,capricorni,"Iredale, 1944",,,,,,,,,EX,,2.3,1996,,N,Australia,
+789,22698593,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,ACANTHISITTIDAE,Traversia,lyalli,"(Rothschild, 1894)",,,,,Xenicus lyalli lyalli,Stephens Island Wren,,,EX,,3.1,2012,,N,New Zealand,1895
+790,22087,ANIMALIA,ARTHROPODA,INSECTA,TRICHOPTERA,LEPTOCERIDAE,Triaenodes,phalacris,"Ross, 1938",,,,,,Athens Caddisfly,,,EX,,2.3,1996,,N,United States,
+791,22088,ANIMALIA,ARTHROPODA,INSECTA,TRICHOPTERA,LEPTOCERIDAE,Triaenodes,tridonata,,,,,,,Three-tooth Caddisfly,,,EX,,2.3,1996,,N,United States,
+792,62274163,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Tribonyx,hodgenorum,"(Olson, 1986)",,,,,,Hodgen's Waterhen,,,EX,,3.1,2014,,N,New Zealand,
+793,22147,ANIMALIA,ARTHROPODA,INSECTA,COLEOPTERA,CURCULIONIDAE,Trigonoscuta,rossi,"Pierce, 1975",,,,,,Fort Ross Weevil,,,EX,,3.1,2014,,N,United States (California),1975
+794,22148,ANIMALIA,ARTHROPODA,INSECTA,COLEOPTERA,CURCULIONIDAE,Trigonoscuta,yorbalindae,"Pierce, 1975",,,,,,Yorba Linda Weevil,,,EX,,3.1,2014,,N,United States (California),1975
+795,62798347,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,SANTALALES,LORANTHACEAE,Trilepidea,adamsii,(Cheeseman) Tiegh.,,,,,,Adams Mistletoe,,,EX,,3.1,2014,,N,New Zealand (North Is.),1954
+796,60792,ANIMALIA,CHORDATA,ACTINOPTERYGII,PERCIFORMES,CICHLIDAE,Tristramella,intermedia,"Steinitz & Ben-Tuvia, 1959",,,,,,,,,EX,,3.1,2006,,N,Israel,1970
+797,61365,ANIMALIA,CHORDATA,ACTINOPTERYGII,PERCIFORMES,CICHLIDAE,Tristramella,magdelainae,"(Lortet, 1883)",,,,,,,,,EX,,3.1,2006,,N,Syrian Arab Republic,1950
+798,61372,ANIMALIA,CHORDATA,ACTINOPTERYGII,PERCIFORMES,CICHLIDAE,Tristramella,sacra,"(Günther, 1865)",,,,,Chromis paterfamilias|Hemichromis sacra,Long Jaw Tristramella,,,EX,,3.1,2014,,N,Israel,1989
+799,22209,ANIMALIA,ARTHROPODA,INSECTA,LEPIDOPTERA,GEOMETRIDAE,Tritocleis,microphylla,,,,,,,Ola'A Peppered Looper Moth,,,EX,,2.3,1996,,N,United States (Hawaiian Is.),
+800,30561,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,MALVALES,STERCULIACEAE,Trochetiopsis,melanoxylon,(Sol. ex Sims) Marais,,,,,,St Helena Ebony Tree,,,EX,,2.3,1998,,N,"Saint Helena, Ascension and Tristan da Cunha (Saint Helena (main island))",
+801,22248,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,HYGROMIIDAE,Trochoidea,picardi,"F. Haas, 1933",,,,,,,,,EX,,2.3,1996,,N,Israel,
+802,22342,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,POMATIIDAE,Tropidophora,desmazuresi,"Crosse, 1873",,,,,,,,,EX,,2.3,1996,,N,Mauritius (Rodrigues),
+803,22343,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,POMATIIDAE,Tropidophora,semilineata,,,,,,,,,,EX,,2.3,1996,,N,Mayotte,
+804,22379,ANIMALIA,ARTHROPODA,MAXILLOPODA,CALANOIDA,DIAPTOMIDAE,Tropodiaptomus,ctenopus,"(Kiefer, 1930)",,,,,Diaptomus ctenopus  ,,,,EX,,2.3,1996,,N,Madagascar,
+805,22708835,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,TURDIDAE,Turdus,ravidus,"(Cory, 1886)",,,,,,Grand Cayman Thrush,,,EX,,3.1,2012,,N,Cayman Islands,1938
+806,22705595,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,TURNAGRIDAE,Turnagra,capensis,"(Sparrman, 1787)",,,,,,"South Island Piopio, Piopio, New Zealand Thrush",,,EX,,3.1,2012,,N,New Zealand,1905
+807,22728820,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,TURNAGRIDAE,Turnagra,tanagra,"(Schlegel, 1865)",,,,,,North Island Piopio,,,EX,,3.1,2012,,N,New Zealand,1902
+808,22607,ANIMALIA,CHORDATA,REPTILIA,SQUAMATA,TYPHLOPIDAE,Typhlops,cariei,"Hoffstetter, 1946",,,,,,,,,EX,,2.3,1996,,N,Mauritius,
+809,22740,ANIMALIA,MOLLUSCA,BIVALVIA,UNIONOIDA,UNIONIDAE,Unio,cariei,"Germain, 1919",,,,,,,,,EX,,2.3,1996,,N,Runion,
+810,22728670,ANIMALIA,CHORDATA,AVES,BUCEROTIFORMES,UPUPIDAE,Upupa,antaios,"Olson, 1975",,,,,,St Helena Hoopoe,,,EX,,3.1,2012,,N,"Saint Helena, Ascension and Tristan da Cunha (Saint Helena (main island))",1502
+811,45081,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,DIPSACALES,VALERIANACEAE,Valerianella,affinis,Balf.f.,,,,,,,,,EX,,3.1,2004,,N,Yemen (Socotra),
+812,43993,PLANTAE,RHODOPHYTA,FLORIDEOPHYCEAE,CERAMIALES,DELESSERIACEAE,Vanvoorstia,bennettiana,(Harv.) Papenf.,,,,,Claudea bennettiana  |Sonderia bennettiana  ,Bennett's Seaweed,,,EX,,3.1,2003,,N,Australia (New South Wales),1855
+813,191546,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,ASTERALES,COMPOSITAE,Vernonia,sechellensis,Baker,,,,,Cacalia sechellensis  |Vernonia seychellensis  ,,,,EX,,3.1,2011,,N,Seychelles (Seychelles (main island group)),1874
+814,165210,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,VIOLALES,VIOLACEAE,Viola,cryana,Gillot,,,,,,,"Pensée de Cry, Violette de Cry",,EX,,3.1,2013,,N,France (France (mainland)),1927
+815,23033,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ARIOPHANTIDAE,Vitrinula,chaunax,,,,,,,,,,EX,,2.3,1996,,N,Japan (Ogasawara-shoto),
+816,23034,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ARIOPHANTIDAE,Vitrinula,chichijimana,,,,,,,,,,EX,,2.3,1996,,N,Japan (Ogasawara-shoto),
+817,23035,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,ARIOPHANTIDAE,Vitrinula,hahajimana,,,,,,,,,,EX,,2.3,1996,,N,Japan (Ogasawara-shoto),
+818,31036,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,ROSALES,CUNONIACEAE,Weinmannia,spiraeoides,A.Gray,,,,,,,,,EX,,2.3,1998,,N,Fiji,
+819,31213,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,RUBIALES,RUBIACEAE,Wendlandia,angustifolia,Wight,,,,,,,,,EX,,2.3,1998,,N,India (Tamil Nadu),
+820,30971,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,MYRTALES,THYMELAEACEAE,Wikstroemia,skottsbergiana,Sparre,,,,,,Skottsberg's Wikstroemia,,,EX,,2.3,1998,,N,United States (Hawaiian Is.),
+821,30972,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,MYRTALES,THYMELAEACEAE,Wikstroemia,villosa,Hbd.,,,,,,Hairy Wikstroemia,,,EX,,2.3,1998,,N,United States (Hawaiian Is.),
+822,31311,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,MYRTALES,MYRTACEAE,Xanthostemon,sebertii,Guillaumin,,,,,,,,,EX,,2.3,1998,,N,New Caledonia,
+823,22698580,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,ACANTHISITTIDAE,Xenicus,longipes,"(Gmelin, 1789)",,,,,,"Bush Wren, Bushwren, New Zealand Bush Wren",,,EX,,3.1,2012,,N,New Zealand,1972
+824,136515,ANIMALIA,CHORDATA,MAMMALIA,PRIMATES,PITHECIIDAE,Xenothrix,mcgregori,"Williams & Koopman, 1952",,,,,,Jamaican Monkey,,,EX,,3.1,2008,,N,Jamaica,1700
+825,23164,ANIMALIA,CHORDATA,ACTINOPTERYGII,PERCIFORMES,CICHLIDAE,Xystichromis,bayoni,"Greenwood, 1980",,,,,,,,,EX,,2.3,1996,,N,Uganda,
+826,41667,ANIMALIA,CHORDATA,MAMMALIA,CARNIVORA,OTARIIDAE,Zalophus,japonicus,"(Peters, 1866)",,,,,Zalophus californianus subspecies japonicus,Japanese Sea Lion,,,EX,,3.1,2015,,N,"Japan; Korea, Democratic People's Republic of; Korea, Republic of",1950
+827,22728760,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Zapornia,astrictocarpus,"(Olson, 1973)",,,,,Porzana astrictocarpus,St Helena Rail,,,EX,,3.1,2012,,N,"Saint Helena, Ascension and Tristan da Cunha (Saint Helena (main island))",1502
+828,22692708,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Zapornia,monasa,"(Kittlitz, 1858)",,,,,Porzana monasa,Kosrae Crake,,,EX,,3.1,2012,,N,"Micronesia, Federated States of ",1827
+829,22728757,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Zapornia,nigra,"(J.F. Miller, 1784)",,,,,Porzana nigra,Miller's Rail,,,EX,,3.1,2012,,N,French Polynesia,1784
+830,22692672,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Zapornia,palmeri,"(Frohawk, 1892)",,,,,Porzana palmeri,"Laysan Rail, Laysan Crake",,,EX,,3.1,2012,,N,United States (Hawaiian Is.),1944
+831,22692693,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Zapornia,sandwichensis,"(Gmelin, 1789)",,,,,Porzana sandwichensis,"Hawaiian Rail, Hawaiian Crake",,,EX,,3.1,2012,,N,United States (Hawaiian Is.),1884
+832,22708535,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,TURDIDAE,Zoothera,terrestris,"(Kittlitz, 1831)",,,,,,Bonin Thrush,,,EX,,3.1,2012,,N,Japan,1828
+833,22714223,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,ZOSTEROPIDAE,Zosterops,strenuus,"Gould, 1855",,,,,,Robust White-eye,,,EX,,3.1,2012,,N,Australia,1908

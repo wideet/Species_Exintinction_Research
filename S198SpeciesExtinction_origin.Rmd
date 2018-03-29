@@ -1,0 +1,83 @@
+---
+title: "Untitled"
+author: "Ziyang Zhou"
+date: "4/21/2017"
+output: html_document
+---
+
+```{r}
+setwd("~/Desktop/STAT198/Data_reproduce")
+VertebrateDF <-read.csv("Vertebrate_Extinction_Year_Berkerley_2017.csv")
+load("highlyconservative_origin.rda")
+load("conservative_origin.rda")
+HC <- EXtt
+C <- EXtot
+```
+
+```{r}
+#plot extinct species
+ggplot(VertebrateDF[VertebrateDF$Category == "EX",], aes(Year.extinct)) +
+  geom_histogram(binwidth = 25, alpha = 0.2,color = "black", boundary= 0 ) +
+  scale_y_continuous(breaks = seq(0,140,20)) + 
+  xlab("The year when the animials was last seen") +
+  ggtitle("Extinct Vertebrates Count Since 1500, Original Data") + 
+  theme_bw() + 
+  theme(plot.title = element_text(hjust = 0.5))+
+  theme(plot.title = element_text(size = rel(1.2)),
+        axis.text.y = element_text(size = rel(1.2)),
+        axis.text.x = element_text(size = rel(1.2)))
+
+ggsave("Counts_origin.png", dpi = 400, width = 5.58, height = 4.53, units = "in")
+```
+
+```{r}
+#highlyconservative
+ggplot(HC, aes(x = TimeInterval,y = CumPer, group = category)) +
+  geom_line(aes(colour = category), size = 1.2) + 
+  labs(x = "Time Interval", 
+       y = "Cumulative extinctions as % of IUCN-evaluated species", 
+       title = "Cumulative Extinction Rate (Highly Conservative,Original Data)",
+       color = "Animal Category") +
+  scale_color_discrete(label = c("background","Birds", "Mammal","Others","Vertebrates")) + 
+  scale_y_continuous(breaks = seq(0,1.60,0.2), limits = c(0, 1.6)) + 
+  scale_color_manual(values=c("grey50","tomato4", "blue4", "khaki3", "green4")) + 
+  theme_bw() + 
+  theme(plot.title = element_text(size = rel(1.2)),
+        axis.text.y = element_text(size = rel(1.2)),
+        axis.text.x = element_text(size = rel(1.2)),
+        legend.position = c(0.15,0.75),
+        legend.text = element_text(size = rel(1.2)),
+        legend.title = element_text(size = rel(1.2)),
+        legend.direction = "vertical", 
+        legend.spacing = unit(8,"mm"),
+        legend.key.size = unit(10,"mm"),
+        legend.background = element_rect(colour = "black"))+
+        theme(plot.title = element_text(hjust = 0.5))
+
+ggsave("HighCon_origin.png", scale = 1.2, dpi = 400)
+
+#conservative
+ggplot(C, aes(x = TimeInterval,y = CumPer, group = category)) +
+  geom_line(aes(colour = category), size = 0.8) + 
+  labs(x = "Time Interval", 
+       y = "Cumulative extinctions as % of IUCN-evaluated species", 
+       title = "Cumulative Extinction Rate (Conservative,Original Data)",
+       color = "Animal Category") +
+  scale_color_discrete(label = c("Background","Birds", "Mammal","Others","Vertebrates")) + 
+  scale_y_continuous(breaks = seq(0,2.50,0.5), limits = c(0, 2.5)) + 
+  scale_color_manual(values=c("grey50","tomato4", "blue4", "khaki3", "green4")) + 
+  theme_bw() + 
+  theme(plot.title = element_text(size = rel(1.2)),
+        axis.text.y = element_text(size = rel(1.2)),
+        axis.text.x = element_text(size = rel(1.2)),
+        legend.position = c(0.15,0.75),
+        legend.text = element_text(size = rel(1.2)),
+        legend.title = element_text(size = rel(1.2)),
+        legend.direction = "vertical", 
+        legend.spacing = unit(8,"mm"),
+        legend.key.size = unit(10,"mm"),
+        legend.background = element_rect(colour = "black"))+
+        theme(plot.title = element_text(hjust = 0.5))
+ggsave("Con_origin.png", scale = 1.2, dpi = 400)
+
+```
